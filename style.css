@@ -167,6 +167,12 @@ a{
 .voffset{
 	margin-top:30px;
 }
+/* Dividers */
+
+.b-divider{
+	border-top:1px solid rgba(0,0,0,.1);
+	border-bottom:1px solid rgba(0,0,0,.1);
+}
 
 /* Bloc text custom styling */
 
@@ -181,6 +187,9 @@ a{
 #bloc-2 p{
 	font-weight: 300;
 	font-family: PT Sans;
+}
+#bloc-2 h3{
+	font-size: 21px;
 }
 #bloc-3 h3{
 	font-size: 20px;
@@ -212,9 +221,22 @@ a{
 }
 #bloc-6 p{
 	font-weight: 300;
-	font-family: PT Sans;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
 }
 #bloc-8 p{
+	font-weight: 400;
+	font-family: 'PT Sans';
+	font-size: 14px;
+	line-height: 25px;
+}
+#bloc-9 p{
+	font-weight: 400;
+	font-family: 'PT Sans';
+	font-size: 14px;
+}
+#bloc-10 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -485,6 +507,25 @@ button{
 iframe{
 	border:0;
 }
+/* = Carousel
+-------------------------------------------------------------- */
+
+.carousel-control span{
+	position: absolute;
+	top: 50%;
+	z-index: 5;
+	display: inline-block;
+}
+.carousel-control{
+	color:#FFF!important;
+	text-shadow: none;
+}
+.carousel-indicators li{
+	margin: 0 4px;
+}
+.carousel-indicators .active{
+	margin: 0 4px -1px;
+}
 
 /* = Custom Colour Styling
 -------------------------------------------------------------- */
@@ -534,14 +575,14 @@ iframe{
 .bg-scoialmusic{
 	background-image:url("img/scoialmusic.png");
 }
-.bg-musicdeatilBG{
-	background-image:url("img/musicdeatilBG.png");
-}
-.bg-musicdeatilBG{
-	background-image:url("img/musicdeatilBG.png");
-}
 .bg-line{
 	background-image:url("img/line.png");
+}
+.bg-musicdeatilBG{
+	background-image:url("img/musicdeatilBG.png");
+}
+.bg-musicdeatilBG{
+	background-image:url("img/musicdeatilBG.png");
 }
 
 
