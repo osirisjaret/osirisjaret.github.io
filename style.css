@@ -235,7 +235,13 @@ a{
 	font-weight: 400;
 	font-family: PT Sans;
 }
-#bloc-10 p{
+#bloc-12 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-15 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -582,6 +588,9 @@ iframe{
 }
 .bg-musicdeatilBG{
 	background-image:url("img/musicdeatilBG.png");
+}
+.bg-JOAHero{
+	background-image:url('img/JOAHero.png');
 }
 
 
