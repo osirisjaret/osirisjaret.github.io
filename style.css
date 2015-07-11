@@ -241,7 +241,13 @@ a{
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-15 p{
+#bloc-17 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-20 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -590,7 +596,10 @@ iframe{
 	background-image:url("img/musicdeatilBG.png");
 }
 .bg-JOAHero{
-	background-image:url('img/JOAHero.png');
+	background-image:url("img/JOAHero.png");
+}
+.bg-USAManHero{
+	background-image:url("img/USAManHero.png");
 }
 
 
