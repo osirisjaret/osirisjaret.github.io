@@ -247,7 +247,13 @@ a{
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-20 p{
+#bloc-22 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-25 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -600,6 +606,9 @@ iframe{
 }
 .bg-USAManHero{
 	background-image:url("img/USAManHero.png");
+}
+.bg-cloudfemaleHero{
+	background-image:url("img/cloudfemaleHero.png");
 }
 
 
