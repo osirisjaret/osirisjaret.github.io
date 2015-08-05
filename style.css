@@ -9,6 +9,7 @@ body{
     background:#FFF;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 a:hover{text-decoration: none; cursor:pointer;}
 
@@ -64,6 +65,19 @@ a{
 }
 .bloc-sm{
 	padding:20px 50px;
+}
+
+
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-center{
+	-webkit-background-size: auto;
 }
 
 
@@ -233,7 +247,8 @@ a{
 }
 #bloc-9 p{
 	font-weight: 400;
-	font-family: PT Sans;
+	font-family: 'PT Sans';
+	line-height: 25px;
 }
 #bloc-12 p{
 	font-weight: 300;
@@ -253,7 +268,7 @@ a{
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-25 p{
+#bloc-28 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -347,7 +362,7 @@ a{
 .nav > li > .dropdown a{
 	background: none!important;
 	display: block;
-	padding: 10px 15px;
+	padding: 15px 15px;
 }
 
 nav .caret{
@@ -544,6 +559,27 @@ iframe{
 	margin: 0 4px -1px;
 }
 
+
+/* ScrollToTop button */
+
+.scrollToTop{
+	width:40px;
+	height:40px;
+	position:fixed;
+	bottom:20px;
+	right:20px;
+	opacity: 0;
+	z-index: 500;
+	transition: all .3s ease-in-out;
+}
+.scrollToTop span{
+	margin-top: 6px;
+}
+.showScrollTop{
+	font-size: 14px;
+	opacity: 1;
+}
+
 /* = Custom Colour Styling
 -------------------------------------------------------------- */
 
@@ -552,17 +588,20 @@ iframe{
 .bgc-white{
 	background-color:#ffffff;
 }
+.bgc-anti-flash-white{
+	background-color:#F1F1F1;
+}
 /* Text colour styles */
 
-.tc-gray-htmlcss-gray{
+.tc-outer-space{
+	color:#47454B!important;
+	!important}.tc-gray-htmlcss-gray{
 	color:#7E7E7E!important;
 }
 .tc-carrot-orange{
 	color:#F39E25!important;
 }
-.tc-outer-space{
-	color:#47454B!important;
-	!important}/* Link colour styles */
+/* Link colour styles */
 
 .ltc-gray-htmlcss-gray{
 	color:#7E7E7E!important;
@@ -572,11 +611,11 @@ iframe{
 }
 /* Icon colour styles */
 
-.icon-bright-turquoise{
+.icon-gray-htmlcss-gray{
 	color:#7E7E7E!important;
 	border-color:#7E7E7E!important;
 }
-.icon-bright-turquoise-2{
+.icon-bright-turquoise{
 	color:#09DED6!important;
 	border-color:#09DED6!important;
 }
@@ -610,11 +649,21 @@ iframe{
 .bg-cloudfemaleHero{
 	background-image:url("img/cloudfemaleHero.png");
 }
+.bg-book{
+	background-image:url("img/book.png");
+}
 
 
 
 /* = Mobile adjustments 
 -------------------------------------------------------------- */
+@media (max-width: 1024px)
+{
+    .bloc{
+        padding-left: 20px; 
+        padding-right: 20px;  
+    }
+}
 @media (max-width: 768px)
 {
     .container{width:100%;}
