@@ -268,7 +268,18 @@ a{
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-28 p{
+#bloc-30 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-32 p{
+	font-weight: 400;
+	font-family: 'PT Sans';
+	line-height: 25px;
+}
+#bloc-33 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -651,6 +662,12 @@ iframe{
 }
 .bg-book{
 	background-image:url("img/book.png");
+}
+.bg-newsBG{
+	background-image:url("img/newsBG.png");
+}
+.bg-newsBG{
+	background-image:url('img/newsBG.png');
 }
 
 
