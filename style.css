@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    Jaret Zen
+/*	    Jaret Zen_lite
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -65,19 +65,6 @@ a{
 }
 .bloc-sm{
 	padding:20px 50px;
-}
-
-
-/* Background Styles */
-
-.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
-	-webkit-background-size: auto!important;
-	-moz-background-size: auto!important;
-	-o-background-size: auto!important;
-	background-size: auto!important;
-}
-.bg-center{
-	-webkit-background-size: auto;
 }
 
 
@@ -202,9 +189,6 @@ a{
 	font-weight: 300;
 	font-family: PT Sans;
 }
-#bloc-2 h3{
-	font-size: 21px;
-}
 #bloc-3 h3{
 	font-size: 20px;
 	font-weight: 400;
@@ -233,53 +217,75 @@ a{
 	font-size: 14px;
 	line-height: 20px;
 }
-#bloc-6 p{
+#bloc-7 p{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	line-height: 25px;
 	font-size: 14px;
-}
-#bloc-8 p{
-	font-weight: 400;
-	font-family: 'PT Sans';
-	font-size: 14px;
-	line-height: 25px;
 }
 #bloc-9 p{
+	font-size: 14px;
 	font-weight: 400;
-	font-family: 'PT Sans';
-	line-height: 25px;
+	font-family: PT Sans;
 }
-#bloc-12 p{
+#bloc-9 h5{
+	font-size: 16px;
+	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-10 h5{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: PT Sans;
+}
+#bloc-10 p{
+	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-13 p{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-17 p{
+#bloc-18 p{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-22 p{
+#bloc-23 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-28 p{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	line-height: 25px;
 	font-size: 14px;
 }
 #bloc-30 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
 	font-size: 14px;
+	font-weight: 400;
+	font-family: PT Sans;
+}
+#bloc-30 h5{
+	font-size: 16px;
+	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-31 h5{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: PT Sans;
+}
+#bloc-31 p{
+	font-weight: 300;
+	font-family: PT Sans;
 }
 #bloc-32 p{
-	font-weight: 400;
-	font-family: 'PT Sans';
-	line-height: 25px;
-}
-#bloc-33 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -599,9 +605,6 @@ iframe{
 .bgc-white{
 	background-color:#ffffff;
 }
-.bgc-anti-flash-white{
-	background-color:#F1F1F1;
-}
 /* Text colour styles */
 
 .tc-outer-space{
@@ -645,12 +648,6 @@ iframe{
 .bg-line{
 	background-image:url("img/line.png");
 }
-.bg-musicdeatilBG{
-	background-image:url("img/musicdeatilBG.png");
-}
-.bg-musicdeatilBG{
-	background-image:url("img/musicdeatilBG.png");
-}
 .bg-JOAHero{
 	background-image:url("img/JOAHero.png");
 }
@@ -665,6 +662,21 @@ iframe{
 }
 .bg-newsBG{
 	background-image:url("img/newsBG.png");
+}
+.bg-newsBG{
+	background-image:url("img/newsBG.png");
+}
+.bg-musicdeatilBG{
+	background-image:url("img/musicdeatilBG.png");
+}
+.bg-loopdetailBG{
+	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-loopdetailBG{
+	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-loopdetailBG{
+	background-image:url('img/loopdetailBG.jpg');
 }
 .bg-newsBG{
 	background-image:url('img/newsBG.png');
