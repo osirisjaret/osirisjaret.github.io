@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    Jaret Zen_lite
+/*	    Jaret Zen
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -185,107 +185,123 @@ a{
 	font-size: 48px;
 	line-height: 52px;
 }
+#bloc-2 h3{
+	font-weight: 400;
+	font-family: 'PT Sans';
+	font-size: 16px;
+	line-height: 17px;
+}
 #bloc-2 p{
-	font-weight: 300;
+	font-weight: 400;
 	font-family: PT Sans;
 }
 #bloc-3 h3{
-	font-size: 20px;
-	font-weight: 400;
-	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 300;
+	font-family: PT Sans;
 }
 #bloc-3 p{
 	font-weight: 400;
 	font-family: 'PT Sans';
 	line-height: 20px;
 }
-#bloc-4 h6{
+#bloc-4 h3{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	font-size: 16px;
+	line-height: 17px;
+}
+#bloc-4 p{
+	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-5 h6{
 	font-weight: 400;
 	font-family: 'PT Sans';
 	font-size: 16px;
 	line-height: 26px;
 }
-#bloc-4 p{
+#bloc-5 p{
 	line-height: 26px;
 	font-weight: 400;
 	font-family: 'PT Sans';
 	font-size: 14px;
 }
-#bloc-4 h3{
+#bloc-5 h3{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	font-size: 14px;
 	line-height: 20px;
 }
-#bloc-7 p{
+#bloc-8 p{
 	font-weight: 300;
 	font-family: 'PT Sans';
 	line-height: 25px;
 	font-size: 14px;
 }
-#bloc-9 p{
+#bloc-10 p{
 	font-size: 14px;
 	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-9 h5{
-	font-size: 16px;
-	font-weight: 300;
 	font-family: PT Sans;
 }
 #bloc-10 h5{
 	font-size: 16px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-10 p{
 	font-weight: 300;
 	font-family: PT Sans;
 }
-#bloc-13 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-18 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-23 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-28 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-30 p{
-	font-size: 14px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-30 h5{
+#bloc-11 h5{
 	font-size: 16px;
+	font-weight: 400;
+	font-family: PT Sans;
+}
+#bloc-11 p{
 	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-14 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-19 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-24 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-29 p{
+	font-weight: 300;
+	font-family: 'PT Sans';
+	line-height: 25px;
+	font-size: 14px;
+}
+#bloc-31 p{
+	font-size: 14px;
+	font-weight: 400;
 	font-family: PT Sans;
 }
 #bloc-31 h5{
 	font-size: 16px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-31 p{
 	font-weight: 300;
 	font-family: PT Sans;
 }
+#bloc-32 h5{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: PT Sans;
+}
 #bloc-32 p{
+	font-weight: 300;
+	font-family: PT Sans;
+}
+#bloc-33 p{
 	font-weight: 400;
 	font-family: PT Sans;
 }
@@ -663,9 +679,6 @@ iframe{
 .bg-newsBG{
 	background-image:url("img/newsBG.png");
 }
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
 .bg-musicdeatilBG{
 	background-image:url("img/musicdeatilBG.png");
 }
@@ -676,10 +689,46 @@ iframe{
 	background-image:url("img/loopdetailBG.jpg");
 }
 .bg-loopdetailBG{
+	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-newsBG{
+	background-image:url("img/newsBG.png");
+}
+.bg-newsBG{
+	background-image:url("img/newsBG.png");
+}
+.bg-loopdetailBG{
+	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-newsBG{
+	background-image:url("img/newsBG.png");
+}
+.bg-loopdetailBG{
+	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-USAManHero{
+	background-image:url("img/USAManHero.png");
+}
+.bg-cloudfemaleHero{
+	background-image:url("img/cloudfemaleHero.png");
+}
+.bg-JOAHero{
+	background-image:url("img/JOAHero.png");
+}
+.bg-loopdetailBG{
 	background-image:url('img/loopdetailBG.jpg');
 }
 .bg-newsBG{
 	background-image:url('img/newsBG.png');
+}
+.bg-USAManHero{
+	background-image:url('img/USAManHero.png');
+}
+.bg-cloudfemaleHero{
+	background-image:url('img/cloudfemaleHero.png');
+}
+.bg-JOAHero{
+	background-image:url('img/JOAHero.png');
 }
 
 
@@ -753,6 +802,7 @@ iframe{
         border-bottom:1px solid rgba(0,0,0,.1);
         background:rgba(0,0,0,.05);
         text-align: left;
+        padding-left:15px;
         width:100%;
     }
     .nav > li:hover{
