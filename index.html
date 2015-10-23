@@ -8,21 +8,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
     <link rel="stylesheet" id="ppstyle" type="text/css" href="style.css">
-    <link rel='stylesheet' href='./css/animate.css' /><link rel='stylesheet' href='./css/font-awesome.min.css'/><link rel='stylesheet' href='./css/ionicons.min.css'/><link href='http://fonts.googleapis.com/css?family=Montserrat&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' href='./css/animate.css' /><link rel='stylesheet' href='./css/ionicons.min.css'/><link rel='stylesheet' href='./css/font-awesome.min.css'/><link href='http://fonts.googleapis.com/css?family=Montserrat&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <script src="./js/jquery-2.1.0.min.js"></script>
     <script src="./js/bootstrap.js"></script>
     <script src="./js/blocs.js"></script>
     
-    <title>Jaret Zen - </title>
+    <title>Jaret Zen</title>
 </head>
 <body>
 <!-- Main container -->
 <div class="page-container">
-    
-<!-- Hero Bloc -->
-<div id="hero-bloc" class="bloc hero bgc-white">
-	<div class="container bloc-sm hero-nav">
+    <!-- Hero Bloc --><div id="hero-bloc" class="bloc hero l-bloc bgc-white">
+	<div class="container bloc-sm hero-nav sticky-nav">
 		<nav class="navbar row">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="index.html"><img src="img/logo.png" width="90" /></a>
@@ -35,29 +33,39 @@
 					<li>
 						<a href="about.html" class="ltc-gray-htmlcss-gray">ABOUT</a>
 					</li>
+					<li>
+						<a id="pl-undefined" class="ltc-gray-htmlcss-gray" onclick="scrollToTarget('#bloc-2')">WORKS</a>
+					</li>
 				</ul>
 			</div>
 		</nav>
 	</div>
 	<div class="v-center text-center">
-		<div class="vc-content">
-			<h2 class=" tc-outer-space animated animDelay04 fadeInUp">
-				<strong>JARET ZEN'S</strong>
-			</h2>
-			<h1 class=" tc-outer-space mg-md animated fadeIn">
-				<strong>PORTFOLIO</strong>
-			</h1>
-			<img src="img/line.png" class="img-responsive animated fadeInDown animDelay08 center-block"/>
-			<br /><br /><br /><a id="scroll-hero" class="fa fa-chevron-down icon-1691 icon-gray-htmlcss-gray animated fadeInDown animDelay1"></a>
-			<div class="text-center">
+		<div class="vc-content row">
+			<div class="col-sm-12">
+				<div class="row">
+					<div class="col-sm-12">
+						<span class="empty-column"></span>
+					</div>
+				</div>
+				<h2 class=" mg-sm animated fadeInUp animDelay04">
+					<strong>JARET ZEN'S</strong>
+				</h2>
+				<h1 class=" mg-md animated fadeIn animDelay02 text-left text-center">
+					<strong>PORTFOLIO</strong>
+				</h1><img src="img/line.png" class="img-responsive center-block mg-lg animated fadeInDown animDelay04" />
+				<div class="row">
+					<div class="col-sm-12">
+						<span class="empty-column"></span>
+					</div>
+				</div>
+				<div class="text-center">
+					<a onclick="scrollToTarget('#bloc-2')"><span class="ion ion-chevron-down icon-sm icon-1679 animated fadeInDown animDelay1"></span></a>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
-<!-- Hero Bloc END -->
-
-<!-- bloc-2 -->
-<div class="bloc l-bloc bgc-white tc-outer-space" id="bloc-2">
+</div><!-- Hero Bloc END --><!-- bloc-2 --><div class="bloc l-bloc bgc-white tc-outer-space" id="bloc-2">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-12">
@@ -93,11 +101,7 @@
 			</div>
 		</div>
 	</div>
-</div>
-<!-- bloc-2 END -->
-
-<!-- bloc-3 -->
-<div class="bloc l-bloc bgc-white" id="bloc-3">
+</div><!-- bloc-2 END --><!-- bloc-3 --><div class="bloc l-bloc bgc-white" id="bloc-3">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-12">
@@ -117,30 +121,26 @@
 				</p>
 			</div>
 			<div class="col-sm-4">
-				<a href="sketch-practice.html"><img src="img/cloudfemalecover.png" class="img-responsive mg-md" /></a>
+				<a href="joa-digital-painting.html"><img src="img/%20JOAcover.png" class="img-responsive mg-md" /></a>
 				<h3 class="mg-sm ">
-					<strong>SKETCH PRACTICE</strong>
+					<strong>THE MESSENGER: THE STORY OF JOAN OF ARC</strong>
 				</h3>
 				<p class=" mg-lg">
 					DIGITAL PAINTING
 				</p>
 			</div>
 			<div class="col-sm-4">
-				<a href="joa-digital-painting.html"><img src="img/%20JOAcover.png" class="img-responsive mg-md" /></a>
+				<a href="brochure.html"><img src="img/%20JOAcover.png" class="img-responsive mg-md" /></a>
 				<h3 class="mg-sm ">
-					<strong>THE MESSENGER: THE STORY OF JOAN OF ARC</strong>
+					<strong>BROCHURE</strong>
 				</h3>
 				<p class=" mg-md">
-					DIGITAL PAINTING
+					GRAPHIC DESIGN
 				</p>
 			</div>
 		</div>
 	</div>
-</div>
-<!-- bloc-3 END -->
-
-<!-- bloc-4 -->
-<div class="bloc l-bloc bgc-white" id="bloc-4">
+</div><!-- bloc-3 END --><!-- bloc-4 --><div class="bloc l-bloc bgc-white" id="bloc-4">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-12">
@@ -179,16 +179,7 @@
 			</div>
 		</div>
 	</div>
-</div>
-<!-- bloc-4 END -->
-
-<!-- ScrollToTop Button -->
-<a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span class="fa fa-chevron-up"></span></a>
-<!-- ScrollToTop Button END-->
-
-
-<!-- Footer - bloc-33 -->
-<div class="bloc l-bloc bgc-white" id="bloc-33">
+</div><!-- bloc-4 END --><!-- ScrollToTop Button --><a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span class="fa fa-chevron-up"></span></a><!-- ScrollToTop Button END--><!-- Footer - bloc-33 --><div class="bloc l-bloc bgc-white" id="bloc-33">
 	<div class="container bloc-lg">
 		<div class="col-sm-12 col-md-8 col-md-offset-2">
 			<div class="text-center">
@@ -202,9 +193,7 @@
 			</p>
 		</div>
 	</div>
-</div>
-<!-- Footer - bloc-33 END -->
-
+</div><!-- Footer - bloc-33 END -->
 </div>
 <!-- Main container END -->
 
