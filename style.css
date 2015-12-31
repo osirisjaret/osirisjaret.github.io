@@ -358,6 +358,15 @@ nav .caret{
 	box-shadow:0 1px 2px rgba(0,0,0,.3);
 	 transition: all .2s ease-out;
 }
+#hero-bloc .sticky{
+	background-color:rgb(255, 255, 255);
+	width:100%;
+	max-width: 100%;
+}
+#hero-bloc .sticky .navbar{
+	max-width: 1170px;
+	margin: 0 auto;
+}
 
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
