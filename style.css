@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    Jaret Zen
+/*	    Jaret Portfolio
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -16,20 +16,12 @@ a:hover{text-decoration: none; cursor:pointer;}
 a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
 
 
-a{
-	color:lor:#7E7E7E!important;
-}
- a:hover{
-	color:#000000!important;
-	 text-decoration: none;
-	 cursor:pointer;
-}
-
+   
 
 
 /* Globals type styling */
  h1, h2, h3, h4, h5, h6, p, label, .btn, a{
-	font-family:Montserrat;
+	font-family:Helvetica;
 }
 
 
@@ -166,149 +158,56 @@ a{
 
 /* Row Margin Offsets */
 
-.voffset{
-	margin-top:30px;
-}
-/* Dividers */
-
-.b-divider{
-	border-top:1px solid rgba(0,0,0,.1);
-	border-bottom:1px solid rgba(0,0,0,.1);
+.voffset-md{
+	margin-top:50px;
 }
 
 /* Bloc text custom styling */
 
-#hero-bloc h2{
-	line-height: 32px;
-	font-size: 28px;
+#hero-bloc h4{
+	font-weight: 300;
+	font-family: Helvetica;
 }
 #hero-bloc h1{
-	line-height: 72px;
-	font-size: 64px;
-}
-#bloc-2 h3{
-	font-weight: 400;
-	font-family: 'PT Sans';
-	font-size: 16px;
-	line-height: 17px;
-}
-#bloc-2 p{
-	font-weight: 400;
-	font-family: PT Sans;
+	font-weight: 700;
+	font-family: Montserrat;
+	line-height: 76px;
+	font-size: 72px;
 }
 #bloc-3 h3{
-	font-size: 16px;
-	font-weight: 300;
-	font-family: PT Sans;
-}
-#bloc-3 p{
-	font-weight: 400;
-	font-family: 'PT Sans';
-	line-height: 20px;
+	font-size: 15px;
 }
 #bloc-4 h3{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	font-size: 16px;
-	line-height: 17px;
+	font-size: 15px;
+	line-height: 26px;
+}
+#bloc-4 h3{
+	font-weight: 900;
+	font-family: Helvetica;
+	font-size: 15px;
+	line-height: 26px;
 }
 #bloc-4 p{
-	font-weight: 300;
-	font-family: PT Sans;
+	font-weight: 100;
+	font-family: Helvetica;
 }
-#bloc-5 h6{
-	font-weight: 400;
-	font-family: 'PT Sans';
-	font-size: 16px;
+#bloc-4 h5{
+	font-weight: 100;
+	font-family: Helvetica;
+}
+#bloc-6 h3{
+	font-weight: 600;
+	font-family: Montserrat;
+}
+#bloc-6 p{
 	line-height: 26px;
+	font-size: 15px;
 }
-#bloc-5 p{
-	line-height: 26px;
-	font-weight: 400;
-	font-family: 'PT Sans';
-	font-size: 14px;
+#bloc-6 p{
+	font-size: 15px;
 }
-#bloc-5 h3{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	font-size: 14px;
-	line-height: 20px;
-}
-#bloc-8 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-10 p{
-	font-size: 14px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-10 h5{
+#bloc-6 h4{
 	font-size: 16px;
-	font-weight: 300;
-	font-family: PT Sans;
-}
-#bloc-11 h3{
-	font-size: 24px;
-	line-height: 26px;
-}
-#bloc-11 h5{
-	font-size: 16px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-11 p{
-	font-weight: 300;
-	font-family: PT Sans;
-}
-#bloc-14 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-19 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-24 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-29 p{
-	font-weight: 300;
-	font-family: 'PT Sans';
-	line-height: 25px;
-	font-size: 14px;
-}
-#bloc-31 p{
-	font-size: 14px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-31 h5{
-	font-size: 16px;
-	font-weight: 300;
-	font-family: PT Sans;
-}
-#bloc-32 h5{
-	font-size: 16px;
-	font-weight: 400;
-	font-family: PT Sans;
-}
-#bloc-32 p{
-	font-weight: 300;
-	font-family: PT Sans;
-}
-#bloc-33 p{
-	font-weight: 400;
-	font-family: PT Sans;
 }
 
 /* = NavBar
@@ -459,22 +358,10 @@ nav .caret{
 	box-shadow:0 1px 2px rgba(0,0,0,.3);
 	 transition: all .2s ease-out;
 }
-#hero-bloc .sticky{
-	background-color:rgb(255, 255, 255);
-	width:100%;
-	max-width: 100%;
-}
-#hero-bloc .sticky .navbar{
-	max-width: 1170px;
-	margin: 0 auto;
-}
 
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
-.mg-clear{
-	margin:0;
-}
 .mg-sm{
 	margin-top:10px;
 	margin-bottom:5px;
@@ -519,14 +406,6 @@ button{
 	outline: none!important;
 }
 
-.a-btn{
-	padding: 6px 10px 6px 0;
-	line-height: 1.42857143;
-	display:inline-block;
-}
-.text-center .a-btn{
-	padding: 6px 0;
-}
 .dropdown a .caret{
 	margin:0 0 0 5px}
 /* = Icons
@@ -534,15 +413,15 @@ button{
 .icon-sm{
 	font-size:18px!important;
 }
-.icon-md{
-	font-size:30px!important;
-}
 
 
 /* = Text Widths
 -------------------------------------------------------------- */
-.text-w-sm{
-	max-width:150px;
+.text-w-md{
+	max-width:300px;
+}
+.text-w-lg{
+	max-width:400px;
 }
 .text-center.text-w-sm, .text-center.text-w-md, .text-center.text-w-lg{
 	margin-left: auto;
@@ -619,25 +498,8 @@ iframe{
 	margin: 0 4px -1px;
 }
 
-
-/* ScrollToTop button */
-
-.scrollToTop{
-	width:40px;
-	height:40px;
-	position:fixed;
-	bottom:20px;
-	right:20px;
-	opacity: 0;
-	z-index: 500;
-	transition: all .3s ease-in-out;
-}
-.scrollToTop span{
-	margin-top: 6px;
-}
-.showScrollTop{
-	font-size: 14px;
-	opacity: 1;
+.no-shadows .carousel-control.left, .no-shadows .carousel-control.right{
+	background-image: none;
 }
 
 /* = Custom Colour Styling
@@ -648,116 +510,30 @@ iframe{
 .bgc-white{
 	background-color:#ffffff;
 }
+.bgc-white-smoke{
+	background-color:#F5F5F5;
+}
 /* Text colour styles */
 
 .tc-outer-space{
 	color:#47454B!important;
-	!important}.tc-gray-htmlcss-gray{
-	color:#7E7E7E!important;
+	!important}.tc-dark-jungle-green{
+	color:#212121!important;
 }
-.tc-carrot-orange{
-	color:#F39E25!important;
+.tc-davys-grey{
+	color:#5E5E5E!important;
 }
-/* Link colour styles */
-
-.ltc-gray-htmlcss-gray{
-	color:#7E7E7E!important;
-}
-.ltc-gray-htmlcss-gray:hover{
-	color:#656565!important;
-}
-.ltc-bright-turquoise{
-	color:#09DED6!important;
-}
-.ltc-bright-turquoise:hover{
-	color:#07b2ab!important;
-}
-/* Icon colour styles */
-
-.icon-bright-turquoise{
-	color:#09DED6!important;
-	border-color:#09DED6!important;
+.tc-taupe-gray{
+	color:#909090!important;
 }
 
 /* Bloc image backgrounds */
 
-}.bg-Me{
-	background-image:url("img/Me.jpg");
-}
-.bg-scoialmusic{
-	background-image:url("img/scoialmusic.png");
-}
-.bg-scoialmusic{
-	background-image:url("img/scoialmusic.png");
-}
-.bg-line{
-	background-image:url("img/line.png");
-}
-.bg-JOAHero{
-	background-image:url("img/JOAHero.png");
-}
-.bg-USAManHero{
-	background-image:url("img/USAManHero.png");
-}
-.bg-cloudfemaleHero{
-	background-image:url("img/cloudfemaleHero.png");
-}
-.bg-book{
-	background-image:url("img/book.png");
-}
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
-.bg-musicdeatilBG{
-	background-image:url("img/musicdeatilBG.png");
-}
 .bg-loopdetailBG{
 	background-image:url("img/loopdetailBG.jpg");
 }
 .bg-loopdetailBG{
 	background-image:url("img/loopdetailBG.jpg");
-}
-.bg-loopdetailBG{
-	background-image:url("img/loopdetailBG.jpg");
-}
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
-.bg-loopdetailBG{
-	background-image:url("img/loopdetailBG.jpg");
-}
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
-.bg-loopdetailBG{
-	background-image:url("img/loopdetailBG.jpg");
-}
-.bg-USAManHero{
-	background-image:url("img/USAManHero.png");
-}
-.bg-cloudfemaleHero{
-	background-image:url("img/cloudfemaleHero.png");
-}
-.bg-JOAHero{
-	background-image:url("img/JOAHero.png");
-}
-.bg-loopdetailBG{
-	background-image:url("img/loopdetailBG.jpg");
-}
-.bg-newsBG{
-	background-image:url("img/newsBG.png");
-}
-.bg-USAManHero{
-	background-image:url("img/USAManHero.png");
-}
-.bg-cloudfemaleHero{
-	background-image:url("img/cloudfemaleHero.png");
-}
-.bg-JOAHero{
-	background-image:url("img/JOAHero.png");
 }
 
 
