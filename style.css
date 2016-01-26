@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    Jaret Portfolio
+/*	    jaret
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -174,39 +174,49 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	line-height: 76px;
 	font-size: 72px;
 }
-#bloc-3 h3{
-	font-size: 15px;
+#works p{
+	font-size: 13px;
 }
-#bloc-4 h3{
-	font-size: 15px;
-	line-height: 26px;
-}
-#bloc-4 h3{
-	font-weight: 900;
-	font-family: Helvetica;
+#about h3{
 	font-size: 15px;
 	line-height: 26px;
-}
-#bloc-4 p{
 	font-weight: 100;
 	font-family: Helvetica;
 }
-#bloc-4 h5{
+#about p{
 	font-weight: 100;
 	font-family: Helvetica;
 }
-#bloc-6 h3{
+#about h5{
+	font-weight: 100;
+	font-family: Helvetica;
+}
+#bloc-5 h3{
 	font-weight: 600;
 	font-family: Montserrat;
 }
-#bloc-6 p{
+#bloc-5 p{
 	line-height: 26px;
 	font-size: 15px;
 }
-#bloc-6 p{
+#bloc-5 h4{
+	font-size: 16px;
+}
+#bloc-5 p{
 	font-size: 15px;
 }
-#bloc-6 h4{
+#bloc-7 h3{
+	font-weight: 600;
+	font-family: Montserrat;
+}
+#bloc-7 p{
+	line-height: 26px;
+	font-size: 15px;
+}
+#bloc-7 p{
+	font-size: 15px;
+}
+#bloc-7 h4{
 	font-size: 16px;
 }
 
@@ -357,6 +367,15 @@ nav .caret{
 	z-index:1000;
 	box-shadow:0 1px 2px rgba(0,0,0,.3);
 	 transition: all .2s ease-out;
+}
+#hero-bloc .sticky{
+	background-color:rgb(255, 255, 255);
+	width:100%;
+	max-width: 100%;
+}
+#hero-bloc .sticky .navbar{
+	max-width: 1170px;
+	margin: 0 auto;
 }
 
 /* = Bric adjustment margins
@@ -534,6 +553,15 @@ iframe{
 }
 .bg-loopdetailBG{
 	background-image:url("img/loopdetailBG.jpg");
+}
+.bg-loop{
+	background-image:url("img/loop.png");
+}
+.bg-newsappdetailBG{
+	background-image:url("img/newsappdetailBG.jpg?timestamp=1453009422963");
+}
+.bg-newsappdetailBG{
+	background-image:url("img/newsappdetailBG.jpg");
 }
 
 

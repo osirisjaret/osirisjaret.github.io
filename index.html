@@ -19,13 +19,19 @@
 <!-- Main container -->
 <div class="page-container">
     <!-- Hero Bloc --><div id="hero-bloc" class="bloc hero l-bloc bgc-white">
-	<div class="container bloc-sm hero-nav">
+	<div class="container bloc-sm hero-nav sticky-nav">
 		<nav class="navbar row">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="index.html"><img src="img/logo.svg" alt="logo" width="96" /></a>
+				<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+					<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+				</button>
 			</div>
 			<div class="navbar-collapse navbar-1 collapse in">
 				<ul class="site-navigation nav navbar-nav">
+					<li>
+						<a id="pl-undefined" onclick="scrollToTarget('#about')">ABOUT</a>
+					</li>
 				</ul>
 			</div>
 		</nav>
@@ -43,52 +49,37 @@
 					A Product UX Designer
 				</h4>
 				<div class="text-center">
-					<a onclick="scrollToTarget('#bloc-2')"><span class="ion ion-chevron-down icon-sm icon-2770 animated fadeInDown animDelay1"></span></a>
+					<a onclick="scrollToTarget('#works')"><span class="ion ion-chevron-down icon-sm icon-2770 animated fadeInDown animDelay1"></span></a>
 				</div>
 			</div>
 		</div>
 	</div>
-</div><!-- Hero Bloc END --><!-- bloc-2 --><div class="bloc l-bloc bgc-white" id="bloc-2">
+</div><!-- Hero Bloc END --><!-- works --><div class="bloc l-bloc bgc-white" id="works">
 	<div class="container bloc-lg">
 		<div class="row">
-			<div class="col-sm-12">
+			<div class="col-sm-2">
+				<a href="loop.html"></a>
+				<p class="mg-lg ">
+					<br /><br /><br /><br />
+				</p>
+			</div>
+			<div class="col-sm-8">
 				<div class="divider-h">
 					<span class="divider divider-half"></span>
 				</div>
 				<h4 class="text-left text-w-md text-center mg-md tc-dark-jungle-green">
 					SELECTED WORK
-				</h4><img src="img/line.png" class="img-responsive center-block mg-lg" /><a href="loop.html"><img src="img/loopslide2.png" class="img-responsive center-block" /></a>
-			</div>
-		</div>
-	</div>
-</div><!-- bloc-2 END --><!-- bloc-3 --><div class="bloc l-bloc bgc-white" id="bloc-3">
-	<div class="container bloc-lg">
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="divider-h">
-					<span class="divider divider-half"></span>
-				</div>
-				<h4 class="mg-md text-center tc-dark-jungle-green">
-					PROTOTYPE
 				</h4><img src="img/line.png" class="img-responsive center-block mg-lg" />
-				<div class="row">
-					<div class="col-sm-4">
-						<img src="img/lockscreen_cover.jpg" class="img-responsive mg-md" />
-						<h3 class="mg-md ">
-							Android Lock Screen Prototype with Pixate
-						</h3>
-					</div>
-					<div class="col-sm-4">
-						<span class="empty-column"></span>
-					</div>
-					<div class="col-sm-4">
-						<span class="empty-column"></span>
-					</div>
-				</div>
+				<p class="mg-lg">
+					<br />
+				</p><a href="loop.html"><img src="img/loopappcover.png" class="center-block mg-lg img-responsive" /></a>
+			</div>
+			<div class="col-sm-2">
+				<span class="empty-column"></span>
 			</div>
 		</div>
 	</div>
-</div><!-- bloc-3 END --><!-- bloc-4 --><div class="bloc bgc-white-smoke tc-davys-grey" id="bloc-4">
+</div><!-- works END --><!-- about --><div class="bloc bgc-white-smoke tc-davys-grey" id="about">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-12">
@@ -98,43 +89,49 @@
 			</div>
 		</div>
 		<div class="row voffset-md">
-			<div class="col-sm-3">
+			<div class="col-sm-2">
 				<span class="empty-column"></span>
 			</div>
-			<div class="col-sm-6">
-				<img src="img/profilepic.png" class="img-circle mg-md center-block" width="96" height="96" />
-				<h3 class="mg-md  tc-dark-jungle-green">
-					<i>Currently I am working at</i> <a class="ltc-2638" href="#" target="_blank"><u><strong><i>YoukuTudou</i></strong></u></a><i>, one of China's biggest video sites.<br />I carry a great passion for user experience and visual design for creating elegant products for users.<br /><br /><br /></i>
-				</h3>
-				<h3 class="text-left  mg-md tc-dark-jungle-green">
-					<span>WORK EXPERIENCE</span>
-				</h3>
-				<p class="text-left text-w-lg mg-lg ">
-					8 years graphic design experience with more than 5 years designing mobile device interfaces and user experience design on both Android and iOS platforms.Especially on user experience, product prototyping, graphic design, strategic thinking on user experience and product.<br /><br />
-				</p><img src="img/outline.svg" class="img-responsive mg-lg" />
-				<h3 class=" mg-md tc-dark-jungle-green">
-					<br /><br /><br /><br />EDUCATION BACKGROUND
-				</h3>
-				<h4 class="mg-sm tc-dark-jungle-green">
-					<strong>China Academy of Art</strong>
-				</h4>
-				<p class="mg-sm">
-					<i><strong>Bachelor of Arts, Ceramics Art &amp; Visual Design</strong></i>
-				</p>
-				<h5 class=" text-left mg-lg tc-taupe-gray">
-					September 2002 – July 2006
-				</h5>
-				<h4 class="mg-sm tc-dark-jungle-green">
-					<strong>High School of Fine arts of Shanghai University</strong>
-				</h4>
-				<p>
-					<i><strong>Outstanding graduates</strong></i>
-				</p>
-				<h5 class="mg-md tc-taupe-gray">
-					September 1999 – July 2002
-				</h5>
+			<div class="col-sm-8">
+				<div class="row">
+					<div class="col-sm-2">
+						<img src="img/profilepic.png" class="img-circle mg-md" width="96" height="96" />
+					</div>
+					<div class="col-sm-10">
+						<h3 class="mg-md  tc-dark-jungle-green text-left">
+							<i><strong>Currently I am working at <a class="ltc-2638" href="#" target="_blank"><u>YoukuTudou</u></a>, one of China's biggest video sites.<br />I carry a great passion for user experience and visual design for creating elegant products for users.<br /></strong></i><br />
+						</h3>
+						<h3 class="text-left  mg-md tc-dark-jungle-green">
+							<span>WORK EXPERIENCE</span>
+						</h3>
+						<p class="text-left text-w-lg mg-lg ">
+							<span>8 years graphic design experience with more than 5 years designing mobile device interfaces and user experience design on both Android and iOS platforms.Especially on user experience, product prototyping, graphic design, strategic thinking on user experience and product.<br /></span>
+						</p><img src="img/outline.svg" class="img-responsive mg-lg" />
+						<h3 class=" mg-md tc-dark-jungle-green">
+							<br /><br />EDUCATION BACKGROUND
+						</h3>
+						<h4 class="mg-sm tc-dark-jungle-green">
+							<strong>China Academy of Art</strong>
+						</h4>
+						<p class="mg-sm ">
+							<i><strong>Bachelor of Arts, Ceramics Art &amp; Visual Design</strong></i>
+						</p>
+						<h5 class=" text-left mg-lg tc-taupe-gray">
+							September 2002 – July 2006
+						</h5>
+						<h4 class="mg-sm tc-dark-jungle-green">
+							<strong>High School of Fine arts of Shanghai University</strong>
+						</h4>
+						<p>
+							<i><strong>Outstanding graduates</strong></i>
+						</p>
+						<h5 class="mg-md tc-taupe-gray">
+							September 1999 – July 2002
+						</h5>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-3">
+			<div class="col-sm-2">
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="row">
@@ -155,7 +152,7 @@
 			</div>
 		</div>
 	</div>
-</div><!-- bloc-4 END --><!-- Footer - bloc-7 --><div class="bloc l-bloc bgc-white" id="bloc-7">
+</div><!-- about END --><!-- Footer - footer --><div class="bloc l-bloc bgc-white" id="footer">
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-xs-12 col-md-8 col-md-offset-2">
@@ -163,12 +160,12 @@
 					<span class="divider divider-half"></span>
 				</div>
 				<h5 class="mg-md tc-taupe-gray animated fadeInUp animDelay02 text-left text-center">
-					© Jaret Zen 2015
+					© Jaret Zen 2016
 				</h5>
 			</div>
 		</div>
 	</div>
-</div><!-- Footer - bloc-7 END -->
+</div><!-- Footer - footer END -->
 </div>
 <!-- Main container END -->
 
