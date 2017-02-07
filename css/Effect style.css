@@ -1,0 +1,92 @@
+/* = Sticky Nav
+-------------------------------------------------------------- */
+
+.sticky-nav.sticky{
+	opacity:.98;
+	position:fixed;
+	top:0;
+	z-index:1000;
+	box-shadow:0 10px 30px rgba(117,117,117,.1);
+	transition: all .2s ease-out;
+}
+
+/* ScrollToTop button
+-------------------------------------------------------------- */
+
+.scrollToTop{
+	width:40px;
+	height:40px;
+	position:fixed;
+	bottom:20px;
+	border-radius:50%;
+	right:20px;
+	opacity: 0;
+	z-index: 500;
+	transition: all .3s ease-in-out;
+}
+.scrollToTop span{
+	margin-top: 6px;
+}
+.showScrollTop{
+	font-size: 14px;
+	opacity: .55;
+}
+
+/* = Custom Styling
+-------------------------------------------------------------- */
+
+.btn-readmore{
+	width:140px;
+	font-weight:normal;
+	font-family:"Helvetica";
+	height:42px;
+	text-align:center;
+	border-color:rgba(1,1,1,0.9);
+	color:#000000;
+	border-width:1px 1px 1px 1px;
+	font-size:12px;
+	text-transform:none;
+	text-decoration:none;
+	line-height:20px;
+	-webkit-transition: box-shadow 0.25s ease-out,color .2s,background-color .15s ease-in-out;
+    transition: box-shadow 0.25s ease-out,color .2s,background-color .15s easein--out;
+}
+.btn-readmore:hover{
+	background-color:#3C3C3C;
+	box-shadow:0px 6px 25px rgba(0,0,0,0.4);
+	border-style:none;
+	color:rgba(255,255,255,0.9);
+	font-size:12px;
+	text-align:center;
+	line-height:22px;
+	-webkit-transition: box-shadow 0.25s ease-out,color .2s,background-color .15s ease-in-out;
+    transition: box-shadow 0.25s ease-out,color .2s,background-color .15s easein--out;
+}
+
+/* = Lightbox
+-------------------------------------------------------------- */
+
+a[data-lightbox]{
+	position: relative;
+	display: block;
+	text-align: center;	
+}
+a[data-lightbox]:hover::before{
+	background:rgba(0,0,0,0);
+	color:rgba(0,0,0,0);
+	-webkit-transition: box-shadow 0.25s ease-out,transform 0.25s, ease-in-out;
+	transition: box-shadow 0.25s ease-out,transform 0.25s, ease-in-out;
+}
+
+a[data-lightbox] img{
+	-webkit-transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
+	transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
+}
+
+a[data-lightbox]:hover img{
+    opacity:1;
+	transform: translateY(-2%);
+	box-shadow:0 10px 20px rgba(0,0,0,.15);
+	-webkit-transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
+	transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
+}
