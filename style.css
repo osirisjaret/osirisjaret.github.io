@@ -227,55 +227,55 @@ a:hover{text-decoration: none; cursor:pointer;}
 #recentwork p{
 	font-size: 14px;
 }
-#bloc-5 h5{
+#bloc-4 h5{
 	font-size: 12px;
 	line-height: 14px;
 }
-#bloc-6 h4{
+#bloc-5 h4{
 	font-size: 18px;
 	font-weight: 800;
 	font-family: Montserrat;
 }
-#bloc-6 p{
+#bloc-5 p{
 	font-size: 13px;
 }
-#bloc-6 h3{
+#bloc-5 h3{
 	font-size: 16px;
 }
-#bloc-7 h1{
+#bloc-6 h1{
 	font-size: 72px;
 	font-weight: 900;
 	font-family: Montserrat;
 }
-#bloc-8 div{
+#bloc-7 div{
 	font-size: 24px;
 }
-#bloc-8 h2{
+#bloc-7 h2{
 	font-size: 24px;
 	font-weight: 300;
 	font-family: Montserrat;
 }
-#bloc-8 p{
+#bloc-7 p{
 	font-family: Helvetica;
 	font-size: 16px;
 	line-height: 30px;
 }
-#bloc-8 h2{
+#bloc-7 h2{
 	font-size: 24px;
 	font-weight: 400;
 	font-family: Montserrat;
 }
-#bloc-8 p{
+#bloc-7 p{
 	font-size: 16px;
 	line-height: 30px;
 }
-#bloc-8 img{
+#bloc-7 img{
 	line-height: 37.14285659790039px;
 }
-#bloc-8 h3{
+#bloc-7 h3{
 	font-size: 18px;
 }
-#bloc-8 h5{
+#bloc-7 h5{
 	line-height: 24px;
 }
 #heropage h1{
@@ -296,53 +296,53 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 24px;
 	line-height: 42px;
 }
+#bloc-14 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-14 p{
+	font-family: helvetica;
+	font-size: 16px;
+	line-height: 26px;
+}
 #bloc-15 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
-#bloc-15 p{
-	font-family: helvetica;
-	font-size: 16px;
-	line-height: 26px;
+#bloc-15 h4{
+	font-size: 24px;
+	line-height: 42px;
 }
 #bloc-16 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
-#bloc-16 h4{
-	font-size: 24px;
-	line-height: 42px;
-}
 #bloc-17 h2{
 	font-family: Montserrat;
 	line-height: 26px;
+}
+#bloc-17 h4{
+	font-size: 24px;
+	line-height: 42px;
+}
+#bloc-17 p{
+	font-family: helvetica;
+	line-height: 20px;
+	font-size: 14px;
 }
 #bloc-18 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
-#bloc-18 h4{
-	font-size: 24px;
-	line-height: 42px;
-}
-#bloc-18 p{
-	font-family: helvetica;
-	line-height: 20px;
-	font-size: 14px;
-}
 #bloc-19 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
-#bloc-20 h2{
-	font-family: Montserrat;
-	line-height: 26px;
-}
-#bloc-20 h4{
+#bloc-19 h4{
 	font-size: 24px;
 	line-height: 42px;
 }
-#bloc-20 p{
+#bloc-19 p{
 	font-family: helvetica;
 	font-size: 16px;
 	line-height: 26px;
@@ -358,11 +358,11 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 12px;
 	line-height: 18px;
 }
-#bloc-22 h2{
+#bloc-21 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
-#bloc-23 h2{
+#bloc-22 h2{
 	font-family: Montserrat;
 	line-height: 26px;
 }
