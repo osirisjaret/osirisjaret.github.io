@@ -633,83 +633,6 @@ button{
 	font-size: 14px;
 	opacity: 1;
 }
-/* = Lightbox
--------------------------------------------------------------- */
-
-a[data-lightbox]{
-	position: relative;
-	display: block;
-	text-align: center;
-}
-a[data-lightbox]:hover::before{
-	content:"+";
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
-	font-size:32px;
-	width:50px;
-	height:50px;
-	margin-left:-25px;
-	border-radius: 50%;
-	background:rgba(0,0,0,.6);
-	color:#FFF;
-	font-weight:100;
-	z-index: 1;
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	-webkit-transform: translateY(-50%);
-}
-a[data-lightbox]:hover img{
-	opacity: 0.6;
-	-webkit-animation-fill-mode: none;
-	animation-fill-mode:none;
-}
-#lightbox-modal{
-	display: flex;
-	align-items: center;
-}
-#lightbox-modal .modal-dialog{
-	width:90%;
-	max-width:900px;
-	margin:0 auto 0;
-}
-#lightbox-modal .modal-dialog img{
-	max-height:90vh;
-	margin: 0 auto;
-}
-.lightbox-caption{
-	padding: 20px;
-	color: #FFF;
-	background: rgba(0,0,0,.5);
-	position: absolute;
-	left: 15px;
-	right: 15px;
-	bottom: 5px;
-}
-.close-lightbox{
-	display: none;
-	font-size: 40px;
-	position: absolute;
-	top:8px;
-	right:20px;
-	z-index: 20;
-}
-.next-lightbox, .prev-lightbox{
-	font-size:20px;
-	color:rgba(255,255,255,.4);
-	transition: all .2s ease-in-out;
-	position: absolute;
-	top:50%;
-	z-index:1;
-}
-.next-lightbox{
-	right:25px;
-}
-.prev-lightbox{
-	left:25px;
-}
-.prev-lightbox:hover, .next-lightbox:hover{
-	color:rgba(255,255,255,.9);
-}
 
 /* = Custom Styling
 -------------------------------------------------------------- */
@@ -802,16 +725,19 @@ tooltip-inner{
 	overflow:visible;
 	padding-top:20px;
 }
+.coverimg-selectedwork:active{
+}
 .coverimg-selectedwork:hover{
 	background-color:rgba(255,255,255,0.0);
 	padding-right:0px;
 	padding-bottom:0px;
+	box-shadow:0px 12px 25px #FF0101;
 }
 .txt-worktype:hover{
 }
 .bg-selectedwork:hover{
 	text-shadow:0px 0px 0px rgba(1,1,1,0.0);
-	box-shadow:0px 3px 10px rgba(2,2,2,0.3);
+	box-shadow:0px 3px 10px rgba(0,2,2,0.3);
 	color:rgba(1,1,1,0.5);
 }
 .bg-selectedwork{
@@ -876,7 +802,7 @@ tooltip-inner{
 .conceptflow{
 	width:360px;
 }
-.textbtn{
+.Next-previus-textbtn{
 	font-size:18px;
 	color:#B9B9B9!important;
 	text-decoration:none;
@@ -884,11 +810,14 @@ tooltip-inner{
 	font-family:"Montserrat";
 	line-height:13px;
 }
-.textbtn:hover{
+.Next-previus-textbtn:hover{
 	font-family:"Montserrat";
 	color:rgba(0,0,0,0.9)!important;
 }
 .nextbtn:active{
+}
+.otherworkimg-style{
+	box-shadow:0px 10px 20px rgba(0,0,0,0.2);
 }
 
 /* = Colour
