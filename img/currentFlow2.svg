@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1350px" height="249px" viewBox="0 0 1350 249" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E7EBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="84.9532133%" id="linearGradient-2">
+            <stop stop-color="#9AEE5C" offset="0%"></stop>
+            <stop stop-color="#71D01A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <g id="Group-9" transform="translate(737.000000, 0.000000)">
+                <g id="Group-8-Copy" transform="translate(373.000000, 0.000000)">
+                    <circle id="Oval-4-Copy-3" fill="#89E241" fill-rule="nonzero" cx="120" cy="120" r="120"></circle>
+                    <g id="Send" transform="translate(91.000000, 107.000000)" fill="#187039" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <text>
+                            <tspan x="0.632" y="24.5">Send</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-3" transform="translate(188.474576, 0.000000)">
+                    <g id="Group-6">
+                        <g id="Oval-4-Copy-2">
+                            <g id="path-8-link" fill="url(#linearGradient-1)">
+                                <circle id="path-8" cx="120" cy="120" r="120"></circle>
+                            </g>
+                            <circle id="Oval" stroke="#E6E6E6" stroke-width="12" cx="120" cy="120" r="114"></circle>
+                        </g>
+                        <text id="Paste-Link" fill="#7C7F7F" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                            <tspan x="65.108" y="128">Paste Link</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-2">
+                    <g id="Group-6">
+                        <circle id="Oval-4-Copy-2" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="120" cy="120" r="120"></circle>
+                        <text id="Launch" fill="#187039" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                            <tspan x="80.3851525" y="111">Launch</tspan>
+                        </text>
+                        <text id="WeChat-App" fill="#187039" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                            <tspan x="49.0771525" y="144">WeChat App</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-7-Copy" transform="translate(419.000000, 0.000000)">
+                <g id="Group-6">
+                    <g id="Combined-Shape" transform="translate(171.183529, 153.958336) scale(-1, 1) rotate(-15.000000) translate(-171.183529, -153.958336) translate(22.683529, 49.958336)">
+                        <g id="path-12-link" fill="#000000" fill-rule="nonzero">
+                            <path d="M23.4129024,73.733727 L1.1730529,85.766641 L0.0575944,0.1267171 L78.381752,43.9927234 L52.3443202,58.080327 C66.4945795,77.485961 104.629258,129.732145 106.643613,131.852823 C137.44362,164.27855 168.97944,177.661593 201.769554,176.794275 C225.807552,176.158455 246.501733,160.271643 272.102549,146.573433 C280.289084,142.19307 290.476569,145.278582 294.856932,153.465117 C299.237296,161.651653 295.42456,171.32234 287.965249,176.219501 C259.077107,195.185043 236.094751,206.299345 205.760122,207.121029 C165.184653,208.220109 119.551926,194.263813 82.265202,155.008981 C78.665264,151.219027 35.1308367,90.156132 23.4129024,73.733727 Z" id="path-12"></path>
+                        </g>
+                        <g id="path-12-link" fill="#F5A623" stroke="#FFFFFF" stroke-width="6">
+                            <path d="M23.4129024,73.733727 L1.1730529,85.766641 L0.0575944,0.1267171 L78.381752,43.9927234 L52.3443202,58.080327 C66.4945795,77.485961 104.629258,129.732145 106.643613,131.852823 C137.44362,164.27855 168.97944,177.661593 201.769554,176.794275 C225.807552,176.158455 246.501733,160.271643 272.102549,146.573433 C280.289084,142.19307 290.476569,145.278582 294.856932,153.465117 C299.237296,161.651653 295.42456,171.32234 287.965249,176.219501 C259.077107,195.185043 236.094751,206.299345 205.760122,207.121029 C165.184653,208.220109 119.551926,194.263813 82.265202,155.008981 C78.665264,151.219027 35.1308367,90.156132 23.4129024,73.733727 Z" id="path-12"></path>
+                        </g>
+                    </g>
+                    <circle id="Oval-4-Copy-2" fill="#F5A623" fill-rule="nonzero" cx="121" cy="120" r="120"></circle>
+                    <text id="Copy" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="91.72" y="111">Copy</tspan>
+                    </text>
+                    <text id="Coupon-link" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="53.656" y="144">Coupon link</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-5-Copy" transform="translate(221.000000, 0.000000)">
+                <g id="Group-4">
+                    <circle id="Oval-4-Copy" fill="#564BA3" fill-rule="nonzero" cx="120" cy="120" r="120"></circle>
+                    <text id="Found-&amp;-open" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="41.624" y="111">Found &amp; open</tspan>
+                    </text>
+                    <text id="SMS" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="95.684" y="144">SMS</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-3-Copy">
+                <g id="Group-2">
+                    <circle id="Oval-4" fill="#39AA91" fill-rule="nonzero" cx="120" cy="120" r="120"></circle>
+                    <text id="Open-SMS" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="61.028" y="111">Open SMS</tspan>
+                    </text>
+                    <text id="App" fill="#FFFFFF" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400">
+                        <tspan x="96.836" y="144">App</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

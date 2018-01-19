@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="438px" viewBox="0 0 1600 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13" transform="translate(-1.000000, 0.000000)">
+            <ellipse id="Oval-4" fill-opacity="0.54" fill="#47BFFF" cx="576.5" cy="219" rx="570.5" ry="219"></ellipse>
+            <ellipse id="Oval-4-Copy" fill-opacity="0.54" fill="#16CD8E" cx="965.5" cy="217.5" rx="427.5" ry="168.5"></ellipse>
+            <ellipse id="Oval-4-Copy-2" fill-opacity="0.54" fill="#F5A623" cx="1314" cy="218" rx="283" ry="107"></ellipse>
+            <g id="Group" transform="translate(0.000000, 137.000000)">
+                <text id="Find" font-family="AvenirNext-Bold, Avenir Next" font-size="32" font-weight="bold" fill="#000000">
+                    <tspan x="219" y="32">Find</tspan>
+                </text>
+                <text id="Confirm" font-family="AvenirNext-Bold, Avenir Next" font-size="32" font-weight="bold" fill="#000000">
+                    <tspan x="738" y="32">Confirm</tspan>
+                </text>
+                <text id="Resolve" font-family="AvenirNext-Bold, Avenir Next" font-size="32" font-weight="bold" fill="#000000">
+                    <tspan x="1281" y="32">Resolve</tspan>
+                </text>
+                <text id="Find-the-target-user" font-family="AvenirNext-Regular, Avenir Next" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="15" y="154">Find the target user and describe their </tspan>
+                    <tspan x="15" y="187">features</tspan>
+                </text>
+                <text id="Confirm-the-target-u" font-family="AvenirNext-Regular, Avenir Next" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="553" y="155">Confirm the target users’ degree of </tspan>
+                    <tspan x="553" y="188">satisfaction for exsiting design and features</tspan>
+                </text>
+                <text id="Resolve-existing-pro" font-family="AvenirNext-Regular, Avenir Next" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="1091" y="154">Resolve existing problems and meet users’ </tspan>
+                    <tspan x="1091" y="187">expectations</tspan>
+                </text>
+                <image id="Bitmap" x="0" y="72" width="1602" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABkIAAAAjCAYAAADISRZUAAABYWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokWNgYFJJLCjIYWFgYMjNKykKcndSiIiMUmB/yMAOhLwMYgwKicnFBY4BAT5AJQwwGhV8u8bACKIv64LMOiU1tUm1XsDXYqbw1YuvRJsw1aMArpTU4mQg/QeIU5MLikoYGBhTgGzl8pICELsDyBYpAjoKyJ4DYqdD2BtA7CQI+whYTUiQM5B9A8hWSM5IBJrB+API1klCEk9HYkPtBQFul8zigpzESoUAYwKuJQOUpFaUgGjn/ILKosz0jBIFR2AopSp45iXr6SgYGRiaMzCAwhyi+nMgOCwZxc4gxJrvMzDY7v////9uhJjXfgaGjUCdXDsRYhoWDAyC3AwMJ3YWJBYlgoWYgZgpLY2B4dNyBgbeSAYG4QtAPdHFacZGYHlGHicGBtZ7//9/VmNgYJ/MwPB3wv//vxf9//93MVDzHQaGA3kAFSFl7jXH0fsAAAS3SURBVHgB7d2xDoJAEARQMPz/L2OD0JxmsJGRZ0VgiXtvm0vGi9PkQ4AAAQIECBAgQIAAAQIECBAgQIAAAQIECBD4U4F5W9c6WN/r2eCRWwQIECBAgAABAgQIECBAgAABAgQIECBAgACB6wss129RhwQIECBAgECJgB9WlAxKmwQIECBAgAABAgQIECBA4E4Cjzst1loJECBAgAABAgQIECBAgAABAgQIECBAgACBewk4EXKveVstAQIECBAgQIAAAQIECBC4ooCTpVecip4IECBAgECfwHBP4URI3yB1TIAAAQIECBAgQIAAAQIECBAgQIAAAQIECIQCgpAQShkBAgQIECBAgAABAgQIECBAgAABAgQIECDQJyAI6ZuZjgkQIECAAAECBAgQIECAAAECBAgQIECAAIFQQBASQikjQIAAAQIECBAgQIAAAQIECBAgQIAAAQIE+gQEIX0z0zEBAgQIECBAgAABAgQIECBAgAABAgQIECAQCghCQihlBAgQIECAAAECBAgQIECAAAECBAgQIECAQJ+AIKRvZjomQIAAAQIECBAgQIAAAQIECBAgQIAAAQIEQgFBSAiljAABAgQIECBAgAABAgQIECBAgAABAgQIEOgTEIT0zUzHBAgQIECAAAECBAgQIECAAAECBAgQIECAQCggCAmhlBEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQJ9AoKQvpnpmAABAgQIECBAgAABAgQIECBAgAABAgQIEAgF5q1uDeuVESBAgAABAgQIECBAgAABAgQIECBAgAABAgRaBGYnQlpGpU8CBAgQIECAAAECBAgQIECAAAECBAgQIEDgtIAg5DSZFwgQIECAAAECBAgQIECAAAECBAgQIECAAIEWAUFIy6T0SYAAAQIECBAgQIAAAQIECBAgQIAAAQIECJwWEIScJvMCAQIECBAgQIAAAQIECBAgQIAAAQIECBAg0CKwfGj09UfqH0o8IkCAAAECBAjsAut+dVzYTxwWrggQIECAAIH3AvYR7208IUCAAAECBHKB0Z5iciIkB1RJgAABAgQIECBAgAABAgQIECBAgAABAgQIlAkIQsoGpl0CBAgQIECAAAECBAgQIECAAAECBAgQIEAgFxCE5FYqCRAgQIAAAQIECBAgQIAAAQIECBAgQIAAgTIBQUjZwLRLgAABAgQIECBAgAABAgQIECBAgAABAgQI5AKCkNxKJQECBAgQIECAAAECBAgQIECAAAECBAgQIFAmIAgpG5h2CRAgQIAAAQIECBAgQIAAAQIECBAgQIAAgVxAEJJbqSRAgAABAgQIECBAgAABAgQIECBAgAABAgTKBAQhZQPTLgECBAgQIECAAAECBAgQIECAAAECBAgQIJALCEJyK5UECBAgQIAAAQIECBAgQIAAAQIECBAgQIBAmYAgpGxg2iVAgAABAgQIECBAgAABAgQIECBAgAABAgRygWUrnfNXVBIgQIAAAQIEhgL2E0MWNwkQIECAAAECBAgQIECAAIFfCjgR8kt9302AAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQ+EbgCa6WCEvppyotAAAAAElFTkSuQmCC"></image>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -38,9 +38,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
-.bloc-xxl{
-	padding:200px 50px;
-}
 .bloc-lg{
 	padding:100px 50px;
 }
@@ -99,10 +96,77 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Background Textures */
+
+.bloc-bg-texture::before{
+	content:"";
+	background-size: 2px 2px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left:0;
+	right:0;
+}
+.texture-darken::before{
+	background: rgba(0,0,0,0.5);
+}
+
+
 /* Background Effects */
 
 .b-parallax{
 	background-attachment:fixed;
+}
+
+
+/* Dark theme */
+
+.d-bloc{
+	color:rgba(255,255,255,.7);
+}
+.d-bloc button:hover{
+	color:rgba(255,255,255,.9);
+}
+.d-bloc .icon-round,.d-bloc .icon-square,.d-bloc .icon-rounded,.d-bloc .icon-semi-rounded-a,.d-bloc .icon-semi-rounded-b{
+	border-color:rgba(255,255,255,.9);
+}
+.d-bloc .divider-h span{
+	border-color:rgba(255,255,255,.2);
+}
+.d-bloc .a-btn,.d-bloc .navbar a,.d-bloc .navbar-brand, .d-bloc a .icon-sm, .d-bloc a .icon-md, .d-bloc a .icon-lg, .d-bloc a .icon-xl, .d-bloc h1 a, .d-bloc h2 a, .d-bloc h3 a, .d-bloc h4 a, .d-bloc h5 a, .d-bloc h6 a, .d-bloc p a{
+	color:rgba(255,255,255,.6);
+}
+.d-bloc .a-btn:hover,.d-bloc .navbar a:hover,.d-bloc .navbar-brand:hover,.d-bloc a:hover .icon-sm, .d-bloc a:hover .icon-md, .d-bloc a:hover .icon-lg, .d-bloc a:hover .icon-xl, .d-bloc h1 a:hover, .d-bloc h2 a:hover, .d-bloc h3 a:hover, .d-bloc h4 a:hover, .d-bloc h5 a:hover, .d-bloc h6 a:hover, .d-bloc p a:hover{
+	color:rgba(255,255,255,1);
+}
+.d-bloc .navbar-toggle .icon-bar{
+	background:rgba(255,255,255,1);
+}
+.d-bloc .btn-wire,.d-bloc .btn-wire:hover{
+	color:rgba(255,255,255,1);
+	border-color:rgba(255,255,255,1);
+}
+.d-bloc .panel{
+	color:rgba(0,0,0,.5);
+}
+.d-bloc .panel button:hover{
+	color:rgba(0,0,0,.7);
+}
+.d-bloc .panel icon{
+	border-color:rgba(0,0,0,.7);
+}
+.d-bloc .panel .divider-h span{
+	border-color:rgba(0,0,0,.1);
+}
+.d-bloc .panel .a-btn{
+	color:rgba(0,0,0,.6);
+}
+.d-bloc .panel .a-btn:hover{
+	color:rgba(0,0,0,1);
+}
+.d-bloc .panel .btn-wire, .d-bloc .panel .btn-wire:hover{
+	color:rgba(0,0,0,.7);
+	border-color:rgba(0,0,0,.3);
 }
 
 
@@ -157,6 +221,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 72px;
 	line-height: 112.85714721679688px;
 }
+#recentwork h4{
+	line-height: 26px;
+}
 #recentwork p{
 	font-size: 14px;
 }
@@ -210,6 +277,94 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 #bloc-8 h5{
 	line-height: 24px;
+}
+#heropage h1{
+	font-family: Montserrat;
+	font-size: 72px;
+	line-height: 78px;
+}
+#recentwork h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#recentwork p{
+	font-family: helvetica;
+	font-size: 16px;
+	line-height: 26px;
+}
+#recentwork h4{
+	font-size: 24px;
+	line-height: 42px;
+}
+#bloc-15 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-15 p{
+	font-family: helvetica;
+	font-size: 16px;
+	line-height: 26px;
+}
+#bloc-16 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-16 h4{
+	font-size: 24px;
+	line-height: 42px;
+}
+#bloc-17 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-18 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-18 h4{
+	font-size: 24px;
+	line-height: 42px;
+}
+#bloc-18 p{
+	font-family: helvetica;
+	line-height: 20px;
+	font-size: 14px;
+}
+#bloc-19 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-20 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-20 h4{
+	font-size: 24px;
+	line-height: 42px;
+}
+#bloc-20 p{
+	font-family: helvetica;
+	font-size: 16px;
+	line-height: 26px;
+}
+#recentwork h4{
+	font-size: 24px;
+	line-height: 36px;
+}
+#recentwork p{
+	line-height: 26px;
+}
+#recentwork h6{
+	font-size: 12px;
+	line-height: 18px;
+}
+#bloc-22 h2{
+	font-family: Montserrat;
+	line-height: 26px;
+}
+#bloc-23 h2{
+	font-family: Montserrat;
+	line-height: 26px;
 }
 #footer h5{
 	line-height: 25px;
@@ -429,6 +584,16 @@ button{
 }
 .text-w-lg{
 	max-width:400px;
+}
+.text-w-80{
+	max-width:80%;
+}
+.text-w-70{
+	max-width:70%;
+}
+.text-center.text-w-sm, .text-center.text-w-md, .text-center.text-w-lg, .text-center.text-w-90, .text-center.text-w-80, .text-center.text-w-70, .text-center.text-w-60, .text-center.text-w-50{
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
@@ -696,6 +861,34 @@ tooltip-inner{
 .line{
 	background-color:rgba(0,0,0,0.3);
 	background-size:auto 1px;
+	max-height:8px;
+	min-width:33px;
+	min-height:8px;
+	max-width:96px;
+	width:48px;
+}
+.outcomeimg{
+	width:580px;
+}
+.outcomeimg2{
+	width:615px;
+}
+.conceptflow{
+	width:360px;
+}
+.textbtn{
+	font-size:18px;
+	color:#B9B9B9!important;
+	text-decoration:none;
+	font-weight:normal;
+	font-family:"Montserrat";
+	line-height:13px;
+}
+.textbtn:hover{
+	font-family:"Montserrat";
+	color:rgba(0,0,0,0.9)!important;
+}
+.nextbtn:active{
 }
 
 /* = Colour
@@ -705,6 +898,12 @@ tooltip-inner{
 
 .bgc-white{
 	background-color:#ffffff;
+}
+.bgc-jade{
+	background-color:#00A861;
+}
+.bgc-ghost-white{
+	background-color:#F9F9F9;
 }
 
 /* Text colour styles */
@@ -718,12 +917,30 @@ tooltip-inner{
 .tc-dark-jungle-green{
 	color:#1C1C1C!important;
 }
-.tc-dim-gray{
-	color:#6F6F6F!important;
+.tc-white{
+	color:#FFFFFF!important;
+}
+.tc-gray-x11-gray{
+	color:#B9B9B9!important;
+}
+.tc-white-2{
+	color:#ffffff!important;
+}
+.tc-davys-grey{
+	color:#5E5E5E!important;
 }
 
 /* Bloc image backgrounds */
 
+.bg-Find-Cover{
+	background-image:url("img/Find-Cover.jpg");
+}
+.bg-Confirm{
+	background-image:url("img/Confirm.png");
+}
+.bg-Resolve{
+	background-image:url("img/Resolve.png");
+}
 
 
 

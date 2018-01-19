@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="979px" height="1469px" viewBox="0 0 979 1469" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-2" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-3" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-4" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-5" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-7" x="-3.60346487" y="385.570741" width="221.61309" height="33.0317613"></rect>
+        <path d="M2.40230991,0 L199.59769,-4.4408921e-16 C200.924449,1.46313738e-14 202,1.07555078 202,2.40230991 L202,166.59769 C202,167.924449 200.924449,169 199.59769,169 L2.40230991,169 C1.07555078,169 1.47385977e-14,167.924449 -1.33226763e-15,166.59769 L0,2.40230991 C-1.62481132e-16,1.07555078 1.07555078,-1.08854593e-15 2.40230991,-1.33226763e-15 Z" id="path-8"></path>
+        <filter x="-3.2%" y="-3.3%" width="106.4%" height="107.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0183140851 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="245.035611" height="117.112608"></rect>
+        <polygon id="path-13" points="36.3577989 7.34627986 40.3465261 63.1184773 45.3588434 67.8709738 0 67.8709738 4.43624439 0"></polygon>
+        <rect id="path-15" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-16" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-17" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-18" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-19" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-21" x="1" y="-4.54747351e-13" width="225" height="34"></rect>
+        <filter x="-3.3%" y="-22.1%" width="106.7%" height="144.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-30" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-31" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-32" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-33" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-35" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="0" y="0" width="8.96" height="8.96" rx="4.48"></rect>
+        <rect id="path-38" x="0" y="0" width="8.96" height="8.96" rx="4.48"></rect>
+        <rect id="path-39" x="0.186717998" y="0.76612127" width="205.998075" height="74" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="0" y="0" width="8.96" height="8.96" rx="4.48"></rect>
+        <rect id="path-42" x="0.186717998" y="0.76612127" width="205.998075" height="74" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-44" x="0" y="0" width="8.96" height="8.96" rx="4.48"></rect>
+        <rect id="path-45" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-46" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-47" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-48" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-49" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-51" x="0" y="5.68434189e-13" width="205.998075" height="94" rx="2"></rect>
+        <filter x="-1.7%" y="-2.7%" width="103.4%" height="107.4%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.2,9.59993151 C19.2,14.9019055 14.9017992,19.2 9.59986303,19.2 C4.29820081,19.2 0,14.9019055 0,9.59993151 C0,4.29795752 4.29820081,0 9.59986303,0 C14.9017992,0 19.2,4.29795752 19.2,9.59993151" id="path-53"></path>
+        <rect id="path-55" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-56" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-57" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-58" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-59" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <path d="M2,16 L203.998075,16 C205.102645,16 205.998075,16.8954305 205.998075,18 L205.998075,149 C205.998075,150.104569 205.102645,151 203.998075,151 L2,151 C0.8954305,151 -2.82864387e-14,150.104569 -2.84217094e-14,149 L-2.8643754e-14,18 C-2.87790248e-14,16.8954305 0.8954305,16 2,16 Z" id="path-61"></path>
+        <filter x="-1.7%" y="-1.9%" width="103.4%" height="105.2%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M28.8,14.3998973 C28.8,22.3528583 22.3526988,28.8 14.3997945,28.8 C6.44730121,28.8 0,22.3528583 0,14.3998973 C0,6.44693629 6.44730121,0 14.3997945,0 C22.3526988,0 28.8,6.44693629 28.8,14.3998973" id="path-63"></path>
+        <ellipse id="path-65" cx="4.80966767" cy="4.80528053" rx="4.80966767" ry="4.80528053"></ellipse>
+        <ellipse id="path-66" cx="148.809668" cy="40.8052805" rx="4.80966767" ry="4.80528053"></ellipse>
+        <ellipse id="path-67" cx="4.80966767" cy="284.194719" rx="4.80966767" ry="4.80528053"></ellipse>
+        <ellipse id="path-68" cx="212.809668" cy="35.8052805" rx="4.80966767" ry="4.80528053"></ellipse>
+        <circle id="path-69" cx="703" cy="2493" r="5"></circle>
+        <circle id="path-70" cx="673" cy="3469" r="5"></circle>
+        <circle id="path-71" cx="827" cy="3219" r="5"></circle>
+    </defs>
+    <g id="Desktop-HD-Copy-21" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-317.000000, -2355.000000)">
+        <g id="Group-8" transform="translate(391.000000, 2407.000000)">
+            <g id="status-bar-copy-2" transform="translate(145.000000, 77.000000)">
+                <g id="status-bar-contents" transform="translate(0.000000, 0.400000)">
+                    <g id="time" opacity="0.9" transform="translate(24.600000, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.8" font-weight="normal" letter-spacing="-0.0600000009">
+                        <text id="5:18PM">
+                            <tspan x="0.540820317" y="7">5:18P</tspan>
+                            <tspan x="20.1902344" y="7">M</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(16.800000, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.8 0 7.8 7.8 0 7.8"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="4.3875 0.9140625 4.3875 0.4875 2.925 0.4875 2.925 0.9140625 1.4625 0.9140625 1.4625 7.3125 5.85 7.3125 5.85 0.9140625"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(9.000000, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.8 0 7.8 7.8 0 7.8"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 7.2 6.6 7.2 6.6 0.6"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(0.000000, 0.600000)">
+                        <polygon id="bounds" points="0.9 0 8.1 0 8.1 7.2 0.9 7.2"></polygon>
+                        <path d="M0.439817438,1.80716906 C1.56969859,0.955153718 2.97585681,0.45 4.5,0.45 C6.02414319,0.45 7.43030141,0.955153718 8.56018256,1.80716906 L4.5,6.75 L0.439817438,1.80716906 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="samsung-galaxy-s8-copy-7">
+                <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                    <g id="bixby">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                    </g>
+                    <g id="volume">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                    </g>
+                    <g id="sleep/wake">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                    </g>
+                </g>
+                <g id="bezel">
+                    <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+                </g>
+                <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                    <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                    <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                    <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                    <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                    <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                    <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                    <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+                </g>
+                <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                    </g>
+                    <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-6)">
+                        <rect id="Bar" fill="#787878" x="0" y="0" width="216.207892" height="38.4369586"></rect>
+                        <text id="星福利" font-family="PingFangSC-Regular, PingFang SC" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966306" fill="#FFFFFF">
+                            <tspan x="31.8306064" y="29.0173244">星福利</tspan>
+                        </text>
+                        <g id="Pin-Left" transform="translate(7.405197, 18.017324)">
+                            <g id="Group-4" transform="translate(-0.000000, 0.000000)">
+                                <rect id="Rectangle-4" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            </g>
+                            <g id="Group-18" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                <polygon id="Back-Chevron" points="0.204042348 6.20692974 5.75337825 0.801732435 6.81039461 1.83129383 2.31807507 6.20692974 6.81039461 10.5825657 5.75337825 11.612127"></polygon>
+                                <rect id="Rectangle-3" x="2.00577478" y="5.60635226" width="9.60923965" height="1.20115496"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Rectangle-6" mask="url(#mask-6)">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#E7E7E7" stroke-width="0.600577478" x="-3.30317613" y="385.87103" width="221.012512" height="32.4311838"></rect>
+                    </g>
+                    <g id="Group-7" mask="url(#mask-6)">
+                        <g transform="translate(6.005775, 392.177093)">
+                            <rect id="Rectangle-8" stroke="#5E5E5E" stroke-width="0.600577478" fill="none" x="0.300288739" y="5.10490857" width="19.2184793" height="13.813282" rx="1.80173244"></rect>
+                            <rect id="Rectangle-9" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="3.60346487" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-4" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="3.60346487" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-5" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-8" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="14.4138595" width="6.00577478" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-2" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="10.8103946" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-6" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="10.8103946" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-3" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="14.4138595" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-7" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="14.4138595" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <polygon id="Triangle" stroke="none" fill="#5E5E5E" fill-rule="evenodd" points="10.2098171 0 12.0115496 2.40230991 8.4080847 2.40230991"></polygon>
+                        </g>
+                    </g>
+                    <rect fill="#F7F7F7" mask="url(#mask-6)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                    <path d="M33.9326275,386.471607 L33.9326275,417.70741" id="Line-3" stroke="#E6E6E6" stroke-width="0.600577478" stroke-linecap="square" mask="url(#mask-6)"></path>
+                    <text id="Partner-Coupons" mask="url(#mask-6)" font-family="AvenirNext-Medium, Avenir Next" font-size="9.60923965" font-weight="400" fill="#666666">
+                        <tspan x="85.2820019" y="405.179981">Partner Coupons</tspan>
+                    </text>
+                </g>
+                <g id="navigation-bar" transform="translate(39.238691, 448.832531)" fill="#D1D1CB" fill-rule="nonzero">
+                    <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                        <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2"></path>
+                        <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                    </g>
+                    <g id="home" transform="translate(73.069297, 1.000000)">
+                        <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                        <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2"></path>
+                    </g>
+                    <g id="back" transform="translate(0.000000, 0.000000)">
+                        <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3"></path>
+                        <polygon id="Path-3" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="status-bar-copy-4" transform="translate(8.000000, 24.000000)">
+                <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                    <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                        <text id="5:18PM">
+                            <tspan x="0.515354312" y="7">5:18P</tspan>
+                            <tspan x="20.1836802" y="7">M</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(16.816169, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(9.008662, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(0.000000, 0.600577)">
+                        <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                        <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Bitmap-Copy-3" transform="translate(15.000000, 86.000000)">
+                <mask id="mask-9" fill="white">
+                    <use xlink:href="#path-8"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-8"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+                <text id="Dear-partner,-you-ha" mask="url(#mask-9)" font-family="AvenirNext-Medium, Avenir Next" font-size="11" font-weight="400" fill="#666666">
+                    <tspan x="8" y="137">Dear partner, you have received 10 </tspan>
+                    <tspan x="8" y="152">Partner Coupons of November.</tspan>
+                </text>
+                <g id="Bitmap" mask="url(#mask-9)">
+                    <g transform="translate(-12.011550, 0.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#C0C0C0" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <polygon id="Rectangle-2" stroke="none" fill="#CCCCCC" fill-rule="evenodd" mask="url(#mask-12)" points="4.5919153 -15.6150144 130.92589 -15.6150144 39.8076376 130.92589 4.5919153 16.7135543"></polygon>
+                        <g id="Group-6" opacity="0.119999997" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-12)">
+                            <g transform="translate(184.977863, 57.054860)" id="Page-1">
+                                <g transform="translate(32.375815, 0.000000)" stroke-linecap="round" stroke-linejoin="round">
+                                    <g id="Group-9" transform="translate(0.000000, 0.000000)" stroke-width="3.06549222">
+                                        <path d="M36.8645719,41.8078786 C36.8645719,47.1044286 32.5467585,51.3968934 27.2214936,51.3968934 C21.8950812,51.3968934 17.5772678,47.1044286 17.5772678,41.8078786 C17.5772678,36.5113286 21.8950812,32.2188638 27.2214936,32.2188638 C32.5467585,32.2188638 36.8645719,36.5113286 36.8645719,41.8078786 Z" id="Stroke-1" stroke="#3D3D3D"></path>
+                                        <path d="M49.0624234,17.7527329 L4.60145251,17.7527329 L8.45111075,72.4776645 C8.57159185,74.4824122 10.2422632,76.0467314 12.2617561,76.0467314 L41.4021199,76.0467314 C43.4216127,76.0467314 45.0911367,74.4824122 45.2127652,72.4776645 L49.0624234,17.7527329 Z" id="Stroke-3" stroke="#4A4A4A"></path>
+                                        <path d="M53.6284279,17.7527329 L0.0349890489,17.7527329 L0.979331443,12.5052461 C1.28110793,11.2102042 2.44116888,8.80154049 3.77678801,8.80154049 L49.886629,8.80154049 C51.2222481,8.80154049 52.382309,11.2102042 52.6840855,12.5052461 L53.6284279,17.7527329 Z" id="Stroke-5" stroke="#4A4A4A"></path>
+                                        <path d="M8.48427174,8.80131229 L39.3572686,0.174165623 C41.7657433,-0.499027941 44.155859,1.30147959 44.155859,3.79001376" id="Stroke-7" stroke="#4A4A4A" transform="translate(26.320065, 4.416604) scale(-1, 1) translate(-26.320065, -4.416604) "></path>
+                                    </g>
+                                </g>
+                                <g transform="translate(0.000000, 9.884343)">
+                                    <mask id="mask-14" fill="white">
+                                        <use xlink:href="#path-13"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Bitmap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-12)">
+                            <g transform="translate(-25.224254, -0.600577)"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-8-Copy-3" transform="translate(80.000000, 69.000000)">
+                <rect id="Rectangle-5" fill="#CECECE" x="0" y="0" width="72" height="12" rx="1.20115496"></rect>
+                <text id="7/29/17-5:18PM" font-family="PingFangSC-Regular, PingFang SC" font-size="8.4080847" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="5" y="9">7/29/17 5:18PM</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-22" transform="translate(385.000000, 2948.000000)">
+            <g id="Group-20" transform="translate(29.000000, 18.000000)" font-size="14">
+                <text id="Push-message-inWeCha" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#787878">
+                    <tspan x="0.031" y="14">Push message inWeChat OA</tspan>
+                </text>
+                <text id="(-WeChat-native-page-Copy" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="19.085" y="41">( WeChat native page )</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-10" fill="#D8D8D8" x="0" y="0" width="240" height="2"></rect>
+        </g>
+        <g id="samsung-galaxy-s8-copy-11" transform="translate(689.000000, 2407.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-18"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-20" fill="white">
+                    <use xlink:href="#path-19"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Group-7-Copy-3" mask="url(#mask-20)">
+                    <g transform="translate(-1.000000, 351.000000)">
+                        <rect id="Rectangle-5" fill="#DCDCDC" fill-rule="evenodd" x="0" y="0" width="218" height="27.904"></rect>
+                        <text id="2017/10-(10-availiab" fill="none" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="8.72" y="16.3013333" fill="#000000">2017/10 (10 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" fill="none" transform="translate(191.258667, 6.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-4" mask="url(#mask-20)">
+                    <g transform="translate(-1.000000, 379.000000)">
+                        <rect id="Rectangle-5" fill="#DCDCDC" fill-rule="evenodd" x="0" y="0" width="218" height="27.904"></rect>
+                        <text id="2017/11-(11-availiab" fill="none" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="8.72" y="16.3013333" fill="#000000">2017/11 (11 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" fill="none" transform="translate(191.258667, 6.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-20)">
+                    <g transform="translate(-6.804620, -1.000000)">
+                        <rect id="Bar" fill="#787878" fill-rule="evenodd" x="6.80461983" y="1" width="216.207892" height="38.4369586"></rect>
+                        <g id="status-bar-copy-5" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.396535, 0.976901)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 39.436959)">
+                            <g id="Rectangle-Copy-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                            </g>
+                            <g id="Group-6" transform="translate(0.000000, 1.000000)">
+                                <rect id="Rectangle-2" x="0" y="0" width="225" height="33"></rect>
+                                <g id="Group-7-Copy-2" transform="translate(6.000000, 33.000000)">
+                                    <rect id="Rectangle-5" x="0" y="0" width="218" height="27.904"></rect>
+                                    <text id="2017/9-(3-availiable" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                        <tspan x="8.72" y="16.3013333">2017/9 (3 availiable)</tspan>
+                                    </text>
+                                    <g id="Icon/UI/Input_dropdown_dark" transform="translate(198.234667, 13.952000) scale(1, -1) translate(-198.234667, -13.952000) translate(191.258667, 6.976000)">
+                                        <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                        <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                                    </g>
+                                </g>
+                                <g id="Group-Copy" transform="translate(130.000000, 10.000000)">
+                                    <g id="Group-5-Copy" transform="translate(0.000000, -0.000000)" fill="#9B9B9B" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500">
+                                        <text id="Available-only">
+                                            <tspan x="0.39653513" y="9.53994225">Available only</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="switch-copy-2" transform="translate(67.396535, 0.539942)">
+                                        <rect id="Rectangle-13" fill="#787878" x="0" y="0" width="18" height="11" rx="5.5"></rect>
+                                        <ellipse id="Oval-2" fill="#FFFFFF" cx="12.4615385" cy="5.5" rx="5.19230769" ry="5.15625"></ellipse>
+                                    </g>
+                                </g>
+                                <g id="Group-5" transform="translate(14.396535, 9.706449)" fill="#4A4A4A" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500" line-spacing="12.0115496">
+                                    <text id="Multi-select">
+                                        <tspan x="0" y="9">Multi-select</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Partner-Coupon-Manag" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966301">
+                            <tspan x="38.3965351" y="29.9769009" fill="#FFFFFF">Partner Coupon Management</tspan>
+                        </text>
+                        <g id="Group-10" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(206.396535, 22.976901)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                        <g id="Icons/chevron/close_light" fill="none" transform="translate(13.410972, 19.017324)">
+                            <rect id="Bounds" fill="#FF0000" fill-rule="evenodd" opacity="0" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <path d="M3.45322564,3.53562 L10.9597244,11.0421187" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.45322564,11.0421187 L10.9597244,3.53562" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 101.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-03</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 185.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-04</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-4" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 269.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-05</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-20)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                <g id="navigation-bar" mask="url(#mask-20)">
+                    <g transform="translate(28.428296, 424.809432)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(-0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M697.470703,2493.60938 L660.09375,2493.60938 C653.466333,2493.60938 648.09375,2498.98196 648.09375,2505.60938 L648.09375,3051.14893" id="Line-6" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square"></path>
+        <g id="samsung-galaxy-s8-copy-5" transform="translate(531.000000, 3054.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-30"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-32"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-34" fill="white">
+                    <use xlink:href="#path-33"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-33"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Group-7-Copy-3" mask="url(#mask-34)">
+                    <g transform="translate(0.000000, 347.000000)">
+                        <rect id="Rectangle-5" fill="#DCDCDC" fill-rule="evenodd" x="0" y="0" width="218" height="27.904"></rect>
+                        <text id="2017/10-(10-availiab" fill="none" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="8.72" y="16.3013333" fill="#000000">2017/10 (10 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" fill="none" transform="translate(191.258667, 6.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-5" mask="url(#mask-34)">
+                    <g transform="translate(0.000000, 375.000000)">
+                        <rect id="Rectangle-5" fill="#DCDCDC" fill-rule="evenodd" x="0" y="0" width="218" height="27.904"></rect>
+                        <text id="2017/11-(10-availiab" fill="none" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="8.72" y="16.3013333" fill="#000000">2017/11 (10 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" fill="none" transform="translate(191.258667, 6.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-6" mask="url(#mask-34)">
+                    <g transform="translate(-1.000000, 70.000000)" id="Group-7-Copy-2">
+                        <g transform="translate(0.396535, 0.539942)">
+                            <rect id="Rectangle-5" x="0" y="0" width="218" height="27.904"></rect>
+                            <text id="2017/9-(3-availiable" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                <tspan x="8.72" y="16.3013333">2017/9 (3 availiable)</tspan>
+                            </text>
+                            <g id="Icon/UI/Input_dropdown_dark" transform="translate(198.234667, 13.952000) scale(1, -1) translate(-198.234667, -13.952000) translate(191.258667, 6.976000)">
+                                <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-34)">
+                    <g transform="translate(-4.804620, 0.000000)">
+                        <rect id="Bar" fill="#787878" fill-rule="evenodd" x="5" y="0" width="216.207892" height="38.4369586"></rect>
+                        <g id="status-bar-copy-4" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(4.000000, 0.000000)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 38.436959)">
+                            <rect id="Rectangle-Copy-2" fill="#C0C0C0" x="0" y="0" width="225.216554" height="32"></rect>
+                            <text id="Cancel" font-family="AvenirNext-Medium, Avenir Next" font-size="9" font-weight="400" line-spacing="14.4138595" fill="#FFFFFF">
+                                <tspan x="180.731" y="18">Cancel</tspan>
+                            </text>
+                            <g id="Close_dark" opacity="0" transform="translate(12.396535, 8.539942)">
+                                <rect id="Bounds" fill="#FF0000" x="0" y="0" width="13.7651745" height="13.6923429"></rect>
+                                <path d="M3.29781579,3.35863697 L10.4664901,10.4893818" id="Path-6" stroke="#FFFFFF" stroke-width="0.9984" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M3.29781579,10.4893818 L10.4664901,3.35863697" id="Path-6" stroke="#FFFFFF" stroke-width="0.9984" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                            <text id="2-selected" font-family="AvenirNext-Medium, Avenir Next" font-size="9" font-weight="400" fill="#FFFFFF">
+                                <tspan x="12" y="19">2 selected</tspan>
+                            </text>
+                        </g>
+                        <text id="Partner-Coupon-Manag" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10" font-weight="normal" letter-spacing="-0.159999982">
+                            <tspan x="37" y="29" fill="#FFFFFF">Partner Coupon Management</tspan>
+                        </text>
+                        <g id="Group-10" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(205.000000, 22.000000)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                        <g id="Icons/chevron/close_light" fill="none" transform="translate(11.000000, 18.000000)">
+                            <rect id="Bounds" fill="#FF0000" fill-rule="evenodd" opacity="0" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <path d="M3.45322564,3.53562 L10.9597244,11.0421187" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.45322564,11.0421187 L10.9597244,3.53562" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-34)">
+                    <g transform="translate(5.000000, 99.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                        </g>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(141.000000, 55.000000)">
+                            <rect id="Rectangle-15" stroke="#00A862" stroke-width="0.600577478" opacity="0" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <g id="Buttons/Ghost-Copy-2" transform="translate(46.000000, 1.000000)">
+                                <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                <g id="Group-2" transform="translate(2.520000, 2.520000)">
+                                    <g id="BG">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                                        <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="9.96" height="9.96" rx="4.98"></rect>
+                                    </g>
+                                    <rect id="BG" fill="#666666" x="1.12" y="1.12" width="6.72" height="6.72" rx="3.36"></rect>
+                                </g>
+                            </g>
+                            <text id="Selected" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400" fill="#000000">
+                                <tspan x="9.952" y="10">Selected</tspan>
+                            </text>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500">
+                            <tspan x="7.20692974" y="19.4051973" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="38.4051973" fill="#9B9B9B">Tall size partner coupon-03</tspan>
+                        </text>
+                        <path d="M7.50721848,48.9470645 L197.970011,48.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400">
+                            <tspan x="10" y="66" fill="#9B9B9B">Valid until 2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Buttons/Ghost-Copy" mask="url(#mask-34)">
+                    <g transform="translate(193.000000, 191.000000)">
+                        <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <g id="Group-2" stroke-width="1" fill="none" transform="translate(2.520000, 2.520000)">
+                            <g id="BG">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-38"></use>
+                                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="9.96" height="9.96" rx="4.98"></rect>
+                            </g>
+                            <rect id="BG" fill="#666666" x="1.12" y="1.12" width="6.72" height="6.72" rx="3.36"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2-Copy" mask="url(#mask-34)">
+                    <g transform="translate(4.000000, 181.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500">
+                            <tspan x="8.20692974" y="20.4051973" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="8.20692974" y="39.4051973" fill="#9B9B9B">Tall size partner coupon-04</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(142.135707, 56.253128)">
+                            <rect id="Rectangle-15" stroke="#00A862" stroke-width="0.600577478" opacity="0" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <g id="Buttons/Ghost-Copy-2" transform="translate(46.000000, 1.000000)">
+                                <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                <g id="Group-2" transform="translate(2.520000, 2.520000)">
+                                    <g id="BG">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                                        <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="9.96" height="9.96" rx="4.98"></rect>
+                                    </g>
+                                    <rect id="BG" fill="#666666" x="1.12" y="1.12" width="6.72" height="6.72" rx="3.36"></rect>
+                                </g>
+                            </g>
+                            <text id="Selected" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400" fill="#000000">
+                                <tspan x="9.952" y="10">Selected</tspan>
+                            </text>
+                        </g>
+                        <path d="M8.50721848,49.9470645 L198.970011,49.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400">
+                            <tspan x="11" y="66" fill="#9B9B9B">Valid until 2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-7" mask="url(#mask-34)">
+                    <g transform="translate(4.000000, 264.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-42"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-42"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500">
+                            <tspan x="8.20692974" y="20.4051973" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="8.20692974" y="39.4051973" fill="#9B9B9B">Tall size partner coupon-05</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(142.135707, 56.253128)">
+                            <rect id="Rectangle-15" stroke="#00A862" stroke-width="0.600577478" opacity="0" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <g id="Buttons/Ghost-Copy-2" transform="translate(46.000000, 1.000000)">
+                                <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                <g id="Group-2" transform="translate(2.520000, 2.520000)">
+                                    <g id="BG">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                                        <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="9.96" height="9.96" rx="4.98"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <text id="Unselect" font-family="AvenirNext-Regular, Avenir Next" font-size="8" font-weight="normal" fill="#5E5E5E">
+                                <tspan x="10.416" y="10">Unselect</tspan>
+                            </text>
+                        </g>
+                        <path d="M8.50721848,49.9470645 L198.970011,49.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400">
+                            <tspan x="11" y="66" fill="#9B9B9B">Valid until 2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-3" fill="#C0C0C0" mask="url(#mask-34)" x="-1" y="385" width="218" height="32"></rect>
+                <g id="Group-3-Copy-3" mask="url(#mask-34)">
+                    <g transform="translate(79.000000, 393.000000)">
+                        <rect id="Rectangle-15" fill="#9B9B9B" fill-rule="evenodd" x="75" y="5.68434189e-13" width="55" height="18" rx="9"></rect>
+                        <rect id="Rectangle-15-Copy-2" fill="#9B9B9B" fill-rule="evenodd" x="-2.84217094e-14" y="5.68434189e-13" width="67" height="18" rx="9"></rect>
+                        <text id="Send-as-gift" fill="none" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400">
+                            <tspan x="81.12" y="11" fill="#FFFFFF">Send as gift</tspan>
+                        </text>
+                        <text id="Save-to-wallet" fill="none" font-family="AvenirNext-Medium, Avenir Next" font-size="8" font-weight="400">
+                            <tspan x="8.088" y="11" fill="#FFFFFF">Save to wallet</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-34)" x="-1.4080847" y="416.976901" width="218" height="28"></rect>
+                <g id="navigation-bar" mask="url(#mask-34)">
+                    <g transform="translate(30.830606, 424.208855)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="samsung-galaxy-s8-copy-6" transform="translate(837.000000, 3054.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-46"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-48"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-50" fill="white">
+                    <use xlink:href="#path-49"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-49"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-50)">
+                    <g transform="translate(-0.804620, 0.000000)">
+                        <rect id="Bar" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="1" y="0" width="216.207892" height="448"></rect>
+                        <g id="Pin-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(9.000000, 18.000000)">
+                            <rect id="Rectangle-4" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <g id="Group" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                <polygon id="Back-Chevron" points="0.204042348 6.20692974 5.75337825 0.801732435 6.81039461 1.83129383 2.31807507 6.20692974 6.81039461 10.5825657 5.75337825 11.612127"></polygon>
+                                <rect id="Rectangle-3" x="2.00577478" y="5.60635226" width="9.60923965" height="1.20115496"></rect>
+                            </g>
+                        </g>
+                        <g id="status-bar-copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Get-Cards-&amp;-Offers" stroke="none" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10" font-weight="normal" letter-spacing="-0.159999982">
+                            <tspan x="42.3965351" y="28.9769009" fill="#FFFFFF">Get Cards &amp; Offers</tspan>
+                        </text>
+                        <path d="M32.3965351,18.9769009 L32.3965351,32.9769009" id="Line-2" stroke-opacity="0.54" stroke="#FFFFFF" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                        <g id="Group-10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(201.000000, 22.000000)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-50)">
+                    <g transform="translate(5.000000, 48.000000)">
+                        <g id="Combined-Shape" stroke="none" fill="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                        </g>
+                        <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(7.000000, 16.000000)">
+                            <g id="Fill-4">
+                                <mask id="mask-54" fill="white">
+                                    <use xlink:href="#path-53"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" xlink:href="#path-53"></use>
+                                <path d="M15.6631911,8.03265245 C17.0628644,7.54383594 17.9817212,8.9439531 19.061128,8.61704918 C18.0140812,7.49681551 17.1623054,6.22236603 17.2748015,4.75437713 C17.281329,4.66817301 17.2049428,4.61947328 17.1314731,4.67097184 C16.5984362,5.04321689 16.2241437,5.66049993 16.1095644,6.35489087 C15.3682014,5.87517056 14.5008706,5.80715888 13.7845067,6.10243596 C14.5221198,6.62357902 15.1601531,7.27864633 15.6631911,8.03265245 M14.1054677,3.69977613 C13.3918815,3.75071493 12.7723198,3.99757217 12.2710873,4.40928078 C12.4839965,3.80109396 12.7545426,3.26931532 13.0964751,2.75349005 C12.1884513,2.85032974 11.4291722,3.18563016 10.8747472,3.75729219 L10.4410123,2.61144918 L11.4037565,1.75458587 L10.1146348,1.66264414 L9.59993056,0.454806941 L9.08550407,1.66264414 L7.79610465,1.75458587 L8.75884881,2.61144918 L8.32553061,3.75729219 C7.77096664,3.18563016 7.01154871,2.85032974 6.10366374,2.75349005 C6.44545736,3.26931532 6.71586459,3.80109396 6.92891271,4.40928078 C6.42809686,3.99757217 5.80825739,3.75071493 5.09453231,3.69977613 C5.52257292,4.25408539 5.90186523,4.8454792 6.18310541,5.48053484 C6.21490986,5.55218502 6.28282415,5.57541535 6.35629381,5.53875061 C7.3336208,5.04965421 8.43483235,4.77424885 9.59993056,4.77424885 C10.7650288,4.77424885 11.8663792,5.04965421 12.8434284,5.53875061 C12.9173147,5.57541535 12.985229,5.55218502 13.0168946,5.48053484 C13.2982737,4.8454792 13.6774271,4.25408539 14.1054677,3.69977613 M7.878324,7.13366668 C8.06790072,6.94222637 8.46733121,6.95062288 8.88217784,7.10511856 C8.90023277,6.89688525 8.53080122,6.66989974 8.16136967,6.66989974 C7.89332348,6.66989974 7.76041145,6.7612817 7.76041145,6.89310682 C7.76041145,6.97833134 7.78929933,7.05208064 7.878324,7.13366668 M11.0386303,6.66989974 C10.8219712,6.66989974 10.5678134,6.73693183 10.4076801,6.91619721 C10.3915696,6.96503688 10.3915696,7.0375267 10.415041,7.08594654 C10.8078051,6.95034299 11.1548763,6.94516515 11.321676,7.13366668 C11.4111173,7.05208064 11.4397274,6.97833134 11.4397274,6.89310682 C11.4397274,6.7612817 11.3069543,6.66989974 11.0386303,6.66989974 M9.59993056,5.21450558 C8.696351,5.21450558 7.93971075,5.72963115 7.74124545,6.39491421 C7.72610709,6.44599294 7.74666193,6.47887925 7.80513211,6.45243026 C7.96804309,6.37924073 8.15261998,6.34355559 8.35358519,6.34355559 C8.72218343,6.34355559 9.0470332,6.47985885 9.23910982,6.7170601 C9.32382909,6.99946255 9.33132883,7.40851227 9.23522107,7.64207504 C9.08383747,7.60750943 9.02883939,7.48911871 8.88065012,7.48911871 C8.73246085,7.48911871 8.61760374,7.59435491 8.3665014,7.59435491 C8.11484352,7.59435491 8.08526122,7.47456477 7.92082252,7.47456477 C7.72652375,7.47456477 7.69055278,7.67636077 7.69055278,7.90404599 C7.69055278,8.91834376 8.61552048,10.3145426 9.59993056,10.3145426 C10.5846184,10.3145426 11.509725,8.91834376 11.509725,7.90404599 C11.509725,7.67636077 11.4631988,7.48156186 11.2601504,7.45511287 C11.1590428,7.52858229 11.0659905,7.59435491 10.8337764,7.59435491 C10.5822574,7.59435491 10.5129542,7.48911871 10.3646261,7.48911871 C10.1860212,7.48911871 10.204215,7.86906055 9.99144467,7.89019176 C9.85033848,7.5477543 9.8432554,7.10847717 9.96075129,6.7170601 C10.1529668,6.47985885 10.4778166,6.34355559 10.8464148,6.34355559 C11.0475189,6.34355559 11.2336235,6.37924073 11.3950068,6.45243026 C11.4533381,6.47915914 11.4740318,6.44599294 11.4588934,6.39491421 C11.2604281,5.72963115 10.5035101,5.21450558 9.59993056,5.21450558 M5.41563221,6.10243596 C4.69940722,5.80715888 3.83207639,5.87517056 3.09071338,6.35489087 C2.9757174,5.66049993 2.6015638,5.04321689 2.06852685,4.67097184 C1.99519608,4.61947328 1.91853209,4.66817301 1.92533741,4.75437713 C2.03769459,6.22236603 1.18619655,7.49681551 0.139010887,8.61704918 C1.21827876,8.9439531 2.13713557,7.54383594 3.5369478,8.03265245 C4.0399858,7.27864633 4.67788019,6.62357902 5.41563221,6.10243596 M19.3190357,10.2157437 C19.306675,10.4501461 19.2859813,10.6825893 19.2572323,10.9125136 C18.1558818,11.0963971 17.76159,10.1070089 16.6330183,10.1566883 C16.7003771,10.3976679 16.7552363,10.6439654 16.7973181,10.8946011 C17.7283968,10.8937614 18.1036614,11.7706364 19.1384864,11.6417501 C19.0845994,11.9101583 19.0189072,12.1743683 18.9434932,12.4347999 C18.124494,12.516386 17.8360319,11.6959075 16.888565,11.7181583 C16.8963425,11.8546015 16.9003701,11.9917444 16.9003701,12.1304266 C16.9003701,12.2069748 16.8987035,12.283383 16.8964814,12.3595113 C17.7043698,12.3497154 17.9671384,13.1026019 18.7371115,13.0669168 C18.6405871,13.330567 18.5330909,13.5887596 18.4151783,13.8412145 C17.8621421,13.8104273 17.6713154,13.095325 16.8296781,13.1522813 C16.804679,13.3357449 16.772319,13.5168295 16.7338481,13.6955351 C17.4653504,13.6441765 17.6225671,14.3221943 18.1458822,14.3766316 C18.0126924,14.6223693 17.8690863,14.86097 17.7160361,15.0935532 C17.405908,14.9263228 17.1367507,14.4208532 16.5489935,14.3893663 C16.6088525,14.2021242 16.6619062,14.0119434 16.7071824,13.8185439 C16.1849784,13.8185439 15.5881937,13.6133893 15.0880723,13.1543804 C15.2501499,12.2237678 13.8170055,11.276782 13.8170055,10.5949858 C13.8170055,9.85497386 14.1883815,9.44564425 14.1883815,8.44771967 C14.1883815,7.70714795 13.8317272,6.90416222 13.2935516,6.35489087 C13.1891108,6.2483952 13.0821701,6.1619112 12.9596744,6.08452341 C13.4545182,6.70110674 13.8340883,7.43202248 13.8340883,8.27880998 C13.8340883,9.2185188 13.3999368,9.71433241 13.3999368,10.5814115 C13.3999368,11.4487704 14.6589206,12.199278 14.6589206,13.0932258 C14.6589206,13.4448995 14.5475356,13.7881766 14.1797707,14.4629757 C14.7448898,15.0318388 15.4809752,15.3420897 15.9558198,15.3420897 C16.109981,15.3420897 16.1927559,15.2950693 16.2481707,15.1730401 C16.2955301,15.0679438 16.3403897,14.9614481 16.3830271,14.8539729 C16.8946759,14.8734248 17.1291121,15.3425095 17.4121578,15.5298915 C17.2570243,15.7398041 17.0934189,15.9428596 16.9224527,16.1393378 C16.7327371,15.927466 16.4776071,15.5707545 16.1041479,15.4720956 C16.0372058,15.603221 15.9665138,15.7322473 15.8919331,15.8584747 C16.2137274,15.9463582 16.4337197,16.2736819 16.6039916,16.4882126 C16.4206646,16.6800727 16.2292824,16.8639562 16.0308171,17.0401428 C15.9065159,16.8459037 15.7129116,16.5982068 15.4959747,16.4651222 C15.4161164,16.5742768 15.332786,16.6806325 15.2466778,16.7846092 C15.4313936,16.9102769 15.5938879,17.1367026 15.6997176,17.3211459 C15.4701423,17.5071284 15.2322339,17.6830352 14.986548,17.8480265 C14.8650245,16.8522011 13.5156272,16.1694253 13.8795034,15.0133665 C13.760202,15.2172617 13.6178458,15.4722355 13.6178458,15.7784281 C13.6178458,16.6154196 14.5021205,17.2793033 14.5725347,18.1105572 C14.3892078,18.2206914 14.2019921,18.3253678 14.0108877,18.423327 C13.9790832,17.5096474 13.0423104,16.5100435 13.0423104,15.7595359 C13.0423104,14.9225443 14.1307446,14.0812146 14.1307446,13.092946 C14.1307446,12.1042575 12.8748162,11.4195226 12.8748162,10.5514639 C12.8748162,9.68340528 13.409242,9.18423307 13.409242,8.07197608 C13.409242,7.25751512 13.0252276,6.43283842 12.4317761,5.90609769 C12.3267798,5.81275655 12.2237278,5.73830754 12.09901,5.67323463 C12.6585738,6.34985296 12.9827291,6.96363746 12.9827291,7.89466989 C12.9827291,8.94017467 12.3713616,9.52065303 12.3713616,10.5448867 C12.3713616,11.5689804 13.6031241,12.1385433 13.6031241,13.092946 C13.6031241,14.0473487 12.4566364,14.8522936 12.4566364,15.8330053 C12.4566364,16.7247141 13.4670178,17.6160031 13.482295,18.6741027 C13.2611916,18.7712222 13.0360606,18.8602252 12.806763,18.9408316 C12.9353697,17.8711169 11.7974927,16.768236 11.7974927,15.8955593 C11.7974927,14.9415764 12.9870345,14.1217977 12.9870345,13.092946 C12.9870345,12.0640943 11.7777712,11.5853535 11.7777712,10.5294931 C11.7777712,9.47391249 12.5201064,8.88923588 12.5201064,7.72282143 C12.5201064,6.81361991 12.074983,5.99580035 11.4236169,5.48907129 C11.4101451,5.47843572 11.3962567,5.46794008 11.3826461,5.45786428 C11.3209816,5.41224327 11.2708444,5.46724038 11.3140374,5.52181766 C11.7749935,6.10159631 12.0212349,6.68767234 12.0212349,7.55531116 C12.0212349,8.62236697 11.1687647,9.48944602 11.1687647,10.5233356 C11.1687647,11.7430679 12.3137247,12.0920826 12.3137247,13.092946 C12.3137247,14.0935294 11.0859898,14.8939962 11.0859898,15.9568538 C11.0859898,16.9420437 12.2476159,18.0358284 12.0484562,19.172995 C11.8152699,19.2337297 11.5793059,19.2862078 11.3398698,19.3297297 C11.5575011,17.9136592 10.4180964,16.8964227 10.4180964,15.9704281 C10.4180964,14.966626 11.6893021,14.0730979 11.6893021,13.092946 C11.6893021,12.1687707 10.7765561,11.8664965 10.656977,10.9204903 C10.6407276,10.7917439 10.5375367,10.6958838 10.395875,10.7196739 C10.2103259,10.7538197 9.97311197,10.8769684 9.59993056,10.8769684 C9.22674914,10.8769684 8.98939632,10.7538197 8.80384724,10.7196739 C8.66246329,10.6958838 8.55941133,10.7917439 8.54302302,10.9204903 C8.42330497,11.8664965 7.51069795,12.1687707 7.51069795,13.092946 C7.51069795,14.0730979 8.78176468,14.966626 8.78176468,15.9704281 C8.78176468,16.8964227 7.64263779,17.9136592 7.86026908,19.3297297 C7.62097188,19.2862078 7.38486901,19.2337297 7.15168271,19.172995 C6.95238411,18.0358284 8.11401022,16.9420437 8.11401022,15.9568538 C8.11401022,14.8939962 6.88641419,14.0935294 6.88641419,13.092946 C6.88641419,12.0920826 8.03123533,11.7430679 8.03123533,10.5233356 C8.03123533,9.48944602 7.17876509,8.62236697 7.17876509,7.55531116 C7.17876509,6.68767234 7.42528426,6.10159631 7.88596262,5.52181766 C7.92915556,5.46724038 7.87887954,5.41224327 7.81749279,5.45786428 C7.80374327,5.46794008 7.78999375,5.47843572 7.77624423,5.48907129 C7.12515585,5.99580035 6.67989362,6.81361991 6.67989362,7.72282143 C6.67989362,8.88923588 7.42208993,9.47391249 7.42208993,10.5294931 C7.42208993,11.5853535 6.21268771,12.0640943 6.21268771,13.092946 C6.21268771,14.1217977 7.40250728,14.9415764 7.40250728,15.8955593 C7.40250728,16.768236 6.26449146,17.8711169 6.39337585,18.9408316 C6.1640783,18.8602252 5.93880839,18.7712222 5.71784388,18.6741027 C5.73284336,17.6160031 6.74336363,16.7247141 6.74336363,15.8330053 C6.74336363,14.8522936 5.59687588,14.0473487 5.59687588,13.092946 C5.59687588,12.1385433 6.82849955,11.5689804 6.82849955,10.5448867 C6.82849955,9.52065303 6.21727089,8.94017467 6.21727089,7.89466989 C6.21727089,6.96363746 6.54128735,6.34985296 7.10099003,5.67323463 C6.97654993,5.73830754 6.87322021,5.81275655 6.76822387,5.90609769 C6.17477237,6.43283842 5.790758,7.25751512 5.790758,8.07197608 C5.790758,9.18423307 6.3250449,9.68340528 6.3250449,10.5514639 C6.3250449,11.4195226 5.0693943,12.1042575 5.0693943,13.092946 C5.0693943,14.0812146 6.15782852,14.9225443 6.15782852,15.7595359 C6.15782852,16.5100435 5.22091679,17.5096474 5.18925122,18.423327 C4.99814679,18.3253678 4.8109311,18.2206914 4.6273264,18.1105572 C4.69787949,17.2793033 5.58215417,16.6154196 5.58215417,15.7784281 C5.58215417,15.4722355 5.43993692,15.2172617 5.32049664,15.0133665 C5.68437283,16.1694253 4.33483661,16.8522011 4.21359084,17.8480265 C3.96762721,17.6830352 3.72985773,17.5071284 3.50028242,17.3211459 C3.60638982,17.1367026 3.76860638,16.9102769 3.95346104,16.7846092 C3.86721405,16.6806325 3.78402251,16.5742768 3.7040253,16.4651222 C3.48708843,16.5982068 3.29348408,16.8459037 3.16932175,17.0401428 C2.97085646,16.8639562 2.77933537,16.6800727 2.59600843,16.4882126 C2.76641915,16.2736819 2.98641147,15.9463582 3.30778914,15.8584747 C3.23362506,15.7322473 3.1627942,15.603221 3.09599098,15.4720956 C2.72239291,15.5707545 2.46712405,15.927466 2.27726956,16.1393378 C2.10671996,15.9428596 1.94311456,15.7398041 1.78784221,15.5298915 C2.07102676,15.3425095 2.30532414,14.8734248 2.81683406,14.8539729 C2.85974923,14.9614481 2.90460877,15.0679438 2.95210711,15.1730401 C3.00724408,15.2950693 3.09029673,15.3420897 3.24404136,15.3420897 C3.71902478,15.3420897 4.45524907,15.0318388 5.02022935,14.4629757 C4.65274218,13.7881766 4.54121829,13.4448995 4.54121829,13.0932258 C4.54121829,12.199278 5.80006323,11.4487704 5.80006323,10.5814115 C5.80006323,9.71433241 5.36591172,9.2185188 5.36591172,8.27880998 C5.36591172,7.43202248 5.74575957,6.70110674 6.24032564,6.08452341 C6.11782991,6.1619112 6.01102809,6.2483952 5.90672617,6.35489087 C5.36827275,6.90416222 5.01147965,7.70714795 5.01147965,8.44771967 C5.01147965,9.44564425 5.38299446,9.85497386 5.38299446,10.5949858 C5.38299446,11.276782 3.94998894,12.2237678 4.11192773,13.1543804 C3.61194518,13.6133893 3.01502158,13.8185439 2.49323424,13.8185439 C2.53809379,14.0119434 2.59128638,14.2021242 2.65128428,14.3893663 C2.06324926,14.4208532 1.79423087,14.9263228 1.48396393,15.0935532 C1.3310526,14.86097 1.18730762,14.6223693 1.05397894,14.3766316 C1.57757177,14.3221943 1.7347885,13.6440366 2.46615186,13.6955351 C2.42768098,13.5168295 2.39545988,13.3357449 2.37032187,13.1522813 C1.5285457,13.0954649 1.3379968,13.8104273 0.784543904,13.8412145 C0.666909122,13.5887596 0.559273991,13.330567 0.463027352,13.0669168 C1.23286158,13.1026019 1.49535242,12.3497154 2.30365753,12.3595113 C2.3012965,12.283383 2.29949101,12.2069748 2.29949101,12.1304266 C2.29949101,11.9917444 2.3039353,11.8546015 2.31143504,11.7181583 C1.36396812,11.6959075 1.07578374,12.516386 0.256506785,12.4347999 C0.181092751,12.1743683 0.115678368,11.9101583 0.061513593,11.6417501 C1.09633857,11.7706364 1.47160325,10.8937614 2.40268185,10.8946011 C2.44462483,10.6439654 2.49976179,10.3976679 2.56698167,10.1566883 C1.43840996,10.1070089 1.04425706,11.0963971 -0.0570933769,10.9125136 C-0.0858423732,10.6825893 -0.106536095,10.4501461 -0.119174543,10.2157437 C1.16161407,10.3604434 1.64187508,9.29926519 2.80766771,9.42899119 C2.91766387,9.1481281 3.04543719,8.87636123 3.18945994,8.61495005 C1.72728877,8.35619777 1.23119498,9.58796501 -0.12972973,9.39862383 C0.0172095843,4.11106492 4.31705945,-0.12972973 9.59993056,-0.12972973 C14.8830794,-0.12972973 19.1827904,4.11106492 19.3297297,9.39862383 C17.9689439,9.58796501 17.4727112,8.35619777 16.0106789,8.61495005 C16.1545628,8.87636123 16.2823361,9.1481281 16.3924712,9.42899119 C17.5582638,9.29926519 18.0385248,10.3604434 19.3190357,10.2157437 M9.59993056,8.36151555 C9.48160136,8.36151555 9.45549116,8.31603449 9.3750773,8.31659425 C9.29785777,8.31701408 9.14841854,8.37858845 9.11619745,8.43498497 C9.11828071,8.46381297 9.1288359,8.48956225 9.1496685,8.51265264 C9.32216248,8.5386818 9.40007642,8.63552149 9.59993056,8.63552149 C9.80006246,8.63552149 9.87811529,8.5386818 10.0506093,8.51265264 C10.0710252,8.48956225 10.0815804,8.46381297 10.0838026,8.43498497 C10.0517203,8.37858845 9.90214223,8.31701408 9.82533935,8.31659425 C9.74464773,8.31603449 9.71839864,8.36151555 9.59993056,8.36151555 M8.89370522,8.96746331 C8.89370522,8.96746331 8.84231812,8.98565574 8.8285686,9.03183651 C9.03300591,9.18997069 9.17383432,9.5500408 9.59993056,9.5500408 C10.0260268,9.5500408 10.1674107,9.18997069 10.3712925,9.03183651 C10.3579596,8.98565574 10.3065726,8.96746331 10.3065726,8.96746331 C10.3065726,8.96746331 10.0394985,9.03071698 9.59993056,9.03071698 C9.16077922,9.03071698 8.89370522,8.96746331 8.89370522,8.96746331 M10.5789242,4.1106451 C10.4936494,4.0952515 10.0818582,4.0258404 9.59993056,4.0258404 C9.11800294,4.0258404 8.70635065,4.0952515 8.62121473,4.1106451 C8.57218866,4.11946143 8.55371709,4.07104158 8.59093801,4.04319318 C8.62427018,4.0181436 9.59993056,3.27001503 9.59993056,3.27001503 C9.59993056,3.27001503 10.5754521,4.0181436 10.609062,4.04319318 C10.6464218,4.07104158 10.6278113,4.11946143 10.5789242,4.1106451" fill="#666666" mask="url(#mask-54)"></path>
+                            </g>
+                            <text id="TM" font-family="AvenirNext-Medium, Avenir Next" font-size="0.685714286" font-weight="400" fill="#006241">
+                                <tspan x="14.6742857" y="19.1028571">TM</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle-6" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="13" y="66" width="179" height="22" rx="2"></rect>
+                        <text id="Save-in-Cards-&amp;-Offe" stroke="none" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10" font-weight="normal" letter-spacing="-0.16">
+                            <tspan x="51" y="81" fill="#FFFFFF">Save in Cards &amp; Offers</tspan>
+                        </text>
+                        <text id="Tall-size-partner-co" stroke="none" fill="none" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400">
+                            <tspan x="35" y="34" fill="#5E5E5E">Tall size partner coupon</tspan>
+                        </text>
+                        <text id="Starbucks-China" stroke="none" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal">
+                            <tspan x="35" y="18" fill="#5E5E5E">Starbucks China</tspan>
+                        </text>
+                        <text id="Expires:-2017.9.30--" stroke="none" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="8" font-weight="normal">
+                            <tspan x="35" y="49" fill="#9B9B9B">Expires: 2017.9.30 - 2018.9.30</tspan>
+                        </text>
+                        <text id="x2" stroke="none" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="8" font-weight="normal">
+                            <tspan x="172" y="34" fill="#9B9B9B">x2</tspan>
+                        </text>
+                        <path d="M7.50721848,56.9470645 L197.970011,56.9470645" id="Line" stroke="#000000" stroke-width="0.5" fill="none" opacity="0.16" stroke-linecap="square" stroke-dasharray="2,4"></path>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-50)" x="-0.408084697" y="416.976901" width="218" height="28"></rect>
+                <g id="navigation-bar" mask="url(#mask-50)">
+                    <g transform="translate(30.830606, 424.208855)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="samsung-galaxy-s8-copy-12" transform="translate(987.000000, 2407.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-56"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-58"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-60" fill="white">
+                    <use xlink:href="#path-59"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-59"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-60)">
+                    <g transform="translate(-0.804620, 0.000000)">
+                        <rect id="Bar" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="1" y="0" width="216.207892" height="448"></rect>
+                        <g id="Pin-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(9.000000, 18.000000)">
+                            <rect id="Rectangle-4" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <g id="Group" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                <polygon id="Back-Chevron" points="0.204042348 6.20692974 5.75337825 0.801732435 6.81039461 1.83129383 2.31807507 6.20692974 6.81039461 10.5825657 5.75337825 11.612127"></polygon>
+                                <rect id="Rectangle-3" x="2.00577478" y="5.60635226" width="9.60923965" height="1.20115496"></rect>
+                            </g>
+                        </g>
+                        <g id="status-bar-copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Gift-Certificate" stroke="none" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10" font-weight="normal" letter-spacing="-0.159999982">
+                            <tspan x="42.3965351" y="28.9769009" fill="#FFFFFF">Gift Certificate</tspan>
+                        </text>
+                        <path d="M32.3965351,18.9769009 L32.3965351,32.9769009" id="Line-2" stroke-opacity="0.54" stroke="#FFFFFF" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                        <g id="Group-10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(201.000000, 22.000000)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-60)">
+                    <g transform="translate(5.000000, 37.000000)">
+                        <g id="Combined-Shape" fill="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+                        </g>
+                        <circle id="Oval-3" fill="#FFFFFF" fill-rule="evenodd" cx="101.591915" cy="16.9769009" r="16"></circle>
+                        <g id="Page-1-Copy" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(86.591915, 1.976901)">
+                            <g id="Fill-4" transform="translate(0.591915, 0.976901)">
+                                <mask id="mask-64" fill="white">
+                                    <use xlink:href="#path-63"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" xlink:href="#path-63"></use>
+                                <path d="M23.4947866,12.0489787 C25.5942966,11.3157539 26.9725819,13.4159296 28.591692,12.9255738 C27.0211218,11.2452233 25.7434581,9.33354905 25.9122022,7.13156569 C25.9219935,7.00225951 25.8074142,6.92920992 25.6972097,7.00645777 C24.8976543,7.56482533 24.3362156,8.49074989 24.1643466,9.5323363 C23.0523021,8.81275585 21.7513058,8.71073831 20.67676,9.15365394 C21.7831797,9.93536853 22.7402296,10.9179695 23.4947866,12.0489787 M21.1582015,5.5496642 C20.0878222,5.62607239 19.1584797,5.99635825 18.4066309,6.61392117 C18.7259948,5.70164093 19.131814,4.90397299 19.6447127,4.13023507 C18.2826769,4.27549461 17.1437584,4.77844524 16.3121207,5.63593828 L15.6615185,3.91717377 L17.1056347,2.63187881 L15.1719522,2.49396622 L14.3998958,0.682210411 L13.6282561,2.49396622 L11.694157,2.63187881 L13.1382732,3.91717377 L12.4882959,5.63593828 C11.65645,4.77844524 10.5173231,4.27549461 9.15549561,4.13023507 C9.66818605,4.90397299 10.0737969,5.70164093 10.3933691,6.61392117 C9.64214529,5.99635825 8.71238608,5.62607239 7.64179846,5.5496642 C8.28385938,6.38112808 8.85279785,7.2682188 9.27465812,8.22080226 C9.32236479,8.32827752 9.42423623,8.36312302 9.53444071,8.30812591 C11.0004312,7.57448131 12.6522485,7.16137328 14.3998958,7.16137328 C16.1475432,7.16137328 17.7995688,7.57448131 19.2651426,8.30812591 C19.3759721,8.36312302 19.4778435,8.32827752 19.5253419,8.22080226 C19.9474105,7.2682188 20.5161406,6.38112808 21.1582015,5.5496642 M11.817486,10.7005 C12.1018511,10.4133396 12.7009968,10.4259343 13.3232668,10.6576778 C13.3503491,10.3453279 12.7962018,10.0048496 12.2420545,10.0048496 C11.8399852,10.0048496 11.6406172,10.1419225 11.6406172,10.3396602 C11.6406172,10.467497 11.683949,10.578121 11.817486,10.7005 M16.5579455,10.0048496 C16.2329568,10.0048496 15.8517201,10.1053977 15.6115202,10.3742958 C15.5873544,10.4475553 15.5873544,10.5562901 15.6225615,10.6289198 C16.2117076,10.4255145 16.7323144,10.4177477 16.982514,10.7005 C17.116676,10.578121 17.1595911,10.467497 17.1595911,10.3396602 C17.1595911,10.1419225 16.9604314,10.0048496 16.5579455,10.0048496 M14.3998958,7.82175838 C13.0445265,7.82175838 11.9095661,8.59444672 11.6118682,9.59237131 C11.5891606,9.66898941 11.6199929,9.71831888 11.7076982,9.6786454 C11.9520646,9.5688611 12.22893,9.51533338 12.5303778,9.51533338 C13.0832751,9.51533338 13.5705498,9.71978827 13.8586647,10.0755902 C13.9857436,10.4991938 13.9969932,11.1127684 13.8528316,11.4631126 C13.6257562,11.4112641 13.5432591,11.2336781 13.3209752,11.2336781 C13.0986913,11.2336781 12.9264056,11.3915324 12.5497521,11.3915324 C12.1722653,11.3915324 12.1278918,11.2118472 11.8812338,11.2118472 C11.5897856,11.2118472 11.5358292,11.5145412 11.5358292,11.856069 C11.5358292,13.3775156 12.9232807,15.4718138 14.3998958,15.4718138 C15.8769276,15.4718138 17.2645875,13.3775156 17.2645875,11.856069 C17.2645875,11.5145412 17.1947983,11.2223428 16.8902256,11.1826693 C16.7385642,11.2928734 16.5989857,11.3915324 16.2506646,11.3915324 C15.8733861,11.3915324 15.7694314,11.2336781 15.5469391,11.2336781 C15.2790318,11.2336781 15.3063225,11.8035908 14.987167,11.8352876 C14.7755077,11.3216315 14.7648831,10.6627157 14.9411269,10.0755902 C15.2294502,9.71978827 15.7167249,9.51533338 16.2696222,9.51533338 C16.5712784,9.51533338 16.8504353,9.5688611 17.0925102,9.6786454 C17.1800071,9.71873871 17.2110477,9.66898941 17.1883401,9.59237131 C16.8906422,8.59444672 15.7552652,7.82175838 14.3998958,7.82175838 M8.12344831,9.15365394 C7.04911082,8.71073831 5.74811458,8.81275585 4.63607008,9.5323363 C4.4635761,8.49074989 3.90234569,7.56482533 3.10279028,7.00645777 C2.99279412,6.92920992 2.87779813,7.00225951 2.88800611,7.13156569 C3.05654189,9.33354905 1.77929482,11.2452233 0.208516331,12.9255738 C1.82741814,13.4159296 3.20570335,11.3157539 5.3054217,12.0489787 C6.05997869,10.9179695 7.01682028,9.93536853 8.12344831,9.15365394 M28.9785535,15.3236155 C28.9600125,15.6752192 28.9289719,16.023884 28.8858484,16.3687704 C27.2338227,16.6445956 26.6423851,15.1605134 24.9495275,15.2350324 C25.0505656,15.5965019 25.1328544,15.9659481 25.1959772,16.3419016 C26.5925951,16.3406422 27.1554921,17.6559546 28.7077296,17.4626251 C28.6268991,17.8652375 28.5283609,18.2615525 28.4152398,18.6521999 C27.186741,18.774579 26.7540478,17.5438613 25.3328474,17.5772374 C25.3445137,17.7819022 25.3505552,17.9876166 25.3505552,18.19564 C25.3505552,18.3104622 25.3480552,18.4250745 25.344722,18.5392669 C26.5565547,18.524573 26.9507076,19.6539029 28.1056673,19.6003752 C27.9608807,19.9958506 27.7996363,20.3831394 27.6227675,20.7618217 C26.7932131,20.7156409 26.5069731,19.6429875 25.2445172,19.7284219 C25.2070185,20.0036173 25.1584785,20.2752443 25.1007722,20.5433027 C26.1980256,20.4662647 26.4338507,21.4832914 27.2188233,21.5649474 C27.0190386,21.9335539 26.8036294,22.291455 26.5740541,22.6403297 C26.108862,22.3894842 25.7051261,21.6312798 24.8234902,21.5840494 C24.9132788,21.3031864 24.9928593,21.0179151 25.0607736,20.7278159 C24.2774676,20.7278159 23.3822905,20.420084 22.6321084,19.7315706 C22.8752249,18.3356517 20.7255083,16.915173 20.7255083,15.8924787 C20.7255083,14.7824608 21.2825722,14.1684664 21.2825722,12.6715795 C21.2825722,11.5607219 20.7475909,10.3562433 19.9403274,9.5323363 C19.7836662,9.3725928 19.6232551,9.2428668 19.4395115,9.12678512 C20.1817773,10.0516601 20.7511324,11.1480337 20.7511324,12.418215 C20.7511324,13.8277782 20.0999052,14.5714986 20.0999052,15.8721172 C20.0999052,17.1731556 21.9883809,18.298917 21.9883809,19.6398388 C21.9883809,20.1673492 21.8213034,20.6822648 21.269656,21.6944635 C22.1173347,22.5477583 23.2214628,23.0131345 23.9337296,23.0131345 C24.1649716,23.0131345 24.2891339,22.9426039 24.372256,22.7595601 C24.4432952,22.6019157 24.5105845,22.4421722 24.5745406,22.2809593 C25.3420138,22.3101372 25.6936682,23.0137643 26.1182367,23.2948373 C25.8855365,23.6097062 25.6401284,23.9142894 25.383679,24.2090067 C25.0991056,23.891199 24.7164106,23.3561318 24.1562219,23.2081434 C24.0558087,23.4048315 23.9497707,23.5983709 23.8378996,23.7877121 C24.3205911,23.9195372 24.6505796,24.4105228 24.9059873,24.7323189 C24.630997,25.0201091 24.3439236,25.2959343 24.0462257,25.5602143 C23.8597739,25.2688555 23.5693674,24.8973102 23.243962,24.6976833 C23.1241746,24.8614151 22.9991789,25.0209487 22.8700168,25.1769138 C23.1470904,25.3654153 23.3908319,25.705054 23.5495764,25.9817188 C23.2052134,26.2606927 22.8483509,26.5245528 22.4798221,26.7720398 C22.2975368,25.2783016 20.2734408,24.2541379 20.819255,22.5200498 C20.640303,22.8258925 20.4267687,23.2083533 20.4267687,23.6676421 C20.4267687,24.9231295 21.7531808,25.9189549 21.8588021,27.1658359 C21.5838117,27.3310371 21.3029881,27.4880517 21.0163315,27.6349906 C20.9686248,26.2644711 19.5634656,24.7650653 19.5634656,23.6393039 C19.5634656,22.3838165 21.1961169,21.1218219 21.1961169,19.6394189 C21.1961169,18.1563863 19.3122243,17.1292839 19.3122243,15.8271959 C19.3122243,14.5251079 20.113863,13.7763496 20.113863,12.1079641 C20.113863,10.8862727 19.5378414,9.64925763 18.6476642,8.85914653 C18.4901697,8.71913482 18.3355918,8.60746131 18.148515,8.50985194 C18.9878606,9.52477945 19.4740937,10.4454562 19.4740937,11.8420048 C19.4740937,13.410262 18.5570424,14.2809795 18.5570424,15.81733 C18.5570424,17.3534705 20.4046862,18.2078149 20.4046862,19.6394189 C20.4046862,21.071023 18.6849546,22.2784404 18.6849546,23.749508 C18.6849546,25.0870712 20.2005266,26.4240047 20.2234425,28.011154 C19.8917874,28.1568333 19.5540909,28.2903378 19.2101446,28.4112474 C19.4030545,26.8066754 17.6962391,25.152354 17.6962391,23.8433389 C17.6962391,22.4123646 19.4805518,21.1826965 19.4805518,19.6394189 C19.4805518,18.0961414 17.6666568,17.3780303 17.6666568,15.7942396 C17.6666568,14.2108687 18.7801596,13.3338538 18.7801596,11.5842321 C18.7801596,10.2204299 18.1124745,8.99370052 17.1354253,8.23360693 C17.1152177,8.21765357 17.0943851,8.20191013 17.0739691,8.18679642 C16.9814724,8.11836491 16.9062667,8.20086056 16.9710561,8.28272649 C17.6624903,9.15239446 18.0318524,10.0315085 18.0318524,11.3329667 C18.0318524,12.9335505 16.753147,14.234169 16.753147,15.7850035 C16.753147,17.6146018 18.470587,18.1381239 18.470587,19.6394189 C18.470587,21.1402942 16.6289847,22.3409943 16.6289847,23.9352807 C16.6289847,25.4130655 18.3714238,27.0537425 18.0726843,28.7594925 C17.7229048,28.8505945 17.3689588,28.9293118 17.0098047,28.9945946 C17.3362516,26.8704888 15.6271447,25.344634 15.6271447,23.9556422 C15.6271447,22.449939 17.5339531,21.1096469 17.5339531,19.6394189 C17.5339531,18.253156 16.1648342,17.7997448 15.9854655,16.3807355 C15.9610913,16.1876159 15.8063051,16.0438257 15.5938125,16.0795109 C15.3154889,16.1307295 14.959668,16.3154526 14.3998958,16.3154526 C13.8401237,16.3154526 13.4840945,16.1307295 13.2057709,16.0795109 C12.9936949,16.0438257 12.839117,16.1876159 12.8145345,16.3807355 C12.6349575,17.7997448 11.2660469,18.253156 11.2660469,19.6394189 C11.2660469,21.1096469 13.172647,22.449939 13.172647,23.9556422 C13.172647,25.344634 11.4639567,26.8704888 11.7904036,28.9945946 C11.4314578,28.9293118 11.0773035,28.8505945 10.7275241,28.7594925 C10.4285762,27.0537425 12.1710153,25.4130655 12.1710153,23.9352807 C12.1710153,22.3409943 10.3296213,21.1402942 10.3296213,19.6394189 C10.3296213,18.1381239 12.046853,17.6146018 12.046853,15.7850035 C12.046853,14.234169 10.7681476,12.9335505 10.7681476,11.3329667 C10.7681476,10.0315085 11.1379264,9.15239446 11.8289439,8.28272649 C11.8937333,8.20086056 11.8183193,8.11836491 11.7262392,8.18679642 C11.7056149,8.20191013 11.6849906,8.21765357 11.6643663,8.23360693 C10.6877338,8.99370052 10.0198404,10.2204299 10.0198404,11.5842321 C10.0198404,13.3338538 11.1331349,14.2108687 11.1331349,15.7942396 C11.1331349,17.3780303 9.31903157,18.0961414 9.31903157,19.6394189 C9.31903157,21.1826965 11.1037609,22.4123646 11.1037609,23.8433389 C11.1037609,25.152354 9.39673719,26.8066754 9.59006377,28.4112474 C9.24611745,28.2903378 8.90821258,28.1568333 8.57676582,28.011154 C8.59926503,26.4240047 10.1150454,25.0870712 10.1150454,23.749508 C10.1150454,22.2784404 8.39531382,21.071023 8.39531382,19.6394189 C8.39531382,18.2078149 10.2427493,17.3534705 10.2427493,15.81733 C10.2427493,14.2809795 9.32590633,13.410262 9.32590633,11.8420048 C9.32590633,10.4454562 9.81193103,9.52477945 10.651485,8.50985194 C10.4648249,8.60746131 10.3098303,8.71913482 10.1523358,8.85914653 C9.26215856,9.64925763 8.686137,10.8862727 8.686137,12.1079641 C8.686137,13.7763496 9.48756735,14.5251079 9.48756735,15.8271959 C9.48756735,17.1292839 7.60409145,18.1563863 7.60409145,19.6394189 C7.60409145,21.1218219 9.23674278,22.3838165 9.23674278,23.6393039 C9.23674278,24.7650653 7.83137518,26.2644711 7.78387684,27.6349906 C7.49722018,27.4880517 7.21639665,27.3310371 6.9409896,27.1658359 C7.04681924,25.9189549 8.37323126,24.9231295 8.37323126,23.6676421 C8.37323126,23.2083533 8.15990537,22.8258925 7.98074496,22.5200498 C8.52655924,24.2541379 6.50225492,25.2783016 6.32038627,26.7720398 C5.95144082,26.5245528 5.5947866,26.2606927 5.25042363,25.9817188 C5.40958473,25.705054 5.65290957,25.3654153 5.93019156,25.1769138 C5.80082107,25.0209487 5.67603377,24.8614151 5.55603795,24.6976833 C5.23063265,24.8973102 4.94022612,25.2688555 4.75398263,25.5602143 C4.45628469,25.2959343 4.16900305,25.0201091 3.89401265,24.7323189 C4.14962873,24.4105228 4.4796172,23.9195372 4.96168371,23.7877121 C4.85043759,23.5983709 4.7441913,23.4048315 4.64398647,23.2081434 C4.08358937,23.3561318 3.70068607,23.891199 3.41590434,24.2090067 C3.16007994,23.9142894 2.91467184,23.6097062 2.68176331,23.2948373 C3.10654015,23.0137643 3.45798621,22.3101372 4.22525109,22.2809593 C4.28962384,22.4421722 4.35691316,22.6019157 4.42816067,22.7595601 C4.51086611,22.9426039 4.6354451,23.0131345 4.86606205,23.0131345 C5.57853717,23.0131345 6.68287361,22.5477583 7.53034402,21.6944635 C6.97911327,20.6822648 6.81182744,20.1673492 6.81182744,19.6398388 C6.81182744,18.298917 8.70009485,17.1731556 8.70009485,15.8721172 C8.70009485,14.5714986 8.04886758,13.8277782 8.04886758,12.418215 C8.04886758,11.1480337 8.61863936,10.0516601 9.36048846,9.12678512 C9.17674487,9.2428668 9.01654213,9.3725928 8.86008926,9.5323363 C8.05240913,10.3562433 7.51721948,11.5607219 7.51721948,12.6715795 C7.51721948,14.1684664 8.07449169,14.7824608 8.07449169,15.8924787 C8.07449169,16.915173 5.92498341,18.3356517 6.16789159,19.7315706 C5.41791778,20.420084 4.52253237,20.7278159 3.73985137,20.7278159 C3.80714068,21.0179151 3.88692957,21.3031864 3.97692642,21.5840494 C3.09487389,21.6312798 2.69134631,22.3894842 2.22594589,22.6403297 C1.9965789,22.291455 1.78096143,21.9335539 1.58096841,21.5649474 C2.36635766,21.4832914 2.60218276,20.4660548 3.69922779,20.5433027 C3.64152147,20.2752443 3.59318982,20.0036173 3.5554828,19.7284219 C2.29281856,19.6431974 2.0069952,20.7156409 1.17681586,20.7618217 C1.00036368,20.3831394 0.838910987,19.9958506 0.694541028,19.6003752 C1.84929238,19.6539029 2.24302863,18.524573 3.4554863,18.5392669 C3.45194475,18.4250745 3.44923651,18.3104622 3.44923651,18.19564 C3.44923651,17.9876166 3.45590295,17.7819022 3.46715256,17.5772374 C2.04595218,17.5438613 1.6136756,18.774579 0.384760177,18.6521999 C0.271639127,18.2615525 0.173517553,17.8652375 0.0922703895,17.4626251 C1.64450786,17.6559546 2.20740487,16.3406422 3.60402278,16.3419016 C3.66693725,15.9659481 3.74964269,15.5965019 3.8504725,15.2350324 C2.15761494,15.1605134 1.56638559,16.6445956 -0.0856400654,16.3687704 C-0.12876356,16.023884 -0.159804143,15.6752192 -0.178761814,15.3236155 C1.74242111,15.5406652 2.46281262,13.9488978 4.21150157,14.1434868 C4.37649581,13.7221922 4.56815578,13.3145419 4.7841899,12.9224251 C2.59093315,12.5342967 1.84679246,14.3819475 -0.194594595,14.0979357 C0.0258143765,6.16659738 6.47558918,-0.194594595 14.3998958,-0.194594595 C22.3246191,-0.194594595 28.7741856,6.16659738 28.9945946,14.0979357 C26.9534159,14.3819475 26.2090669,12.5342967 24.0160184,12.9224251 C24.2318442,13.3145419 24.4235042,13.7221922 24.5887068,14.1434868 C26.3373957,13.9488978 27.0577872,15.5406652 28.9785535,15.3236155 M14.3998958,12.5422733 C14.222402,12.5422733 14.1832367,12.4740517 14.0626159,12.4748914 C13.9467867,12.4755211 13.7226278,12.5678827 13.6742962,12.6524775 C13.6774211,12.6957195 13.6932538,12.7343434 13.7245028,12.768979 C13.9832437,12.8080227 14.1001146,12.9532822 14.3998958,12.9532822 C14.7000937,12.9532822 14.8171729,12.8080227 15.0759139,12.768979 C15.1065378,12.7343434 15.1223706,12.6957195 15.1257038,12.6524775 C15.0775805,12.5678827 14.8532133,12.4755211 14.738009,12.4748914 C14.6169716,12.4740517 14.577598,12.5422733 14.3998958,12.5422733 M13.3405578,13.451195 C13.3405578,13.451195 13.2634772,13.4784836 13.2428529,13.5477548 C13.5495089,13.784956 13.7607515,14.3250612 14.3998958,14.3250612 C15.0390402,14.3250612 15.2511161,13.784956 15.5569388,13.5477548 C15.5369395,13.4784836 15.4598588,13.451195 15.4598588,13.451195 C15.4598588,13.451195 15.0592478,13.5460755 14.3998958,13.5460755 C13.7411688,13.5460755 13.3405578,13.451195 13.3405578,13.451195 M15.8683862,6.16596764 C15.740474,6.14287726 15.1227873,6.0387606 14.3998958,6.0387606 C13.6770044,6.0387606 13.059526,6.14287726 12.9318221,6.16596764 C12.858283,6.17919214 12.8305756,6.10656237 12.886407,6.06478976 C12.9364053,6.0272154 14.3998958,4.90502255 14.3998958,4.90502255 C14.3998958,4.90502255 15.8631781,6.0272154 15.913593,6.06478976 C15.9696327,6.10656237 15.941717,6.17919214 15.8683862,6.16596764" fill="#666666" mask="url(#mask-64)"></path>
+                            </g>
+                            <text id="TM" font-family="AvenirNext-Medium, Avenir Next" font-size="1.02857143" font-weight="400" fill="#006241">
+                                <tspan x="23.0114286" y="29.1542857">TM</tspan>
+                            </text>
+                        </g>
+                        <path d="M15,123 L190,123 C191.104569,123 192,123.895431 192,125 L192,143 C192,144.104569 191.104569,145 190,145 L15,145 C13.8954305,145 13,144.104569 13,143 L13,125 C13,123.895431 13.8954305,123 15,123 Z" id="Rectangle-6" fill="#9B9B9B" fill-rule="evenodd"></path>
+                        <text id="Save-in-Cards-&amp;-Offe" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10" font-weight="normal" letter-spacing="-0.16">
+                            <tspan x="51" y="138" fill="#FFFFFF">Save in Cards &amp; Offers</tspan>
+                        </text>
+                        <text id="Tall-size-partner-co" fill="none" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400">
+                            <tspan x="25" y="74" fill="#5E5E5E">Tall size partner coupon</tspan>
+                        </text>
+                        <text id="Starbucks-China" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="9" font-weight="normal">
+                            <tspan x="69" y="48" fill="#5E5E5E">Starbucks China</tspan>
+                        </text>
+                        <text id="Redeem-a-beverage" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="8" font-weight="normal">
+                            <tspan x="66" y="91" fill="#9B9B9B">Redeem a beverage</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-60)" x="-0.408084697" y="416.976901" width="218" height="28"></rect>
+                <g id="navigation-bar" mask="url(#mask-60)">
+                    <g transform="translate(30.830606, 424.208855)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group-24" transform="translate(837.000000, 3595.000000)">
+            <g id="Group-20" transform="translate(24.000000, 18.000000)" font-size="14">
+                <text id="Save-to-WeChat-Cards" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#787878">
+                    <tspan x="0.264" y="14">Save to WeChat Cards&amp;Offers</tspan>
+                </text>
+                <text id="(-WeChat-native-page-Copy" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="24.085" y="41">( WeChat native page )</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-10" fill="#D8D8D8" x="0" y="0" width="240" height="2"></rect>
+        </g>
+        <g id="Group-24-Copy" transform="translate(985.000000, 2948.000000)">
+            <g id="Group-20" transform="translate(24.000000, 18.000000)" font-size="14">
+                <text id="Save-to-WeChat-Cards" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#787878">
+                    <tspan x="0.264" y="14">Save to WeChat Cards&amp;Offers</tspan>
+                </text>
+                <text id="(-WeChat-native-page-Copy" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="24.085" y="41">( WeChat native page )</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-10" fill="#D8D8D8" x="0" y="0" width="240" height="2"></rect>
+        </g>
+        <g id="3-copy-13" transform="translate(808.000000, 2476.000000)"></g>
+        <g id="3-copy-14" transform="translate(835.000000, 2598.000000)">
+            <path d="M143.038634,11.201155 C89.8458783,11.201155 47.4513117,11.201155 15.854934,11.201155 C12.2775414,11.1867507 5.35224846,15.2723786 5.35224846,22.783609 C5.35224846,30.5443512 5.35224846,39.1158867 5.35224846,40.7089675 C4.23310783,40.7089675 3.80863009,40.7089675 4.07881521,40.7089675 C4.07881521,34.2394791 4.07881521,28.2643596 4.07881521,22.783609 C4.07881521,14.5624831 11.0902856,10 15.854934,10 C47.4513117,10 89.8458783,10 143.038634,10 L143.038634,11.201155 Z" id="Combined-Shape" stroke="#C0C0C0" fill="#C0C0C0" fill-rule="nonzero" transform="translate(73.519317, 25.354484) scale(1, -1) translate(-73.519317, -25.354484) "></path>
+            <g id="Oval-14">
+                <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-65"></use>
+                <ellipse stroke="#636263" stroke-width="2" cx="4.80966767" cy="4.80528053" rx="5.80966767" ry="5.80528053"></ellipse>
+            </g>
+            <g id="Oval-14">
+                <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-66"></use>
+                <ellipse stroke="#636263" stroke-width="2" cx="148.809668" cy="40.8052805" rx="5.80966767" ry="5.80528053"></ellipse>
+            </g>
+        </g>
+        <g id="3-copy-8" transform="translate(593.000000, 2365.000000)">
+            <path d="M212.769531,28.6464844 L212.769531,12.8710937 C212.769531,6.24367675 207.396948,0.87109375 200.769531,0.87109375 L54.0078125,0.87109375 C47.3803955,0.87109375 42.0078125,6.24367675 42.0078125,12.8710938 L42.0078125,272.070312 C42.0078125,278.697729 36.6352295,284.070312 30.0078125,284.070312 L11.0195312,284.070312" id="Line-6" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square"></path>
+            <g id="Oval-14">
+                <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-67"></use>
+                <ellipse stroke="#636263" stroke-width="2" cx="4.80966767" cy="284.194719" rx="5.80966767" ry="5.80528053"></ellipse>
+            </g>
+            <g id="Oval-14">
+                <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-68"></use>
+                <ellipse stroke="#636263" stroke-width="2" cx="212.809668" cy="35.8052805" rx="5.80966767" ry="5.80528053"></ellipse>
+            </g>
+        </g>
+        <g id="Oval-14">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-69"></use>
+            <circle stroke="#636263" stroke-width="2" cx="703" cy="2493" r="6"></circle>
+        </g>
+        <path d="M673,3462 L673,3440.8297 C673,3434.20229 678.372583,3428.8297 685,3428.8297 L776.028317,3428.8297 C782.655734,3428.8297 788.028317,3423.45712 788.028317,3416.8297 L788.028317,3231 C788.028317,3224.37258 793.4009,3219 800.028317,3219 L821,3219" id="Line-6" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square"></path>
+        <g id="Oval-14">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-70"></use>
+            <circle stroke="#636263" stroke-width="2" cx="673" cy="3469" r="6"></circle>
+        </g>
+        <g id="Oval-14-Copy-3">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-71"></use>
+            <circle stroke="#636263" stroke-width="2" cx="827" cy="3219" r="6"></circle>
+        </g>
+    </g>
+</svg>

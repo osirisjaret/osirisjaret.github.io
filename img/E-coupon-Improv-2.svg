@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="697px" height="1700px" viewBox="0 0 697 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-2" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-3" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-4" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-5" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-7" x="-3.60346487" y="385.570741" width="221.61309" height="33.0317613"></rect>
+        <path d="M2.40230991,0 L199.59769,-4.4408921e-16 C200.924449,1.46313738e-14 202,1.07555078 202,2.40230991 L202,166.59769 C202,167.924449 200.924449,169 199.59769,169 L2.40230991,169 C1.07555078,169 1.47385977e-14,167.924449 -1.33226763e-15,166.59769 L0,2.40230991 C-1.62481132e-16,1.07555078 1.07555078,-1.08854593e-15 2.40230991,-1.33226763e-15 Z" id="path-8"></path>
+        <filter x="-3.2%" y="-3.3%" width="106.4%" height="107.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0183140851 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="245.035611" height="117.112608"></rect>
+        <polygon id="path-13" points="36.3577989 7.34627986 40.3465261 63.1184773 45.3588434 67.8709738 0 67.8709738 4.43624439 0"></polygon>
+        <rect id="path-15" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-16" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-17" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-18" x="4" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-19" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-21" x="1" y="-4.54747351e-13" width="225" height="34"></rect>
+        <filter x="-3.3%" y="-22.1%" width="106.7%" height="144.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="-2.84217094e-14" y="5.68434189e-13" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-26" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-31">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-32" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-36" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-37" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-38" x="4" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-39" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-41" x="1" y="-4.54747351e-13" width="225" height="34"></rect>
+        <filter x="-3.3%" y="-22.1%" width="106.7%" height="144.1%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0" y="99.0952839" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-52" x="0" y="0" width="8.4080847" height="70.267565" rx="3.00288739"></rect>
+        <rect id="path-53" x="225.216554" y="70.267565" width="8.4080847" height="34.8334937" rx="3.00288739"></rect>
+        <rect id="path-54" x="3.60346487" y="0" width="226.417709" height="492.473532" rx="31.8306064"></rect>
+        <rect id="path-55" x="0" y="0" width="216.207892" height="444.427334" rx="15.014437"></rect>
+        <rect id="path-57" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="205.998075" height="73.8710298" rx="2.40230991"></rect>
+        <filter x="-1.7%" y="-3.4%" width="103.4%" height="109.5%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="1" y="0" width="225.216554" height="34"></rect>
+        <filter x="-3.3%" y="-22.1%" width="106.7%" height="144.1%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-67" cx="314.809668" cy="47.8052805" rx="4.80966767" ry="4.80528053"></ellipse>
+        <circle id="path-68" cx="643" cy="1335" r="5"></circle>
+        <circle id="path-69" cx="606.5" cy="1850.5" r="5.5"></circle>
+        <rect id="path-70" x="0" y="0" width="110" height="38" rx="19"></rect>
+        <rect id="path-71" x="0" y="0" width="110" height="38" rx="19"></rect>
+        <rect id="path-72" x="0" y="0" width="56" height="19" rx="9.5"></rect>
+        <circle id="path-73" cx="705" cy="1930" r="5"></circle>
+        <circle id="path-74" cx="888" cy="2022" r="5"></circle>
+    </defs>
+    <g id="Desktop-HD-Copy-15" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-459.000000, -1008.000000)">
+        <g id="Group-8" transform="translate(491.000000, 1084.000000)">
+            <g id="status-bar-copy-2" transform="translate(145.000000, 77.000000)">
+                <g id="status-bar-contents" transform="translate(0.000000, 0.400000)">
+                    <g id="time" opacity="0.9" transform="translate(24.600000, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.8" font-weight="normal" letter-spacing="-0.0600000009">
+                        <text id="5:18PM">
+                            <tspan x="0.540820317" y="7">5:18P</tspan>
+                            <tspan x="20.1902344" y="7">M</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(16.800000, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.8 0 7.8 7.8 0 7.8"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="4.3875 0.9140625 4.3875 0.4875 2.925 0.4875 2.925 0.9140625 1.4625 0.9140625 1.4625 7.3125 5.85 7.3125 5.85 0.9140625"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(9.000000, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.8 0 7.8 7.8 0 7.8"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 7.2 6.6 7.2 6.6 0.6"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(0.000000, 0.600000)">
+                        <polygon id="bounds" points="0.9 0 8.1 0 8.1 7.2 0.9 7.2"></polygon>
+                        <path d="M0.439817438,1.80716906 C1.56969859,0.955153718 2.97585681,0.45 4.5,0.45 C6.02414319,0.45 7.43030141,0.955153718 8.56018256,1.80716906 L4.5,6.75 L0.439817438,1.80716906 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="samsung-galaxy-s8-copy-7">
+                <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                    <g id="bixby">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                    </g>
+                    <g id="volume">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                    </g>
+                    <g id="sleep/wake">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                    </g>
+                </g>
+                <g id="bezel">
+                    <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+                </g>
+                <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                    <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                    <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                    <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                    <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                    <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                    <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                    <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+                </g>
+                <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                    </g>
+                    <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-6)">
+                        <rect id="Bar" fill="#787878" x="0" y="0" width="216.207892" height="38.4369586"></rect>
+                        <text id="星福利" font-family="PingFangSC-Regular, PingFang SC" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966306" fill="#FFFFFF">
+                            <tspan x="31.8306064" y="29.0173244">星福利</tspan>
+                        </text>
+                        <g id="Pin-Left" transform="translate(7.405197, 18.017324)">
+                            <g id="Group-4" transform="translate(-0.000000, 0.000000)">
+                                <rect id="Rectangle-4" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            </g>
+                            <g id="Group-18" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                <polygon id="Back-Chevron" points="0.204042348 6.20692974 5.75337825 0.801732435 6.81039461 1.83129383 2.31807507 6.20692974 6.81039461 10.5825657 5.75337825 11.612127"></polygon>
+                                <rect id="Rectangle-3" x="2.00577478" y="5.60635226" width="9.60923965" height="1.20115496"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Rectangle-6" mask="url(#mask-6)">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#E7E7E7" stroke-width="0.600577478" x="-3.30317613" y="385.87103" width="221.012512" height="32.4311838"></rect>
+                    </g>
+                    <g id="Group-7" mask="url(#mask-6)">
+                        <g transform="translate(6.005775, 392.177093)">
+                            <rect id="Rectangle-8" stroke="#5E5E5E" stroke-width="0.600577478" fill="none" x="0.300288739" y="5.10490857" width="19.2184793" height="13.813282" rx="1.80173244"></rect>
+                            <rect id="Rectangle-9" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="3.60346487" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-4" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="3.60346487" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-5" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-8" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="7.20692974" y="14.4138595" width="6.00577478" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-2" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="10.8103946" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-6" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="10.8103946" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-3" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="14.4138595" y="7.20692974" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <rect id="Rectangle-9-Copy-7" stroke="none" fill="#5E5E5E" fill-rule="evenodd" x="14.4138595" y="10.8103946" width="2.40230991" height="2.40230991" rx="0.600577478"></rect>
+                            <polygon id="Triangle" stroke="none" fill="#5E5E5E" fill-rule="evenodd" points="10.2098171 0 12.0115496 2.40230991 8.4080847 2.40230991"></polygon>
+                        </g>
+                    </g>
+                    <rect fill="#F7F7F7" mask="url(#mask-6)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                    <path d="M33.9326275,386.471607 L33.9326275,417.70741" id="Line-3" stroke="#E6E6E6" stroke-width="0.600577478" stroke-linecap="square" mask="url(#mask-6)"></path>
+                    <text id="Partner-Coupons" mask="url(#mask-6)" font-family="AvenirNext-Medium, Avenir Next" font-size="9.60923965" font-weight="400" fill="#666666">
+                        <tspan x="85.2820019" y="405.179981">Partner Coupons</tspan>
+                    </text>
+                </g>
+                <g id="navigation-bar" transform="translate(39.238691, 448.832531)" fill="#D1D1CB" fill-rule="nonzero">
+                    <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                        <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2"></path>
+                        <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                    </g>
+                    <g id="home" transform="translate(73.069297, 1.000000)">
+                        <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                        <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2"></path>
+                    </g>
+                    <g id="back" transform="translate(0.000000, 0.000000)">
+                        <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3"></path>
+                        <polygon id="Path-3" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="status-bar-copy-4" transform="translate(8.000000, 24.000000)">
+                <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                    <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                        <text id="5:18PM">
+                            <tspan x="0.515354312" y="7">5:18P</tspan>
+                            <tspan x="20.1836802" y="7">M</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(16.816169, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(9.008662, 0.000000)">
+                        <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(0.000000, 0.600577)">
+                        <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                        <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Bitmap-Copy-3" transform="translate(15.000000, 86.000000)">
+                <mask id="mask-9" fill="white">
+                    <use xlink:href="#path-8"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-8"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+                <text id="Dear-partner,-you-ha" mask="url(#mask-9)" font-family="AvenirNext-Medium, Avenir Next" font-size="11" font-weight="400" fill="#666666">
+                    <tspan x="8" y="137">Dear partner, you have received 10 </tspan>
+                    <tspan x="8" y="152">Partner Coupons of November.</tspan>
+                </text>
+                <g id="Bitmap" mask="url(#mask-9)">
+                    <g transform="translate(-12.011550, 0.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#C0C0C0" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <polygon id="Rectangle-2" stroke="none" fill="#CCCCCC" fill-rule="evenodd" mask="url(#mask-12)" points="4.5919153 -15.6150144 130.92589 -15.6150144 39.8076376 130.92589 4.5919153 16.7135543"></polygon>
+                        <g id="Group-6" opacity="0.119999997" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-12)">
+                            <g transform="translate(184.977863, 57.054860)" id="Page-1">
+                                <g transform="translate(32.375815, 0.000000)" stroke-linecap="round" stroke-linejoin="round">
+                                    <g id="Group-9" transform="translate(0.000000, 0.000000)" stroke-width="3.06549222">
+                                        <path d="M36.8645719,41.8078786 C36.8645719,47.1044286 32.5467585,51.3968934 27.2214936,51.3968934 C21.8950812,51.3968934 17.5772678,47.1044286 17.5772678,41.8078786 C17.5772678,36.5113286 21.8950812,32.2188638 27.2214936,32.2188638 C32.5467585,32.2188638 36.8645719,36.5113286 36.8645719,41.8078786 Z" id="Stroke-1" stroke="#3D3D3D"></path>
+                                        <path d="M49.0624234,17.7527329 L4.60145251,17.7527329 L8.45111075,72.4776645 C8.57159185,74.4824122 10.2422632,76.0467314 12.2617561,76.0467314 L41.4021199,76.0467314 C43.4216127,76.0467314 45.0911367,74.4824122 45.2127652,72.4776645 L49.0624234,17.7527329 Z" id="Stroke-3" stroke="#4A4A4A"></path>
+                                        <path d="M53.6284279,17.7527329 L0.0349890489,17.7527329 L0.979331443,12.5052461 C1.28110793,11.2102042 2.44116888,8.80154049 3.77678801,8.80154049 L49.886629,8.80154049 C51.2222481,8.80154049 52.382309,11.2102042 52.6840855,12.5052461 L53.6284279,17.7527329 Z" id="Stroke-5" stroke="#4A4A4A"></path>
+                                        <path d="M8.48427174,8.80131229 L39.3572686,0.174165623 C41.7657433,-0.499027941 44.155859,1.30147959 44.155859,3.79001376" id="Stroke-7" stroke="#4A4A4A" transform="translate(26.320065, 4.416604) scale(-1, 1) translate(-26.320065, -4.416604) "></path>
+                                    </g>
+                                </g>
+                                <g transform="translate(0.000000, 9.884343)">
+                                    <mask id="mask-14" fill="white">
+                                        <use xlink:href="#path-13"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Bitmap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-12)">
+                            <g transform="translate(-25.224254, -0.600577)"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-8-Copy-3" transform="translate(80.000000, 69.000000)">
+                <rect id="Rectangle-5" fill="#CECECE" x="0" y="0" width="72" height="12" rx="1.20115496"></rect>
+                <text id="7/29/17-5:18PM" font-family="PingFangSC-Regular, PingFang SC" font-size="8.4080847" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="5" y="9">7/29/17 5:18PM</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="samsung-galaxy-s8-copy-16" transform="translate(890.000000, 1084.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-18"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="3.09913378" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-20" fill="white">
+                    <use xlink:href="#path-19"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Group-7-Copy-4" mask="url(#mask-20)">
+                    <g transform="translate(7.000000, 135.000000)">
+                        <text id="2017/11-(11-availiab" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="0.72" y="9.30133333" fill="#000000">2017/11 (11 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" transform="translate(190.234667, 7.952000) scale(1, -1) translate(-190.234667, -7.952000) translate(183.258667, 0.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-20)">
+                    <g transform="translate(-6.804620, -1.000000)">
+                        <rect id="Bar" fill="#787878" fill-rule="evenodd" x="6.80461983" y="1" width="216.207892" height="38.4369586"></rect>
+                        <g id="status-bar-copy-5" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.396535, 0.976901)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 39.436959)">
+                            <g id="Rectangle-Copy-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                            </g>
+                            <g id="Group-6" transform="translate(0.000000, 1.000000)">
+                                <rect id="Rectangle-2" x="0" y="0" width="225" height="33"></rect>
+                                <rect id="Rectangle-5" fill="#DCDCDC" x="5.39653513" y="32.5399423" width="218" height="28"></rect>
+                                <g id="Group-7-Copy-3" transform="translate(5.804620, 60.539942)">
+                                    <rect id="Rectangle-5" fill="#DCDCDC" x="0" y="0" width="218" height="28"></rect>
+                                    <text id="2017/10-(10-availiab" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                        <tspan x="8.72" y="16.3013333">2017/10 (10 availiable)</tspan>
+                                    </text>
+                                    <g id="Icon/UI/Input_dropdown_dark" transform="translate(191.258667, 6.976000)">
+                                        <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                        <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                                    </g>
+                                </g>
+                                <text id="2017/9-(3-availiable" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                    <tspan x="14.72" y="49.3013333">2017/9 (3 availiable)</tspan>
+                                </text>
+                                <g id="Icon/UI/Input_dropdown_dark" transform="translate(196.396535, 39.539942)">
+                                    <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                    <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                                </g>
+                                <g id="Group-Copy" transform="translate(130.000000, 10.000000)">
+                                    <g id="Group-5-Copy" transform="translate(0.000000, -0.000000)" fill="#9B9B9B" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500">
+                                        <text id="Available-only">
+                                            <tspan x="0.39653513" y="9.53994225">Available only</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="switch-copy-2" transform="translate(67.396535, 0.539942)">
+                                        <rect id="Rectangle-13" fill="#787878" x="0" y="0" width="18" height="11" rx="5.5"></rect>
+                                        <ellipse id="Oval-2" fill="#FFFFFF" cx="12.4615385" cy="5.5" rx="5.19230769" ry="5.15625"></ellipse>
+                                    </g>
+                                </g>
+                                <g id="Group-5" transform="translate(14.396535, 9.706449)" fill="#4A4A4A" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500" line-spacing="12.0115496">
+                                    <text id="Multi-select">
+                                        <tspan x="0" y="9">Multi-select</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Partner-Coupon-Manag" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966301">
+                            <tspan x="38.3965351" y="29.9769009" fill="#FFFFFF">Partner Coupon Management</tspan>
+                        </text>
+                        <g id="Group-10" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(206.396535, 22.976901)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                        <g id="Icons/chevron/close_light" fill="none" transform="translate(13.410972, 19.017324)">
+                            <rect id="Bounds" fill="#FF0000" fill-rule="evenodd" opacity="0" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <path d="M3.45322564,3.53562 L10.9597244,11.0421187" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.45322564,11.0421187 L10.9597244,3.53562" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 160.976901)" id="Oval-4-+-2017/11-Tall-size-pa-+-Group-3-Copy-3-+-Line-+-Valid-until-2018-11--Mask">
+                        <g transform="translate(-0.000000, 0.000000)">
+                            <mask id="mask-24" fill="white">
+                                <use xlink:href="#path-23"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-23"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                            </g>
+                            <circle id="Oval-4" fill="#9B9B9B" mask="url(#mask-24)" cx="-1.50990331e-14" cy="5.81756865e-13" r="8"></circle>
+                            <text id="2017/11-Tall-size-pa" mask="url(#mask-24)" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500" fill="#9B9B9B">
+                                <tspan x="7.20692974" y="19.8046198">2017/11</tspan>
+                                <tspan x="7.20692974" y="39.8046198">Tall size partner coupon-03</tspan>
+                            </text>
+                            <g id="Group-3-Copy-3" mask="url(#mask-24)">
+                                <g transform="translate(87.135707, 53.253128)">
+                                    <rect id="Rectangle-15" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                                    <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" fill="none" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                                    <text id="Send-as-gift" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="66.771" y="11" fill="#FFFFFF">Send as gift</tspan>
+                                    </text>
+                                    <text id="Save-to-wallet" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="4.324" y="11" fill="#5E5E5E">Save to wallet</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281" mask="url(#mask-24)"></path>
+                            <text id="Valid-until-2018-11-" mask="url(#mask-24)" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400" fill="#9B9B9B">
+                                <tspan x="7" y="64">Valid until </tspan>
+                                <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next">2018-11-30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 245.000000)" id="2017/11-Tall-size-pa-+-Group-3-Copy-3-+-Line-+-Valid-until-2018-11--Mask">
+                        <g>
+                            <mask id="mask-27" fill="white">
+                                <use xlink:href="#path-26"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-26"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-26"></use>
+                            </g>
+                            <circle id="Oval-4" fill="#9B9B9B" mask="url(#mask-27)" cx="-1.50990331e-14" cy="-1.50990331e-14" r="8"></circle>
+                            <text id="2017/11-Tall-size-pa" mask="url(#mask-27)" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500" fill="#9B9B9B">
+                                <tspan x="7.20692974" y="19.8046198">2017/11</tspan>
+                                <tspan x="7.20692974" y="39.8046198">Tall size partner coupon-04</tspan>
+                            </text>
+                            <g id="Group-3-Copy-3" mask="url(#mask-27)">
+                                <g transform="translate(87.135707, 53.253128)">
+                                    <rect id="Rectangle-15" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                                    <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" fill="none" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                                    <text id="Send-as-gift" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="66.771" y="11" fill="#FFFFFF">Send as gift</tspan>
+                                    </text>
+                                    <text id="Save-to-wallet" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="4.324" y="11" fill="#5E5E5E">Save to wallet</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281" mask="url(#mask-27)"></path>
+                            <text id="Valid-until-2018-11-" mask="url(#mask-27)" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400" fill="#9B9B9B">
+                                <tspan x="7" y="64">Valid until </tspan>
+                                <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next">2018-11-30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-8" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 329.000000)" id="2017/11-Tall-size-pa-+-Group-3-Copy-3-+-Line-+-Valid-until-2018-11--Mask">
+                        <g>
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-31)" xlink:href="#path-29"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <circle id="Oval-4" fill="#9B9B9B" mask="url(#mask-30)" cx="-1.50990331e-14" cy="-1.50990331e-14" r="8"></circle>
+                            <text id="2017/11-Tall-size-pa" mask="url(#mask-30)" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500" fill="#9B9B9B">
+                                <tspan x="7.20692974" y="19.8046198">2017/11</tspan>
+                                <tspan x="7.20692974" y="39.8046198">Tall size partner coupon-04</tspan>
+                            </text>
+                            <g id="Group-3-Copy-3" mask="url(#mask-30)">
+                                <g transform="translate(87.135707, 53.253128)">
+                                    <rect id="Rectangle-15" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                                    <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" fill="none" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                                    <text id="Send-as-gift" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="66.771" y="11" fill="#FFFFFF">Send as gift</tspan>
+                                    </text>
+                                    <text id="Save-to-wallet" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="4.324" y="11" fill="#5E5E5E">Save to wallet</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281" mask="url(#mask-30)"></path>
+                            <text id="Valid-until-2018-11-" mask="url(#mask-30)" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400" fill="#9B9B9B">
+                                <tspan x="7" y="64">Valid until </tspan>
+                                <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next">2018-11-30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-9" mask="url(#mask-20)">
+                    <g transform="translate(5.000000, 413.000000)" id="2017/11-Tall-size-pa-+-Group-3-Copy-3-+-Line-+-Valid-until-2018-11--Mask">
+                        <g>
+                            <mask id="mask-33" fill="white">
+                                <use xlink:href="#path-32"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-32"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-32"></use>
+                            </g>
+                            <circle id="Oval-4" fill="#9B9B9B" mask="url(#mask-33)" cx="-1.50990331e-14" cy="-1.50990331e-14" r="8"></circle>
+                            <text id="2017/11-Tall-size-pa" mask="url(#mask-33)" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500" fill="#9B9B9B">
+                                <tspan x="7.20692974" y="19.8046198">2017/11</tspan>
+                                <tspan x="7.20692974" y="39.8046198">Tall size partner coupon-04</tspan>
+                            </text>
+                            <g id="Group-3-Copy-3" mask="url(#mask-33)">
+                                <g transform="translate(87.135707, 53.253128)">
+                                    <rect id="Rectangle-15" stroke="none" fill="#9B9B9B" fill-rule="evenodd" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                                    <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" fill="none" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                                    <text id="Send-as-gift" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="66.771" y="11" fill="#FFFFFF">Send as gift</tspan>
+                                    </text>
+                                    <text id="Save-to-wallet" stroke="none" fill="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400">
+                                        <tspan x="4.324" y="11" fill="#5E5E5E">Save to wallet</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281" mask="url(#mask-33)"></path>
+                            <text id="Valid-until-2018-11-" mask="url(#mask-33)" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400" fill="#9B9B9B">
+                                <tspan x="7" y="64">Valid until </tspan>
+                                <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next">2018-11-30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-20)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                <g id="navigation-bar" mask="url(#mask-20)">
+                    <g transform="translate(28.428296, 424.809432)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(-0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="samsung-galaxy-s8-copy-14" transform="translate(491.000000, 1857.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-38"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="3.09913378" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-40" fill="white">
+                    <use xlink:href="#path-39"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-39"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Group-7-Copy-3" mask="url(#mask-40)">
+                    <g transform="translate(-2.000000, 349.976901)">
+                        <rect id="Rectangle-5" x="0.591915303" y="0.976900866" width="218" height="27"></rect>
+                        <text id="2017/10-(10-availiab" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="9.5919153" y="17" fill="#000000">2017/10 (10 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" transform="translate(192.258667, 7.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-4" opacity="0" mask="url(#mask-40)">
+                    <g transform="translate(-1.000000, 379.000000)">
+                        <rect id="Rectangle-5" fill="#DCDCDC" fill-rule="evenodd" x="0" y="0" width="218" height="27.904"></rect>
+                        <text id="2017/11-(11-availiab" fill="none" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill-opacity="0.56">
+                            <tspan x="8.72" y="16.3013333" fill="#000000">2017/11 (11 availiable)</tspan>
+                        </text>
+                        <g id="Icon/UI/Input_dropdown_dark" fill="none" transform="translate(191.258667, 6.976000)" fill-rule="evenodd">
+                            <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                            <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-40)">
+                    <g transform="translate(-6.804620, -1.000000)">
+                        <rect id="Bar" fill="#787878" fill-rule="evenodd" x="6.80461983" y="1" width="216.207892" height="38.4369586"></rect>
+                        <g id="status-bar-copy-5" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.396535, 0.976901)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 39.436959)">
+                            <g id="Rectangle-Copy-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                            </g>
+                            <g id="Group-6" transform="translate(0.000000, 1.000000)">
+                                <rect id="Rectangle-2" x="0" y="0" width="225" height="33"></rect>
+                                <g id="Group-7-Copy-2" transform="translate(6.000000, 33.000000)">
+                                    <rect id="Rectangle-5" x="0" y="0" width="218" height="27.904"></rect>
+                                    <text id="2017/9-(3-availiable" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                        <tspan x="8.72" y="16.3013333">2017/9 (3 availiable)</tspan>
+                                    </text>
+                                    <g id="Icon/UI/Input_dropdown_dark" transform="translate(198.234667, 13.952000) scale(1, -1) translate(-198.234667, -13.952000) translate(191.258667, 6.976000)">
+                                        <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                        <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                                    </g>
+                                </g>
+                                <g id="Group-Copy" transform="translate(130.000000, 10.000000)">
+                                    <g id="Group-5-Copy" transform="translate(0.000000, -0.000000)" fill="#9B9B9B" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500">
+                                        <text id="Available-only">
+                                            <tspan x="0.39653513" y="9.53994225">Available only</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="switch-copy-2" transform="translate(67.396535, 0.539942)">
+                                        <rect id="Rectangle-13" fill="#787878" x="0" y="0" width="18" height="11" rx="5.5"></rect>
+                                        <ellipse id="Oval-2" fill="#FFFFFF" cx="12.4615385" cy="5.5" rx="5.19230769" ry="5.15625"></ellipse>
+                                    </g>
+                                </g>
+                                <g id="Group-5" transform="translate(14.396535, 9.706449)" fill="#4A4A4A" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500" line-spacing="12.0115496">
+                                    <text id="Multi-select">
+                                        <tspan x="0" y="9">Multi-select</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Partner-Coupon-Manag" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966301">
+                            <tspan x="38.3965351" y="29.9769009" fill="#FFFFFF">Partner Coupon Management</tspan>
+                        </text>
+                        <g id="Group-10" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(206.396535, 22.976901)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                        <g id="Icons/chevron/close_light" fill="none" transform="translate(13.410972, 19.017324)">
+                            <rect id="Bounds" fill="#FF0000" fill-rule="evenodd" opacity="0" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <path d="M3.45322564,3.53562 L10.9597244,11.0421187" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.45322564,11.0421187 L10.9597244,3.53562" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-40)">
+                    <g transform="translate(5.000000, 101.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-03</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" mask="url(#mask-40)">
+                    <g transform="translate(5.000000, 185.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-04</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-4" mask="url(#mask-40)">
+                    <g transform="translate(5.000000, 269.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-05</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-7" mask="url(#mask-40)">
+                    <g transform="translate(4.591915, 385.976901)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-05</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-9-3" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-9-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-40)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                <g id="navigation-bar" mask="url(#mask-40)">
+                    <g transform="translate(28.428296, 424.809432)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(-0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M711,2022 L768.142457,2022 C774.769874,2022 780.142457,2016.62742 780.142457,2010 L780.142457,1942 C780.142457,1935.37258 785.51504,1930 792.142457,1930 L882,1930" id="Line-5" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square" transform="translate(796.500000, 1976.000000) scale(1, -1) translate(-796.500000, -1976.000000) "></path>
+        <g id="samsung-galaxy-s8-copy-15" transform="translate(890.000000, 1857.000000)">
+            <g id="bezel-buttons" transform="translate(0.000000, 80.477382)">
+                <g id="bixby">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="98.4947064" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+                <g id="volume">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-52"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="-0.600577478" y="-0.600577478" width="9.60923965" height="71.4687199" rx="3.00288739"></rect>
+                </g>
+                <g id="sleep/wake">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.20115496" x="224.615977" y="69.6669875" width="9.60923965" height="36.0346487" rx="3.00288739"></rect>
+                </g>
+            </g>
+            <g id="bezel">
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-54"></use>
+                <rect stroke="#CCCDC9" stroke-width="1.80173244" x="2.70259865" y="-0.900866218" width="228.219442" height="494.275265" rx="31.8306064"></rect>
+            </g>
+            <g id="speakers-and-sensors" transform="translate(37.836381, 7.807507)" fill="#DCDCDC">
+                <circle id="led-indicator" cx="2.10202117" cy="3.90375361" r="2.10202117"></circle>
+                <circle id="iris-recognition-led" cx="15.9153032" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="proximity-sensor" cx="32.1308951" cy="3.90375361" r="1.5014437"></circle>
+                <circle id="light-sensor" cx="41.1395573" cy="3.90375361" r="1.5014437"></circle>
+                <rect id="speaker" x="63.6612127" y="2.40230991" width="30.0288739" height="3.60346487" rx="1.80173244"></rect>
+                <circle id="front-facing-camera" cx="124.019249" cy="3.90375361" r="3.90375361"></circle>
+                <circle id="iris-recognition-camera" cx="146.240616" cy="3.90375361" r="2.10202117"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(8.408085, 24.023099)">
+                <mask id="mask-56" fill="white">
+                    <use xlink:href="#path-55"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-55"></use>
+                    <rect stroke="#CCCDC9" stroke-width="1.80173244" x="-0.900866218" y="-0.900866218" width="218.009625" height="446.229066" rx="15.014437"></rect>
+                </g>
+                <g id="Group-2" mask="url(#mask-56)">
+                    <g transform="translate(5.000000, 101.000000)">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal">
+                            <tspan x="7.20692974" y="19.8046198" fill="#BBBBBB">2017/9</tspan>
+                            <tspan x="7.20692974" y="38.8046198" fill="#BBBBBB">Tall size partner coupon-01</tspan>
+                        </text>
+                        <text id="Used" font-family="PingFangSC-Medium, PingFang SC" font-size="9" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Used</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-5" mask="url(#mask-56)">
+                    <g transform="translate(5.000000, 185.000000)">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal">
+                            <tspan x="7.20692974" y="19.8046198" fill="#BBBBBB">2017/9</tspan>
+                            <tspan x="7.20692974" y="38.8046198" fill="#BBBBBB">Tall size partner coupon-02</tspan>
+                        </text>
+                        <text id="Sent" font-family="PingFangSC-Medium, PingFang SC" font-size="9" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Sent</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-56)">
+                    <g transform="translate(5.000000, 269.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-03</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-09-" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-09-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-6" mask="url(#mask-56)">
+                    <g transform="translate(5.000000, 353.000000)">
+                        <g id="Combined-Shape" stroke="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+                        </g>
+                        <text id="2017/9-Tall-size-par" stroke="none" font-family="PingFangSC-Semibold, PingFang SC" font-size="14.4138595" font-weight="500">
+                            <tspan x="7.20692974" y="19.8046198" fill="#9B9B9B">2017/9</tspan>
+                            <tspan x="7.20692974" y="39.8046198" fill="#9B9B9B">Tall size partner coupon-04</tspan>
+                        </text>
+                        <g id="Group-3-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(87.135707, 53.253128)">
+                            <rect id="Rectangle-15" fill="#9B9B9B" x="59" y="0" width="55.253128" height="16.8161694" rx="8.4080847"></rect>
+                            <rect id="Rectangle-15-Copy" stroke="#9B9B9B" stroke-width="0.600577478" x="0.300288739" y="0.300288739" width="54.6525505" height="16.2155919" rx="8.10779596"></rect>
+                            <text id="Send-as-gift" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#FFFFFF">
+                                <tspan x="66.771" y="11">Send as gift</tspan>
+                            </text>
+                            <text id="Save-to-wallet" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" fill="#5E5E5E">
+                                <tspan x="4.324" y="11">Save to wallet</tspan>
+                            </text>
+                        </g>
+                        <path d="M7.50721848,47.9470645 L197.970011,47.9470645" id="Line" stroke="#000000" stroke-width="0.600577478" opacity="0.16" stroke-linecap="square" stroke-dasharray="3.00288739172281"></path>
+                        <text id="Valid-until-2018-09-" stroke="none" font-family="PingFangSC-Medium, PingFang SC" font-size="7.20692974" font-weight="400">
+                            <tspan x="7" y="64" fill="#9B9B9B">Valid until </tspan>
+                            <tspan x="43.3373397" y="64" font-family="AvenirNext-Medium, Avenir Next" fill="#9B9B9B">2018-09-30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Navigation-Bar/Normal---Dark" mask="url(#mask-56)">
+                    <g transform="translate(-5.804620, -1.000000)">
+                        <rect id="Bar" fill="#787878" fill-rule="evenodd" x="5.80461983" y="1" width="216.207892" height="38.4369586"></rect>
+                        <g id="status-bar-copy-5" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(7.396535, 0.976901)">
+                            <rect id="status-bar-bg" x="0" y="0" width="216.207892" height="12.612127"></rect>
+                            <g id="status-bar-contents" transform="translate(153.147257, 2.402310)">
+                                <g id="time" opacity="0.9" transform="translate(25.824832, 0.000000)" fill="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="7.80750722" font-weight="normal" letter-spacing="-0.0600577487">
+                                    <text id="5:18PM">
+                                        <tspan x="0.515354312" y="7">5:18P</tspan>
+                                        <tspan x="20.1836802" y="7">M</tspan>
+                                    </text>
+                                </g>
+                                <g id="battery" transform="translate(16.816169, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="4.39172281 0.914942252 4.39172281 0.487969201 2.92781521 0.487969201 2.92781521 0.914942252 1.4639076 0.914942252 1.4639076 7.31953802 5.85563041 7.31953802 5.85563041 0.914942252"></polygon>
+                                </g>
+                                <g id="cellular" transform="translate(9.008662, 0.000000)">
+                                    <polygon id="bounds" points="0 0 7.80750722 0 7.80750722 7.80750722 0 7.80750722"></polygon>
+                                    <polygon id="Shape" fill="#FFFFFF" points="0 7.20692974 6.60635226 7.20692974 6.60635226 0.600577478"></polygon>
+                                </g>
+                                <g id="wifi" transform="translate(0.000000, 0.600577)">
+                                    <polygon id="bounds" points="0.900866218 0 8.10779596 0 8.10779596 7.20692974 0.900866218 7.20692974"></polygon>
+                                    <path d="M0.440240747,1.80890839 C1.57120937,0.956073019 2.97872096,0.450433109 4.50433109,0.450433109 C6.02994121,0.450433109 7.43745281,0.956073019 8.56842143,1.80890839 L4.50433109,6.75649663 L0.440240747,1.80890839 Z" id="Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 39.436959)">
+                            <g transform="translate(-0.000000, 0.000000)">
+                                <g id="Rectangle-Copy-2">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+                                </g>
+                                <g id="Group-6">
+                                    <rect id="Rectangle-2" x="0" y="0" width="225.216554" height="33.6323388"></rect>
+                                    <g id="Group-Copy" transform="translate(129.000000, 11.000000)">
+                                        <g id="Group-5-Copy" transform="translate(0.000000, -0.000000)" fill="#9B9B9B" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500">
+                                            <text id="Available-only">
+                                                <tspan x="0.39653513" y="9.53994225">Available only</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-5-Copy" transform="translate(67.000000, 1.000000)">
+                                            <g id="Buttons/toggle_off">
+                                                <g id="switch-copy-2">
+                                                    <rect id="Rectangle-13" fill="#C0C0C0" x="0" y="0" width="18" height="11" rx="5.5"></rect>
+                                                    <ellipse id="Oval-2" fill="#FFFFFF" cx="5.53846154" cy="5.5" rx="5.19230769" ry="5.15625"></ellipse>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-5" transform="translate(13.396535, 10.706449)" fill="#4A4A4A" font-family="AvenirNext-DemiBold, Avenir Next" font-size="9" font-weight="500" line-spacing="12.0115496">
+                                        <text id="Multi-select">
+                                            <tspan x="0" y="9">Multi-select</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-6" transform="translate(5.000000, 33.000000)">
+                                <g id="Group-7-Copy-2" transform="translate(0.396535, 0.539942)">
+                                    <rect id="Rectangle-5" x="0" y="0" width="218" height="27.904"></rect>
+                                    <text id="2017/9-(3-availiable" font-family="AvenirNext-Bold, Avenir Next" font-size="6.976" font-weight="bold" line-spacing="9.30133333" letter-spacing="0.634181863" fill="#000000" fill-opacity="0.56">
+                                        <tspan x="8.72" y="16.3013333">2017/9 (3 availiable)</tspan>
+                                    </text>
+                                    <g id="Icon/UI/Input_dropdown_dark" transform="translate(198.234667, 13.952000) scale(1, -1) translate(-198.234667, -13.952000) translate(191.258667, 6.976000)">
+                                        <path d="M6.952456,8.71985467 C6.83328267,8.71985467 6.71934133,8.67102267 6.635048,8.58498533 L3.619672,5.48706 C3.44410933,5.30684667 3.44410933,5.01501733 3.619672,4.834804 C3.79465333,4.65459067 4.07892533,4.65459067 4.254488,4.834804 L6.952456,7.60660133 L9.69809333,4.78539067 C9.87307467,4.60575867 10.1573467,4.60575867 10.3329093,4.78539067 C10.5078907,4.965604 10.5078907,5.25743333 10.3329093,5.43764667 L7.269864,8.58498533 C7.18557067,8.67102267 7.07162933,8.71985467 6.952456,8.71985467" id="Fill-1" fill-opacity="0.58" fill="#000000"></path>
+                                        <rect id="Bounds" fill="#FF0000" opacity="0" x="0" y="0" width="13.952" height="13.952"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Partner-Coupon-Manag" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="10.8103946" font-weight="normal" letter-spacing="-0.172966301">
+                            <tspan x="37.3965351" y="29.9769009" fill="#FFFFFF">Partner Coupon Management</tspan>
+                        </text>
+                        <g id="Group-10" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(205.396535, 22.976901)">
+                            <circle id="Oval" fill="#FFFFFF" cx="1" cy="1" r="1"></circle>
+                            <circle id="Oval-Copy" fill="#FFFFFF" cx="1" cy="4" r="1"></circle>
+                            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="1" cy="7" r="1"></circle>
+                        </g>
+                        <g id="Icons/chevron/close_light" fill="none" transform="translate(12.410972, 19.017324)">
+                            <rect id="Bounds" fill="#FF0000" fill-rule="evenodd" opacity="0" x="0" y="0" width="14.4138595" height="14.4138595"></rect>
+                            <path d="M3.45322564,3.53562 L10.9597244,11.0421187" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.45322564,11.0421187 L10.9597244,3.53562" id="Path-6" stroke="#FFFFFF" stroke-width="1.05101059" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <rect fill="#F7F7F7" mask="url(#mask-56)" x="-0.600577478" y="417.401347" width="216.80847" height="28.827719"></rect>
+                <g id="navigation-bar" mask="url(#mask-56)">
+                    <g transform="translate(28.428296, 424.809432)">
+                        <g id="recents-copy" transform="translate(145.138595, 1.000000)">
+                            <path d="M-1.75421484e-16,5.17640588 L-1.75421484e-16,3.97525093 L9.12237105,3.97525093 C10.0536892,3.97525093 10.8103946,3.21818536 10.8103946,2.2879142 L10.8103946,0 L12.0115496,0 L12.0115496,2.2879142 C12.0115496,3.88143702 10.7171967,5.17640588 9.12237105,5.17640588 L-1.75421484e-16,5.17640588 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <path d="M0.600577478,12.612127 L0.600577478,11.4109721 L9.72294853,11.4109721 C10.6542666,11.4109721 11.4109721,10.6539065 11.4109721,9.72363536 L11.4109721,7.43572116 L12.612127,7.43572116 L12.612127,9.72363536 C12.612127,11.3171582 11.3177742,12.612127 9.72294853,12.612127 L0.600577478,12.612127 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.606352, 10.023924) scale(-1, -1) translate(-6.606352, -10.023924) "></path>
+                        </g>
+                        <g id="home" transform="translate(73.069297, 1.000000)">
+                            <path d="M-2.22033919e-16,12.0401485 L-2.22033919e-16,10.8389935 L9.60970212,10.8389935 C10.6037502,10.8389935 11.4109721,10.0324392 11.4109721,9.04146207 L11.4109721,-3.53982543e-15 L12.612127,-3.53982543e-15 L12.612127,9.04146207 C12.612127,10.6960412 11.2669075,12.0401485 9.60970212,12.0401485 L-2.22033919e-16,12.0401485 Z" id="Path-1" fill="#D1D1CB" fill-rule="nonzero" transform="translate(6.306064, 6.020074) scale(-1, -1) translate(-6.306064, -6.020074) "></path>
+                            <path d="M3.01076705,11.4681699 L3.01076705,10.267015 L9.00381047,10.267015 C10.0002138,10.267015 10.8103946,9.45765017 10.8103946,8.46581409 L10.8103946,2.8625444 L12.0115496,2.8625444 L12.0115496,8.46581409 C12.0115496,10.1213008 10.6633226,11.4681699 9.00381047,11.4681699 L3.01076705,11.4681699 Z" id="Path-2" fill="#D1D1CB" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="back" transform="translate(-0.000000, 0.000000)">
+                            <path d="M11.8021137,5.54507053 L11.8186755,6.7461113 L2.83725575,6.86996038 C0.833778107,6.89758729 0.238104466,5.43876127 1.69817231,4.06584647 L5.41991792,0.566255906 L6.24274447,1.44131573 L2.52099886,4.94090629 C1.86141204,5.56112166 1.91055314,5.68146997 2.82069403,5.66891961 L11.8021137,5.54507053 Z" id="Path-3" fill="#D1D1CB" fill-rule="nonzero"></path>
+                            <polygon id="Path-3" fill="#D1D1CB" fill-rule="nonzero" transform="translate(3.428828, 10.161181) scale(-1, 1) translate(-3.428828, -10.161181) " points="2.04088256 12.3023297 1.21506092 11.4300959 4.81677327 8.02003323 5.64259491 8.89226705"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group-20" transform="translate(499.000000, 1643.000000)" font-size="14">
+            <text id="Push-message-inWeCha" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#787878">
+                <tspan x="0.031" y="14">Push message inWeChat OA</tspan>
+            </text>
+            <text id="(-WeChat-native-page-Copy" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal" fill="#9B9B9B">
+                <tspan x="19.085" y="41">( WeChat native page )</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-10" fill="#D8D8D8" x="470" y="1625" width="240" height="2"></rect>
+        <g id="3-copy-8" transform="translate(678.000000, 1323.000000)"></g>
+        <g id="3-copy-9" transform="translate(658.000000, 1032.000000)">
+            <path d="M0.862135922,0.228515625 L119.785156,0.228515625 C126.412573,0.228515625 131.785156,5.60109863 131.785156,12.2285156 L131.785156,291 C131.785156,297.627417 137.157739,303 143.785156,303 L302.828125,303 C309.455542,303 314.828125,297.627417 314.828125,291 L314.828125,260.989734" id="Line-5" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square" transform="translate(157.845130, 151.614258) scale(1, -1) translate(-157.845130, -151.614258) "></path>
+            <g id="Oval-14">
+                <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-67"></use>
+                <ellipse stroke="#636263" stroke-width="2" cx="314.809668" cy="47.8052805" rx="5.80966767" ry="5.80528053"></ellipse>
+            </g>
+        </g>
+        <path d="M649.756374,1844 L754,1844 C760.627417,1844 766,1838.62742 766,1832 L766,1403.88114 C766,1397.25372 760.627417,1391.88114 754,1391.88114 L618,1391.88114 C611.372583,1391.88114 606,1386.50856 606,1379.88114 L606,1335" id="Line-5" stroke="#C0C0C0" stroke-width="2" stroke-linecap="square" transform="translate(686.000000, 1589.500000) scale(1, -1) translate(-686.000000, -1589.500000) "></path>
+        <g id="Oval-14">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-68"></use>
+            <circle stroke="#636263" stroke-width="2" cx="643" cy="1335" r="6"></circle>
+        </g>
+        <g id="Oval-14">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-69"></use>
+            <circle stroke="#636263" stroke-width="2" cx="606.5" cy="1850.5" r="6.5"></circle>
+        </g>
+        <g id="wireframe-description" transform="translate(734.000000, 1273.000000)">
+            <g id="Rectangle-27">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-70"></use>
+                <rect stroke="#9B9B9B" stroke-width="1.5" x="0.75" y="0.75" width="108.5" height="36.5" rx="18.25"></rect>
+            </g>
+            <text id="Text" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#787878">
+                <tspan x="11.1588473" y="24">New received</tspan>
+            </text>
+        </g>
+        <g id="wireframe-description" transform="translate(726.000000, 1381.000000)">
+            <g id="Rectangle-27">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
+                <rect stroke="#9B9B9B" stroke-width="1.5" x="0.75" y="0.75" width="108.5" height="36.5" rx="18.25"></rect>
+            </g>
+            <text id="Text" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#787878">
+                <tspan x="28.5048473" y="24">Re-entry</tspan>
+            </text>
+        </g>
+        <g id="Group-22" transform="translate(855.000000, 2398.000000)">
+            <g id="Group" transform="translate(2.000000, 17.000000)">
+                <text id="•-Used--Redeemed-•-S" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" line-spacing="18" fill="#9B9B9B">
+                    <tspan x="0" y="66">	•  </tspan>
+                    <tspan x="23" y="66" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="500">Used</tspan>
+                    <tspan x="51.392" y="66">- Redeemed</tspan>
+                    <tspan x="0" y="84">	•  </tspan>
+                    <tspan x="23" y="84" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="500">Sending</tspan>
+                    <tspan x="69.152" y="84"> - Sent to friends but hasn‘t received yet</tspan>
+                    <tspan x="0" y="102">	•  </tspan>
+                    <tspan x="23" y="102" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="500">Sent</tspan>
+                    <tspan x="47.84" y="102"> - Friend received and accepted coupon </tspan>
+                    <tspan x="0" y="120">	•  </tspan>
+                    <tspan x="23" y="120" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="500">Expired </tspan>
+                    <tspan x="69.224" y="120">- Coupon valid date has been expired</tspan>
+                </text>
+                <text id="Coupon-tag-has-4-sta" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" line-spacing="18" fill="#9B9B9B">
+                    <tspan x="10" y="43">Coupon tag has 4 status:</tspan>
+                </text>
+                <g id="Group-11" transform="translate(10.000000, 0.000000)" fill="#787878" font-family="AvenirNext-Bold, Avenir Next" font-size="16" font-weight="bold">
+                    <text id="NOTE">
+                        <tspan x="0" y="16.6311475">NOTE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-19" fill="#D8D8D8">
+                <rect id="Rectangle-10" x="0" y="0" width="240" height="2"></rect>
+            </g>
+        </g>
+        <g id="wireframe-description" transform="translate(791.000000, 2472.000000)">
+            <g id="Rectangle-27">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-72"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="0.5" y="0.5" width="55" height="18" rx="9"></rect>
+            </g>
+            <text id="Text" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" fill="#787878">
+                <tspan x="19.765" y="13">Tag</tspan>
+            </text>
+        </g>
+        <g id="desc.-copy-2" transform="translate(819.000000, 2111.000000)" stroke="#9B9B9B">
+            <path d="M85,16 L8,16 C3.581722,16 -2.31743984e-15,19.581722 -1.77635684e-15,24 L-1.77635684e-15,361" id="Line" stroke-linecap="square"></path>
+            <circle id="Oval-14" cx="101" cy="16" r="15.5"></circle>
+        </g>
+        <g id="Group-22-Copy" transform="translate(856.000000, 1625.000000)">
+            <g id="Group" transform="translate(12.000000, 17.000000)">
+                <text id="Sort-”previous-month" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" line-spacing="18" fill="#9B9B9B">
+                    <tspan x="0" y="43">Sort ”previous months to present month”, </tspan>
+                    <tspan x="0" y="61">but showing the most recently received </tspan>
+                    <tspan x="0" y="79">coupons when enter the coupon list at </tspan>
+                    <tspan x="0" y="97">the first time.</tspan>
+                </text>
+                <g id="Group-11" fill="#787878" font-family="AvenirNext-Bold, Avenir Next" font-size="16" font-weight="bold">
+                    <text id="NOTE">
+                        <tspan x="0" y="16.6311475">NOTE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-19" fill="#D8D8D8">
+                <rect id="Rectangle-10" x="0" y="0" width="240" height="2"></rect>
+            </g>
+        </g>
+        <g id="Group-22-Copy-2" transform="translate(486.000000, 2398.000000)">
+            <g id="Group" transform="translate(12.000000, 17.000000)">
+                <text id="Sort-”previous-month" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" line-spacing="18" fill="#9B9B9B">
+                    <tspan x="0" y="43">Sort ”previous months to present month”, </tspan>
+                    <tspan x="0" y="61">coupons of oldest month will be </tspan>
+                    <tspan x="0" y="79">displayed when re-entry.</tspan>
+                </text>
+                <g id="Group-11" fill="#787878" font-family="AvenirNext-Bold, Avenir Next" font-size="16" font-weight="bold">
+                    <text id="NOTE">
+                        <tspan x="0" y="16.6311475">NOTE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-19" fill="#D8D8D8">
+                <rect id="Rectangle-10" x="0" y="0" width="240" height="2"></rect>
+            </g>
+        </g>
+        <g id="Oval-14">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-73"></use>
+            <circle stroke="#636263" stroke-width="2" cx="705" cy="1930" r="6"></circle>
+        </g>
+        <g id="Oval-14-Copy">
+            <use fill-opacity="0.54" fill="#767576" fill-rule="evenodd" xlink:href="#path-74"></use>
+            <circle stroke="#636263" stroke-width="2" cx="888" cy="2022" r="6"></circle>
+        </g>
+    </g>
+</svg>
