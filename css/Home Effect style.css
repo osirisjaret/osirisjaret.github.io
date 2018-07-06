@@ -63,6 +63,15 @@
     transition: box-shadow 0.25s ease-out,color .2s,background-color .15s easein--out;
 }
 
+.otherworkimg-style{
+	box-shadow:0px 0px 0px rgba(0,0,0,0.2);
+}
+.otherworkimg-style:hover{
+	box-shadow:0px 10px 20px rgba(0,0,0,0.2);
+	-webkit-transition: box-shadow 0.25s ease-out,color .2s,background-color .15s ease-in-out;
+    transition: box-shadow 0.25s ease-out,color .2s,background-color .15s easein--out;
+}
+
 /* = Lightbox
 -------------------------------------------------------------- */
 

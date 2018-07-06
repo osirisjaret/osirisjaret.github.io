@@ -7,6 +7,7 @@
 	opacity:.98;
 	position:fixed;
 	top:0;
+	padding:1px;
 	z-index:1000;
 	box-shadow:0 10px 30px rgba(117,117,117,.1);
 	transition: all .2s ease-out;
@@ -65,30 +66,3 @@
     transition: box-shadow 0.25s ease-out,color .2s,background-color .15s easein--out;
 }
 
-/* = Lightbox
--------------------------------------------------------------- */
-
-a[data-lightbox]{
-	position: relative;
-	display: block;
-	text-align: center;	
-}
-a[data-lightbox]:hover::before{
-	background:rgba(0,0,0,0);
-	color:rgba(0,0,0,0);
-	-webkit-transition: box-shadow 0.25s ease-out,transform 0.25s, ease-in-out;
-	transition: box-shadow 0.25s ease-out,transform 0.25s, ease-in-out;
-}
-
-a[data-lightbox] img{
-	-webkit-transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
-	transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
-}
-
-a[data-lightbox]:hover img{
-    opacity:1;
-	transform: translateY(-2%);
-	box-shadow:0 10px 20px rgba(0,0,0,.15);
-	-webkit-transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
-	transition: box-shadow 0.25s ease-out,transform 0.35s, ease-in-out;
-}

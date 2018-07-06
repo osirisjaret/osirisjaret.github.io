@@ -55,6 +55,7 @@ a:hover{text-decoration: none; cursor:pointer;}
 	padding-top:0;
 	position: relative;
 	height: inherit;
+	min-height:100vh;
 }
 .bloc-fill-screen > .container{
 	position:relative;
@@ -221,10 +222,10 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 72px;
 	line-height: 112.85714721679688px;
 }
-#recentwork h4{
+#showcase h4{
 	line-height: 26px;
 }
-#recentwork p{
+#showcase p{
 	font-size: 14px;
 }
 #bloc-4 h5{
@@ -365,6 +366,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 #bloc-22 h2{
 	font-family: Montserrat;
 	line-height: 26px;
+}
+#bloc-24 h1{
+	font-size: 72px;
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-25 div{
+	font-size: 24px;
 }
 #footer h5{
 	line-height: 25px;
@@ -568,20 +577,6 @@ button{
 }
 .text-center .a-btn{
 	padding: 6px 0;
-}
-.a-block{
-	width:100%;
-	text-align:left;
-}
-.text-center .a-block{
-	text-align:center;
-}
-.pull-right-block{
-	text-align:right;
-}
-.dropdown a .caret{
-	margin:0 0 0 5px}.btn-dropdown .dropdown-menu .dropdown{
-	padding: 3px 20px;
 }
 
 /* = Icons
@@ -831,6 +826,9 @@ tooltip-inner{
 .nextbtn:active{
 }
 .otherworkimg-style{
+	box-shadow:0px 0px 0px rgba(0,0,0,0.2);
+}
+.otherworkimg-style:hover{
 	box-shadow:0px 10px 20px rgba(0,0,0,0.2);
 }
 
@@ -887,6 +885,7 @@ tooltip-inner{
 
 
 
+
 /* = Mobile adjustments 
 -------------------------------------------------------------- */
 @media (max-width: 1024px)
@@ -915,8 +914,9 @@ tooltip-inner{
     .container{width:100%;}
     .b-parallax{background-attachment:scroll;}
     .page-container, #hero-bloc{overflow-x: hidden;position: relative;} /* Prevent unwanted side scroll on mobile */
+    .bloc{padding-left: constant(safe-area-inset-left);padding-right: constant(safe-area-inset-right);} /* iPhone X Notch Support*/
     .bloc-group, .bloc-group .bloc{display:block;width:100%;}
-    .bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container{padding-left: 10px;padding-right: 10px;}
+    .bloc-fill-screen .fill-bloc-top-edge, .bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;padding-left: constant(safe-area-inset-left);padding-right: constant(safe-area-inset-right);}
 }
 @media (max-width: 767px)
 {
@@ -927,15 +927,6 @@ tooltip-inner{
     h1,h2,h3,h4,h5,h6,p,#disqus_thread{
         padding-left:10px!important; 
         padding-right:10px!important; 
-    }
-    #hero-bloc h1{
-        font-size:40px;
-    }
-    #hero-bloc h2{
-        font-size:34px;
-    }
-    #hero-bloc h3{
-        font-size:25px;
     }
     .b-parallax{
         background-attachment:scroll;
@@ -1004,6 +995,7 @@ tooltip-inner{
     }
     .nav-invert .navbar-toggle{
         float:left; 
+        margin-left:10px;
     }
     .bloc{
         padding-left: 0; 
@@ -1016,7 +1008,7 @@ tooltip-inner{
         padding-left: 0; 
         padding-right: 0;
     }
-    .bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container{
+    .bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container, .bloc-fill-screen .fill-bloc-top-edge, .bloc-fill-screen .fill-bloc-bottom-edge{
         padding-left:0;padding-right:0;
     }
     .a-block{
@@ -1059,10 +1051,65 @@ tooltip-inner{
 {    
     .bloc{
         padding-left: 0; 
-        padding-right: 0;  
-        -webkit-background-size: auto 200%;
-        -moz-background-size: auto 200%;
-        -o-background-size: auto 200%;
-        background-size: auto 200%;
+        padding-right: 0;
     }
 }
+
+@media (max-width: 991px){
+	 div[class^="col-"], div[class*=" col-"]{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.full-width-bloc div[class^="col-"], .full-width-bloc div[class*=" col-"]{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+}
+/* Drop Down Navigation */
+@media (min-width: 767px) and (max-width: 991px){
+	
+.mini-nav .special-dropdown-nav .site-navigation{
+	display: block;
+	position: absolute;
+	top: 80%;
+	z-index: 1000;
+	float: left;
+	min-width: 160px;
+	padding: 5px 0;
+	margin: 2px 0 0;
+	font-size: 14px;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0,0,0,.15);
+	border-radius: 4px;
+	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+	box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+.mini-nav .special-dropdown-nav .site-navigation li{
+	width:100%;
+}
+.special-dropdown-nav.collapsing{
+	transition: height 0.001s;
+}
+.mini-nav .special-dropdown-nav .site-navigation li a{
+	color: rgba(0,0,0,.6)!important;
+}
+ }
+@media (max-width: 767px){
+	 
+/* Mobile Text Margin Offsets */
+.mg-md-xs{
+	margin-top:10px;
+	 margin-bottom:20px;
+}
+/* = Text Mobile Alignment Classes
+-------------------------------------------------------------- */
+.text-center-xs{
+	text-align:center;
+}
+}
+

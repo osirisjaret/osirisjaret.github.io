@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 271 + Group Copy 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="68.7777014%" y1="82.3771694%" x2="25.8788689%" y2="15.9894539%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.441661005" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-2.0%" y="-2.0%" width="103.9%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#F6F6F6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.5227896,0 L92.5771317,0 C95.2673147,-4.94178603e-16 97.4889031,2.10159248 97.6381276,4.78763356 L102.802701,97.7499549 C102.957985,100.545066 100.817982,102.936833 98.0228716,103.092117 C97.9292397,103.097319 97.8354814,103.099921 97.7417051,103.099921 L5.3582162,103.099921 C2.55879526,103.099921 0.289416196,100.830542 0.289416196,98.0311213 C0.289416196,97.937345 0.292018585,97.8435868 0.297220358,97.7499549 L5.46179376,4.78763356 C5.61101827,2.10159248 7.83260659,4.94178603e-16 10.5227896,0 Z" id="path-4"></path>
+        <filter x="-25.3%" y="-17.5%" width="150.7%" height="150.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.399075255   0 0 0 0 0.399075255   0 0 0 0 0.399075255  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="78.1449298%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#EAEAEA" offset="0%"></stop>
+            <stop stop-color="#C0C0C0" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-7" font-family="ChunkFive" font-size="23.0774634" font-weight="normal" fill="#5E5E5E">
+            <tspan x="4.98870587" y="23.6516078">NEWS </tspan>
+        </text>
+        <filter x="-1.9%" y="-6.5%" width="103.8%" height="126.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-271-+-Group-Copy-13" transform="translate(3.000000, 3.000000)">
+            <g id="Path-461" fill="url(#linearGradient-1)" opacity="0.54">
+                <polygon filter="url(#filter-2)" points="32.4953835 130.945313 57.0458097 185.01527 185.5625 175.01527 131.981268 32.1424006"></polygon>
+            </g>
+            <g id="Group-Copy-2" transform="translate(31.000000, 31.000000)">
+                <g id="Rectangle-238-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <path d="M5.3582162,0 L97.7417051,8.8817842e-16 C100.541126,3.73933136e-16 102.810505,2.26937906 102.810505,5.0688 C102.810505,5.16257629 102.807903,5.25633453 102.802701,5.34996644 L100.236035,51.5499607 L2.8638867,51.5499607 L0.297220358,5.34996644 C0.141936423,2.55485561 2.28193894,0.163088096 5.07704976,0.00780416167 C5.17068167,0.00260238891 5.2644399,9.05404845e-16 5.3582162,8.8817842e-16 Z" id="Rectangle-238-Copy-2" fill="url(#linearGradient-6)"></path>
+                <rect id="Rectangle-239" fill="#C30940" x="5.89142408" y="30.9299764" width="41.2399685" height="20.6199843"></rect>
+                <rect id="Rectangle-239-Copy-4" fill="#FA2A68" x="5.89142408" y="51.5499607" width="41.2399685" height="20.6199843"></rect>
+                <rect id="Rectangle-239-Copy" fill="#D3D3D3" opacity="0.888059701" x="5.89142408" y="76.588513" width="91.3170732" height="10.3099921"></rect>
+                <rect id="Rectangle-239-Copy-5" fill="#E2E2E2" x="5.89142408" y="89.8442172" width="66.2785208" height="5.89142408"></rect>
+                <rect id="Rectangle-239-Copy-2" fill="#B3B3B3" x="51.5499607" y="31.5027537" width="45.8221873" height="5.72777341"></rect>
+                <rect id="Rectangle-239-Copy-3" fill="#797979" opacity="0.41275653" x="51.5499607" y="42.7128245" width="45.6585366" height="29.4571204"></rect>
+                <text id="7-" opacity="0.54" font-family="ChunkFive" font-size="38.9432195" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="14.9661176" y="66.1381437">7 </tspan>
+                </text>
+                <g id="NEWS-" fill="#5E5E5E" fill-opacity="1">
+                    <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                    <use xlink:href="#text-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
